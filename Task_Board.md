@@ -14,6 +14,9 @@ kanban-plugin: board
 - [ ] [[Portfolio_Update_Slider]]
 - [ ] [[Blog_GitHub_Actions_Build_Hugo]]
 - [ ] [[Portfolio_Blog_&_Meetup_Section]]
+- [ ] [[pokegold_new_starter]]
+- [ ] [[mtg_continue_login]]
+- [ ] [[cds_testing]]
 
 
 ## TODO

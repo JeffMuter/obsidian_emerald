@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d8dd4102c868916c",
+        "id": "5de542d427169c56",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b70278b5acd5d0",
+            "id": "cdd38ef38b510784",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task_Board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,13 +147,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9b70278b5acd5d0",
+  "active": "cdd38ef38b510784",
   "lastOpenFiles": [
-    "Tasks/Portfolio_Blog_&_Meetup_Section.md",
+    "cds_testing.md",
     "Task_Board.md",
+    "Tasks/Portfolio_Blog_&_Meetup_Section.md",
+    "mtg_continue_login.md",
+    "Tasks/pokegold_new_starter.md",
+    "Projects/pokegold_mod.md",
+    "Projects/mtg_finance.md",
+    "Projects/saorsadev_blog.md",
+    "go.md",
     "Tasks/Portfolio_Update_Projects.md",
     "Tasks/Portfolio_Update_Slider.md",
-    "Projects/CDS Web Server.md",
+    "Projects/cds_web_server.md",
     "Tasks/CDS_Rework.md",
     "Tasks/Blog_GitHub_Actions_Build_Hugo.md",
     "Untitled",
