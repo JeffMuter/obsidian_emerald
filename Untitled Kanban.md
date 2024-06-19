@@ -15,6 +15,7 @@ kanban-plugin: board
 ## ACTIVE
 
 - [ ] [[Location_Ads]]
+- [ ] [[CDS_Rework]]
 
 
 ## HOLD
