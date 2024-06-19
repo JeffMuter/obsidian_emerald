@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d43c3c7cfcca230",
+        "id": "d8dd4102c868916c",
         "type": "tabs",
         "children": [
           {
-            "id": "31f2a49031ca9d5f",
+            "id": "c9b70278b5acd5d0",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Task_Board.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,24 +24,6 @@
                     false
                   ]
                 }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a91e557a8ac92129",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "17de8255a413a1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CDS_Rework.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDS_Rework.md",
+                "file": "Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CDS_Rework.md",
+                "file": "Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CDS_Rework.md"
+                "file": "Task_Board.md"
               }
             }
           },
@@ -181,13 +163,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "17de8255a413a1c4",
+  "active": "c9b70278b5acd5d0",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "CDS_Rework.md",
-    "Location_Ads.md",
-    "CDS Web Server.md",
+    "Tasks/Portfolio_Blog_&_Meetup_Section.md",
+    "Task_Board.md",
+    "Tasks/Portfolio_Update_Projects.md",
+    "Tasks/Portfolio_Update_Slider.md",
     "Projects/CDS Web Server.md",
+    "Tasks/CDS_Rework.md",
+    "Tasks/Blog_GitHub_Actions_Build_Hugo.md",
+    "Untitled",
+    "Tasks/Location_Ads.md",
+    "Tasks/CDS Web Server.md",
     "Tasks",
     "Projects",
     "Welcome.md"
