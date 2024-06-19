@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5de542d427169c56",
+        "id": "3a06ab163d040eba",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd38ef38b510784",
+            "id": "6577c77ea35cd50b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cloud_nirvana_conference.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cloud_nirvana_conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cloud_nirvana_conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cloud_nirvana_conference.md"
+              }
             }
           },
           {
@@ -147,26 +155,31 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cdd38ef38b510784",
+  "active": "6577c77ea35cd50b",
   "lastOpenFiles": [
-    "cds_testing.md",
-    "Task_Board.md",
-    "Tasks/Portfolio_Blog_&_Meetup_Section.md",
-    "mtg_continue_login.md",
-    "Tasks/pokegold_new_starter.md",
+    "TASK/Task_Board.md",
+    "cloud_nirvana_conference.md",
+    "wass_beneleaves.md",
+    "TASK/Tasks/pokegold_adjust_route_encounters.md",
+    "TASK",
+    "TASK/Tasks/Portfolio_Update_Projects.md",
+    "TASK/Tasks/CDS_Rework.md",
+    "Projects/saorsadev_blog.md",
     "Projects/pokegold_mod.md",
     "Projects/mtg_finance.md",
-    "Projects/saorsadev_blog.md",
-    "go.md",
-    "Tasks/Portfolio_Update_Projects.md",
-    "Tasks/Portfolio_Update_Slider.md",
     "Projects/cds_web_server.md",
-    "Tasks/CDS_Rework.md",
-    "Tasks/Blog_GitHub_Actions_Build_Hugo.md",
-    "Untitled",
-    "Tasks/Location_Ads.md",
-    "Tasks/CDS Web Server.md",
-    "Tasks",
+    "ipinfo.md",
+    "TASK/Tasks/Location_Ads.md",
+    "TASK/Tasks/wass_homepage_geo_banner.md",
+    "cds_testing.md",
+    "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
+    "mtg_continue_login.md",
+    "TASK/Tasks/pokegold_new_starter.md",
+    "go.md",
+    "TASK/Tasks/Portfolio_Update_Slider.md",
+    "TASK/Tasks/Blog_GitHub_Actions_Build_Hugo.md",
+    "TASK/Tasks/CDS Web Server.md",
+    "TASK/Tasks",
     "Projects",
     "Welcome.md"
   ]

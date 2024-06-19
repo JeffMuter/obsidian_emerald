@@ -1,0 +1,6 @@
+- [ ] get text from heath
+- [ ] waiting on images
+- [ ] send to eric
+- [ ] review
+- [ ] create stage env
+- [ ] move code to stage

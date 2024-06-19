@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] [[pokegold_new_starter]]
 - [ ] [[mtg_continue_login]]
 - [ ] [[cds_testing]]
+- [ ] [[pokegold_adjust_route_encounters]]
 
 
 ## TODO
@@ -31,6 +32,7 @@ kanban-plugin: board
 
 ## HOLD
 
+- [ ] [[wass_beneleaves]]
 
 
 ## COMPLETE
@@ -41,6 +43,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"Tasks"}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true],"new-note-folder":"Tasks"}
 ```
 %%

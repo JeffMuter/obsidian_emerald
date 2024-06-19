@@ -9,3 +9,4 @@ Only displays on the Wasserstrom.com/ homepage.
 
 ipinfo documentation:
 https://ipinfo.io/developers
+[[ipinfo]]
