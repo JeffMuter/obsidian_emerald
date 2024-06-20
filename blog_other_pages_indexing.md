@@ -1,0 +1,1 @@
+in google search, I can only get the blog homepage to show up... Need the blogs to show up when you get close to the search terms... I want to try and be competing with other articles at least.

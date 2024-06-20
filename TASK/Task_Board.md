@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## BACKLOG
 
-- [ ] Blog_Add_Catagories
-- [ ] Blog_Add_Post_Comments
 - [ ] Blog_Add_Socials
 - [ ] Blog_AddContactForm
 - [ ] [[Portfolio_Update_Projects]]
@@ -22,6 +20,14 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Blog_Add_Post_Comments
+- [ ] Blog_Add_Catagories
+- [ ] [[blog_other_pages_indexing]]
+
+
+## COMPLETE
+
+- [ ] [[blog_google_search_dns]]
 
 
 ## ACTIVE
@@ -35,14 +41,10 @@ kanban-plugin: board
 - [ ] [[wass_beneleaves]]
 
 
-## COMPLETE
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,true],"new-note-folder":"Tasks"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"Tasks"}
 ```
 %%
