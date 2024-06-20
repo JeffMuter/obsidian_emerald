@@ -24,3 +24,14 @@ Menus:
 Ideas:
 can we have the user ping via text over phones?
 should we allow the user to use phone-based terminals to play? 
+take real images, and have a program turn the image into ascii.
+
+We could do 1 char / .5mile. That way each node is a reasonable distance away visually. 
+
+## Visuals
+
+what can the user see?
+simple commands on the bottom.
+location of workers.
+nodes
+unique [[landmarks]]
