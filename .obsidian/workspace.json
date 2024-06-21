@@ -11,11 +11,14 @@
             "id": "6088a7b8cb8c8832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LinkedIn_post_DORA.md",
-                "mode": "source",
-                "source": false
+                "file": "prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": -140.44695332762237,
+                  "y": 337.5800033284165,
+                  "zoom": -1.2900208377838216
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn_post_DORA.md",
+                "file": "prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn_post_DORA.md",
+                "file": "prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn_post_DORA.md"
+                "file": "prism_rdb_canvas.canvas"
               }
             }
           },
@@ -157,8 +160,10 @@
   },
   "active": "6088a7b8cb8c8832",
   "lastOpenFiles": [
-    "TASK/Task_Board.md",
+    "worker.md",
+    "prism_rdb_canvas.canvas",
     "LinkedIn_post_DORA.md",
+    "TASK/Task_Board.md",
     "Meetup_Sessionize_yearly.md",
     "landmarks.md",
     "Projects/prism.md",
@@ -182,8 +187,6 @@
     "TASK/Tasks/wass_homepage_geo_banner.md",
     "cds_testing.md",
     "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
-    "mtg_continue_login.md",
-    "TASK/Tasks/pokegold_new_starter.md",
     "TASK/Tasks",
     "Projects"
   ]

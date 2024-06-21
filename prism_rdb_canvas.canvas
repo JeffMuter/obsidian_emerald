@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8fba41fa4dc098c0","type":"text","text":"USER_OBJECT\nid\nuser_id\nobject_id","x":-340,"y":7,"width":160,"height":93},
+		{"id":"ea833156b5484c9f","type":"text","text":"OBJECT\nid          UNIQUE\nuser_id     UNIQUE\nobject_id   UNIQUE\nobject_type VARCHAR(50)","x":-390,"y":220,"width":260,"height":180},
+		{"id":"f2c29c1238f21203","type":"text","text":"USER\n\nid\nemail\nname","x":-385,"y":-200,"width":250,"height":120,"color":"5"},
+		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\n\nid SERIAL \nname TEXT\nreligion TEXT\nage (young / mature / elder)\nwork_status BOOL\nlongitude\nlatitude\nart","x":-429,"y":580,"width":338,"height":200},
+		{"id":"dac36c488b65b997","x":-720,"y":580,"width":250,"height":156,"type":"text","text":"LANDMARK\nid\nname\nlongitude\nlatitude\ndescription TEXT\nart"},
+		{"id":"c18d4b0871ebf321","x":-40,"y":580,"width":250,"height":156,"type":"text","text":"BUILDING\nid\nname\nlongitude\nlatitude\nart"}
+	],
+	"edges":[
+		{"id":"561d248a8cffcba6","fromNode":"f2c29c1238f21203","fromSide":"bottom","toNode":"8fba41fa4dc098c0","toSide":"top"},
+		{"id":"0bbdbd825d0ee9cf","fromNode":"8fba41fa4dc098c0","fromSide":"bottom","toNode":"ea833156b5484c9f","toSide":"top"},
+		{"id":"0d1b9bd2ea550542","fromNode":"cded3687ffe9d80c","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"},
+		{"id":"eb131fc585b5592c","fromNode":"dac36c488b65b997","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"},
+		{"id":"9a6e4a5d35011db0","fromNode":"c18d4b0871ebf321","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"}
+	]
+}
