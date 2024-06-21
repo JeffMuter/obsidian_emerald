@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"8fba41fa4dc098c0","type":"text","text":"USER_OBJECT\nid\nuser_id\nobject_id","x":-340,"y":7,"width":160,"height":93},
-		{"id":"ea833156b5484c9f","type":"text","text":"OBJECT\nid          UNIQUE\nuser_id     UNIQUE\nobject_id   UNIQUE\nobject_type VARCHAR(50)","x":-390,"y":220,"width":260,"height":180},
-		{"id":"f2c29c1238f21203","type":"text","text":"USER\n\nid\nemail\nname","x":-385,"y":-200,"width":250,"height":120,"color":"5"},
-		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\n\nid SERIAL \nname TEXT\nreligion TEXT\nage (young / mature / elder)\nwork_status BOOL\nlongitude\nlatitude\nart","x":-429,"y":580,"width":338,"height":200},
-		{"id":"dac36c488b65b997","x":-720,"y":580,"width":250,"height":156,"type":"text","text":"LANDMARK\nid\nname\nlongitude\nlatitude\ndescription TEXT\nart"},
-		{"id":"c18d4b0871ebf321","x":-40,"y":580,"width":250,"height":156,"type":"text","text":"BUILDING\nid\nname\nlongitude\nlatitude\nart"}
+		{"id":"ea833156b5484c9f","type":"text","text":"OBJECT\nid          UNIQUE\nuser_id\nobject_id   UNIQUE\nobject_type VARCHAR(50)\nlongitude\nlatitude\nname\ndescription","x":-390,"y":160,"width":260,"height":220},
+		{"id":"8fba41fa4dc098c0","type":"text","text":"USER_OBJECT\nid\nuser_id\nobject_id","x":-340,"y":0,"width":160,"height":93},
+		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\nid SERIAL PRIMARY KEY,\nreligion TEXT\nage INTEGER\nwork_status BOOLEAN\n\n\n","x":-374,"y":558,"width":244,"height":200},
+		{"id":"c18d4b0871ebf321","type":"text","text":"[[BUILDING]]\nid SERIAL PRIMARY KEY","x":-40,"y":558,"width":250,"height":156},
+		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid\n","x":-720,"y":558,"width":250,"height":156},
+		{"id":"f2c29c1238f21203","type":"text","text":"USER\nid\nemail\nname\npassword","x":-322,"y":-200,"width":125,"height":120,"color":"5"}
 	],
 	"edges":[
 		{"id":"561d248a8cffcba6","fromNode":"f2c29c1238f21203","fromSide":"bottom","toNode":"8fba41fa4dc098c0","toSide":"top"},

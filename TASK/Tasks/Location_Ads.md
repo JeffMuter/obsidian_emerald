@@ -10,3 +10,19 @@ Only displays on the Wasserstrom.com/ homepage.
 ipinfo documentation:
 https://ipinfo.io/developers
 [[ipinfo]]
+
+
+PSEUDOCODE:
+
+onLoad: 
+
+function to get the user's location. return data object.
+
+conditional to check data.region == AZ
+if true, call makeAZBannerVisible
+
+function makeAZBannerVisible
+this function will remove the 
+.AZBanner {
+	display: none; css property from the banner.
+}

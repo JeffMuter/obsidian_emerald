@@ -11,14 +11,11 @@
             "id": "6088a7b8cb8c8832",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": -140.44695332762237,
-                  "y": 337.5800033284165,
-                  "zoom": -1.2900208377838216
-                }
+                "file": "Projects/Prism/worker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prism_rdb_canvas.canvas",
+                "file": "Projects/Prism/worker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prism_rdb_canvas.canvas",
+                "file": "Projects/Prism/worker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prism_rdb_canvas.canvas"
+                "file": "Projects/Prism/worker.md"
               }
             }
           },
@@ -160,17 +157,20 @@
   },
   "active": "6088a7b8cb8c8832",
   "lastOpenFiles": [
-    "worker.md",
     "prism_rdb_canvas.canvas",
-    "LinkedIn_post_DORA.md",
+    "Projects/Prism/BUILDING.md",
+    "Projects/Prism/prism.md",
+    "Projects/Prism",
+    "Pasted image 20240621152540.png",
+    "TASK/Tasks/Location_Ads.md",
     "TASK/Task_Board.md",
+    "Projects/Prism/worker.md",
+    "LinkedIn_post_DORA.md",
     "Meetup_Sessionize_yearly.md",
-    "landmarks.md",
-    "Projects/prism.md",
+    "Projects/Prism/landmarks.md",
     "DORA_presentation.md",
     "secret.md",
     "TASK/Tasks/CDS_Rework.md",
-    "TASK/Tasks/Location_Ads.md",
     "Projects/saorsadev_blog.md",
     "blog_other_pages_indexing.md",
     "blog_google_search_dns.md",
@@ -186,7 +186,6 @@
     "ipinfo.md",
     "TASK/Tasks/wass_homepage_geo_banner.md",
     "cds_testing.md",
-    "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
     "TASK/Tasks",
     "Projects"
   ]
