@@ -28,6 +28,7 @@ kanban-plugin: board
 ## COMPLETE
 
 - [ ] [[blog_google_search_dns]]
+- [ ] [[Meetup_Sessionize_yearly]]
 
 
 ## ACTIVE

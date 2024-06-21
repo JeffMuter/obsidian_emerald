@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "landmarks.md",
+                "file": "LinkedIn_post_DORA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "landmarks.md",
+                "file": "LinkedIn_post_DORA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "landmarks.md",
+                "file": "LinkedIn_post_DORA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "landmarks.md"
+                "file": "LinkedIn_post_DORA.md"
               }
             }
           },
@@ -157,12 +157,14 @@
   },
   "active": "6088a7b8cb8c8832",
   "lastOpenFiles": [
-    "Projects/prism.md",
+    "TASK/Task_Board.md",
+    "LinkedIn_post_DORA.md",
+    "Meetup_Sessionize_yearly.md",
     "landmarks.md",
+    "Projects/prism.md",
     "DORA_presentation.md",
     "secret.md",
     "TASK/Tasks/CDS_Rework.md",
-    "TASK/Task_Board.md",
     "TASK/Tasks/Location_Ads.md",
     "Projects/saorsadev_blog.md",
     "blog_other_pages_indexing.md",
@@ -182,8 +184,6 @@
     "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
     "mtg_continue_login.md",
     "TASK/Tasks/pokegold_new_starter.md",
-    "go.md",
-    "TASK/Tasks/Portfolio_Update_Slider.md",
     "TASK/Tasks",
     "Projects"
   ]
