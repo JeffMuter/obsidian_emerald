@@ -11,11 +11,14 @@
             "id": "6088a7b8cb8c8832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "EVENTS.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": -188,
+                  "y": 239.5,
+                  "zoom": -0.4427177450760277
+                }
               }
             }
           },
@@ -23,9 +26,11 @@
             "id": "86224cc899f2726b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md"
+                "file": "TASK/Tasks/pokegold_adjust_route_encounters.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,13 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USER_OBJECT.md",
+                "file": "prism_nearby_objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EVENTS.md",
+                "file": "prism_nearby_objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EVENTS.md",
+                "file": "prism_nearby_objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EVENTS.md"
+                "file": "prism_nearby_objects.md"
               }
             }
           },
@@ -178,16 +184,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6088a7b8cb8c8832",
+  "active": "bcb2b3d99b5d1d99",
   "lastOpenFiles": [
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "EVENTS.md",
+    "TASK/Task_Board.md",
+    "prism_nearby_objects.md",
     "USER_OBJECT.md",
+    "TASK/Tasks/pokegold_adjust_route_encounters.md",
     "Projects/Prism/prism_draw_notes_on_long&lat.md",
+    "Projects/Prism/ProjectStructure.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "golang_companies.md",
+    "EVENTS.md",
     "Projects/Prism/prism.md",
     "Projects/Prism/worker.md",
     "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
-    "Projects/Prism/ProjectStructure.md",
     "Projects/Prism/landmarks.md",
     "Projects/Prism/BUILDING.md",
     "Untitled.md",
@@ -195,7 +205,6 @@
     "Pasted image 20240621152540.png",
     "Projects/Prism",
     "TASK/Tasks/Location_Ads.md",
-    "TASK/Task_Board.md",
     "LinkedIn_post_DORA.md",
     "Meetup_Sessionize_yearly.md",
     "DORA_presentation.md",
@@ -204,10 +213,8 @@
     "Projects/saorsadev_blog.md",
     "blog_other_pages_indexing.md",
     "blog_google_search_dns.md",
-    "golang_companies.md",
     "cloud_nirvana_conference.md",
     "wass_beneleaves.md",
-    "TASK/Tasks/pokegold_adjust_route_encounters.md",
     "TASK",
     "TASK/Tasks/Portfolio_Update_Projects.md",
     "TASK/Tasks",

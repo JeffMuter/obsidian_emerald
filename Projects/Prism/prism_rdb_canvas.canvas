@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"ea833156b5484c9f","type":"text","text":"OBJECT\nid          UNIQUE\nuser_id\nobject_id   UNIQUE\nobject_type VARCHAR(50)\nlongitude\nlatitude\nname\ndescription","x":-390,"y":160,"width":260,"height":200},
+		{"id":"ea833156b5484c9f","type":"text","text":"OBJECT\nid          SERIAL PK\nuser_id     INTEGER FK\nobject_id   INTEGER FK\nobject_type VARCHAR(50)\nlongitude   INTEGER\nlatitude    INTEGER\nname        TEXT\ndescription TEXT\nart         TEXT","x":-390,"y":160,"width":260,"height":220},
 		{"id":"8fba41fa4dc098c0","type":"text","text":"[[USER_OBJECT]]\nid\nuser_id\nobject_id","x":-340,"y":0,"width":160,"height":93},
 		{"id":"c18d4b0871ebf321","type":"text","text":"[[BUILDING]]\nid SERIAL PRIMARY KEY","x":-40,"y":558,"width":250,"height":62},
 		{"id":"f2c29c1238f21203","type":"text","text":"USER\nid\nemail\nname\npassword","x":-322,"y":-200,"width":125,"height":120,"color":"5"},
 		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\nid SERIAL PRIMARY KEY,\nreligion TEXT\nage INTEGER\nwork_status BOOLEAN\ncreated_at\n\n\n","x":-382,"y":558,"width":244,"height":142},
-		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid\n","x":-620,"y":557,"width":140,"height":62},
 		{"id":"1cad409eed4de55d","type":"text","text":"TIMELOG\nid\nentity_id\nentity_type\nlatitude\nlongitude\ntime","x":120,"y":-221,"width":164,"height":162},
-		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":-760,"y":160,"width":155,"height":200}
+		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid INTEGER PK\n","x":-660,"y":558,"width":180,"height":62},
+		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":125,"y":0,"width":155,"height":200}
 	],
 	"edges":[
 		{"id":"561d248a8cffcba6","fromNode":"f2c29c1238f21203","fromSide":"bottom","toNode":"8fba41fa4dc098c0","toSide":"top"},

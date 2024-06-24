@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] [[mtg_continue_login]]
 - [ ] [[cds_testing]]
 - [ ] [[pokegold_adjust_route_encounters]]
+- [ ] [[prism_nearby_objects]]
 
 
 ## TODO
