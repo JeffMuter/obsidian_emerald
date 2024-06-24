@@ -11,14 +11,11 @@
             "id": "6088a7b8cb8c8832",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": -261.78125876021426,
-                  "y": 349.4287079626921,
-                  "zoom": -0.40000000000000013
-                }
+                "file": "EVENTS.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -36,14 +33,15 @@
             "id": "bcb2b3d99b5d1d99",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md"
+                "file": "USER_OBJECT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+                "file": "EVENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+                "file": "EVENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md"
+                "file": "EVENTS.md"
               }
             }
           },
@@ -180,23 +178,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcb2b3d99b5d1d99",
+  "active": "6088a7b8cb8c8832",
   "lastOpenFiles": [
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "EVENTS.md",
+    "USER_OBJECT.md",
     "Projects/Prism/prism_draw_notes_on_long&lat.md",
+    "Projects/Prism/prism.md",
+    "Projects/Prism/worker.md",
     "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+    "Projects/Prism/ProjectStructure.md",
+    "Projects/Prism/landmarks.md",
+    "Projects/Prism/BUILDING.md",
     "Untitled.md",
     "Excalidraw",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "Projects/Prism/worker.md",
     "Pasted image 20240621152540.png",
-    "Projects/Prism/BUILDING.md",
-    "Projects/Prism/prism.md",
     "Projects/Prism",
     "TASK/Tasks/Location_Ads.md",
     "TASK/Task_Board.md",
     "LinkedIn_post_DORA.md",
     "Meetup_Sessionize_yearly.md",
-    "Projects/Prism/landmarks.md",
     "DORA_presentation.md",
     "secret.md",
     "TASK/Tasks/CDS_Rework.md",
@@ -209,10 +210,6 @@
     "TASK/Tasks/pokegold_adjust_route_encounters.md",
     "TASK",
     "TASK/Tasks/Portfolio_Update_Projects.md",
-    "Projects/pokegold_mod.md",
-    "Projects/mtg_finance.md",
-    "Projects/cds_web_server.md",
-    "ipinfo.md",
     "TASK/Tasks",
     "Projects"
   ]

@@ -6,6 +6,9 @@ TODO:
 - [ ] button to submit your long/lat, saves to db
 - [x] create the db
 - [ ] create location table
+- [ ] make func([]art) []art {} to order objects before placing them on the screen
+- [ ] add tables to db
+- [ ] determine way to get objects to show from db
 
 we want to be able to 'ping' our location to a db. long, lat.
 
