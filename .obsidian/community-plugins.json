@@ -1,7 +1,7 @@
 [
   "obsidian-kanban",
   "calendar",
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "waypoint"
+  "waypoint",
+  "obsidian-git"
 ]
