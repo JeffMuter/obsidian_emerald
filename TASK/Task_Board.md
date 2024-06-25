@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] [[mtg_continue_login]]
 - [ ] [[cds_testing]]
 - [ ] [[pokegold_adjust_route_encounters]]
-- [ ] [[prism_nearby_objects]]
 
 
 ## TODO
@@ -28,6 +27,7 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[prism_nearby_objects]]
 - [ ] [[blog_google_search_dns]]
 - [ ] [[Meetup_Sessionize_yearly]]
 
@@ -36,6 +36,7 @@ kanban-plugin: board
 
 - [ ] [[Location_Ads]]
 - [ ] [[CDS_Rework]]
+- [ ] [[prism_screen_paint_adjust]]
 
 
 ## HOLD
@@ -47,6 +48,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,true],"new-note-folder":"Tasks"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true],"new-note-folder":"Tasks"}
 ```
 %%
