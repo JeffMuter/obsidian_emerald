@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Prism/worker.md",
+                "file": "Projects/Prism/geolocating_user.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/worker.md",
+                "file": "Projects/Prism/geolocating_user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/worker.md",
+                "file": "Projects/Prism/geolocating_user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/worker.md"
+                "file": "Projects/Prism/geolocating_user.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "6088a7b8cb8c8832",
   "lastOpenFiles": [
-    "prism_nearby_objects.md",
+    "secret.md",
+    "Projects/Prism/geolocating_user.md",
     "Untitled.md",
+    "Projects/Prism/worker.md",
+    "prism_nearby_objects.md",
     "USER_OBJECT.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Projects/Prism/prism_draw_notes_on_long&lat.md",
@@ -172,12 +175,10 @@
     "Pasted image 20240621152540.png",
     "TASK/Tasks/Location_Ads.md",
     "TASK/Task_Board.md",
-    "Projects/Prism/worker.md",
     "LinkedIn_post_DORA.md",
     "Meetup_Sessionize_yearly.md",
     "Projects/Prism/landmarks.md",
     "DORA_presentation.md",
-    "secret.md",
     "TASK/Tasks/CDS_Rework.md",
     "Projects/saorsadev_blog.md",
     "blog_other_pages_indexing.md",
@@ -187,7 +188,6 @@
     "wass_beneleaves.md",
     "TASK/Tasks/pokegold_adjust_route_encounters.md",
     "TASK",
-    "TASK/Tasks/Portfolio_Update_Projects.md",
     "TASK/Tasks",
     "Projects"
   ]
