@@ -1,3 +1,5 @@
+[[prism]]
+
 these would be individuals in the game world. 
 - many cultures of origin
 - has a place of birth

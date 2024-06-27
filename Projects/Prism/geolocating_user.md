@@ -1,3 +1,5 @@
+[[prism]]
+
 oh man. this is way more of a pain that I had anticipated...
 
 if the user has a GPS, I imagine they're fairly easy to find. However, going off of nothing but their IP is really spotty. Maybe within 13 miles for me? Just too far imo. I want to very seriously see that I am east of the city. If I am not getting that, I just can't have it.

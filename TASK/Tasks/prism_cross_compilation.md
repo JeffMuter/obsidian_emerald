@@ -1,0 +1,1 @@
+the point of this is to learn how to avoid the user needing to install golang to get this running on their machine. However, until we're much closer to production, or at least have a few users who are enjoying the game the hard way, there's no point to this.

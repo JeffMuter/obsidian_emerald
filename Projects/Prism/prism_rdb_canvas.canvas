@@ -7,7 +7,15 @@
 		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\nid SERIAL PRIMARY KEY,\nreligion TEXT\nage INTEGER\nwork_status BOOLEAN\ncreated_at\n\n\n","x":-382,"y":558,"width":244,"height":142},
 		{"id":"1cad409eed4de55d","type":"text","text":"TIMELOG\nid\nentity_id\nentity_type\nlatitude\nlongitude\ntime","x":120,"y":-221,"width":164,"height":162},
 		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid INTEGER PK\n","x":-660,"y":558,"width":180,"height":62},
-		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":125,"y":0,"width":155,"height":200}
+		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":125,"y":0,"width":155,"height":200},
+		{"id":"60609d493f108df7","type":"text","text":"WORKER_NODE\nid SERIAL PK\nnode_id INTEGER FK\nworker_id INTEGER FK\nstart_time TIMESTAMP\nend_time TIMESTAMP","x":-998,"y":640,"width":250,"height":160},
+		{"id":"c4fe705f3a145882","type":"text","text":"NODE\nid SERIAL PK\nuser_id INTEGER FK\nlongitude INTEGER\nlatitude INTEGER\nart TEXT\n","x":-1060,"y":-248,"width":250,"height":216},
+		{"id":"a651215203460f5d","type":"text","text":"resource_node\nnode_id INTEGER FK\nresource_id INTEGER FK\nbase_rate DECIMAL","x":-1060,"y":-477,"width":250,"height":97},
+		{"id":"a08d054bed0cf34b","type":"text","text":"[[resource]]\nid SERIAL PK\nname TEXT","x":-1060,"y":-760,"width":250,"height":77},
+		{"id":"fba71cc58a79c347","type":"text","text":"[[artifact]]\nid PRIMARY PK\nname TEXT\ndescription TEXT\nart TEXT","x":125,"y":247,"width":250,"height":133},
+		{"id":"f4b0833d0044478c","type":"text","text":"harbor_node\nid PRIMARY PK\nname TEXT","x":-1679,"y":-380,"width":250,"height":107},
+		{"id":"90acab20e0ad5417","type":"text","text":"mine_node\nid PRIMARY PK\nname TEXT","x":-1679,"y":-189,"width":250,"height":109},
+		{"id":"a7795c5ff509321e","type":"text","text":"woodland_node\nid PRIMARY PK\nname TEXT","x":-1679,"y":3,"width":250,"height":97}
 	],
 	"edges":[
 		{"id":"561d248a8cffcba6","fromNode":"f2c29c1238f21203","fromSide":"bottom","toNode":"8fba41fa4dc098c0","toSide":"top"},
@@ -15,7 +23,13 @@
 		{"id":"0d1b9bd2ea550542","fromNode":"cded3687ffe9d80c","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"},
 		{"id":"eb131fc585b5592c","fromNode":"dac36c488b65b997","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"},
 		{"id":"9a6e4a5d35011db0","fromNode":"c18d4b0871ebf321","fromSide":"top","toNode":"ea833156b5484c9f","toSide":"bottom"},
-		{"id":"f7cd3bd376337b1d","fromNode":"cded3687ffe9d80c","fromSide":"right","toNode":"1cad409eed4de55d","toSide":"left"},
-		{"id":"f5dd044059873a40","fromNode":"f2c29c1238f21203","fromSide":"right","toNode":"1cad409eed4de55d","toSide":"left"}
+		{"id":"c9f172426cf311e0","fromNode":"c4fe705f3a145882","fromSide":"bottom","toNode":"60609d493f108df7","toSide":"top"},
+		{"id":"1d89e61483cd507f","fromNode":"60609d493f108df7","fromSide":"bottom","toNode":"cded3687ffe9d80c","toSide":"bottom"},
+		{"id":"47fb1c1ab2a37e6d","fromNode":"f2c29c1238f21203","fromSide":"left","toNode":"c4fe705f3a145882","toSide":"right"},
+		{"id":"716cd7e77abdef38","fromNode":"a651215203460f5d","fromSide":"bottom","toNode":"c4fe705f3a145882","toSide":"top"},
+		{"id":"ab1cf154f2221027","fromNode":"f4b0833d0044478c","fromSide":"right","toNode":"c4fe705f3a145882","toSide":"left"},
+		{"id":"7af64d22c54dded9","fromNode":"90acab20e0ad5417","fromSide":"right","toNode":"c4fe705f3a145882","toSide":"left"},
+		{"id":"7bcba2cafc8be0f8","fromNode":"a7795c5ff509321e","fromSide":"right","toNode":"c4fe705f3a145882","toSide":"left"},
+		{"id":"300a4f5334281947","fromNode":"a08d054bed0cf34b","fromSide":"bottom","toNode":"a651215203460f5d","toSide":"top"}
 	]
 }

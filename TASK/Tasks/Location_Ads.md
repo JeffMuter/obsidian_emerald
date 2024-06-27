@@ -11,6 +11,9 @@ ipinfo documentation:
 https://ipinfo.io/developers
 [[ipinfo]]
 
+- [ ] talk to heath about UTM tracking.
+
+
 
 PSEUDOCODE:
 
