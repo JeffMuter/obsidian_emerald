@@ -54,6 +54,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"Tasks"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false}
 ```
 %%
