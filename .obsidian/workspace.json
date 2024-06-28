@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "8a8db373268d5cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "86224cc899f2726b",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,34 +201,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1db0080b57718456",
+  "active": "194e4c734f9c099e",
   "lastOpenFiles": [
-    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "wass_beneleaves.md",
-    "Projects/Prism/diving.md",
-    "Projects/Prism/BUILDING.md",
-    "Projects/Prism/monastery.md",
-    "Projects/Prism/node_types.md",
-    "Projects/Prism/prism.md",
-    "Projects/cds_web_server.md",
-    "Projects/saorsadev_blog.md",
-    "DORA_presentation.md",
-    "EVENTS.md",
-    "Projects/Prism/harbor.md",
-    "Projects/Prism/grove.md",
-    "Projects/Prism/city.md",
+    "mtg_continue_login.md",
+    "cds_testing.md",
+    "blog_other_pages_indexing.md",
+    "blog_google_search_dns.md",
+    "Projects/Prism/prism_nearby_objects.md",
     "Meetup_Sessionize_yearly.md",
     "LinkedIn_post_DORA.md",
-    "Projects/Prism/USER_OBJECT.md",
-    "Projects/Prism/prism_screen_paint_adjust.md",
-    "TASK/Task_Board.md",
-    "Projects/Prism/landmarks.md",
-    "Projects/Prism/ProjectStructure.md",
-    "Projects/Prism/prism_draw_notes_on_long&lat.md",
-    "Projects/Prism/prism_nearby_objects.md",
-    "TASK/Tasks/pokegold_adjust_route_encounters.md",
-    "golang_companies.md",
+    "conflict-files-obsidian-git.md",
+    "resource.md",
+    "project_toby.md",
+    "prism_make_art_txt.md",
+    "prism_get_linux_terminal_canvas_working.md",
+    "prism_create_db's.md",
+    "artifact.md",
+    "TASK/Tasks/prism_nearby_objects.md",
+    "TASK/Tasks/prism_cross_compilation.md",
+    "TASK/Tasks/mtg_continue_login.md",
+    "TASK/Tasks/cds_testing.md",
+    "TASK/Tasks/blog_other_pages_indexing.md",
+    "TASK/Tasks/blog_google_search_dns.md",
+    "TASK/Tasks/Meetup_Sessionize_yearly.md",
+    "TASK/Tasks/LinkedIn_post_DORA.md",
+    "Projects/Prism/geolocating_user.md",
+    "Projects/Prism/Map Generator.md",
+    "Grafana.md",
+    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
     "Excalidraw",
     "Pasted image 20240621152540.png",
     "Projects/Prism",
