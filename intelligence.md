@@ -1,0 +1,1 @@
+this trait is just for validating checks

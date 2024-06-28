@@ -4,7 +4,7 @@
 		{"id":"8fba41fa4dc098c0","type":"text","text":"[[USER_OBJECT]]\nid\nuser_id\nobject_id","x":-340,"y":0,"width":160,"height":93},
 		{"id":"c18d4b0871ebf321","type":"text","text":"[[BUILDING]]\nid SERIAL PRIMARY KEY","x":-40,"y":558,"width":250,"height":62},
 		{"id":"f2c29c1238f21203","type":"text","text":"USER\nid\nemail\nname\npassword","x":-322,"y":-200,"width":125,"height":120,"color":"3"},
-		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\nid SERIAL PRIMARY KEY,\nreligion TEXT\nage INTEGER\nwork_status BOOLEAN\ncreated_at\n[[injured]] BOOLEAN\nintelligence INTEGER\n[[carry_capacity]] INTEGER\nfaith INTEGER\n\n","x":-382,"y":558,"width":244,"height":242},
+		{"id":"cded3687ffe9d80c","type":"text","text":"WORKER [[worker]]\nid SERIAL PRIMARY KEY,\nreligion TEXT\nage INTEGER\nwork_status BOOLEAN\ncreated_at\n[[injured]] BOOLEAN\n[[intelligence]] INTEGER\n[[carry_capacity]] INTEGER\nfaith INTEGER\n\n","x":-382,"y":558,"width":244,"height":242},
 		{"id":"1cad409eed4de55d","type":"text","text":"TIMELOG\nid\nentity_id\nentity_type\nlatitude\nlongitude\ntime","x":120,"y":-221,"width":164,"height":162},
 		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid INTEGER PK\n","x":-660,"y":558,"width":180,"height":62},
 		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":125,"y":0,"width":155,"height":200},

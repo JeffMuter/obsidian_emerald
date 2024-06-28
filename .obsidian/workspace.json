@@ -36,7 +36,7 @@
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
                   "x": -349.31616542718945,
-                  "y": 362.92139772317125,
+                  "y": 603.0893377908741,
                   "zoom": 0.4792559488360819
                 }
               }
@@ -206,8 +206,9 @@
   },
   "active": "8a8db373268d5cfa",
   "lastOpenFiles": [
-    "carry_capacity.md",
+    "intelligence.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "carry_capacity.md",
     "injured.md",
     "TASK/Task_Board.md",
     "conflict-files-obsidian-git.md",
@@ -231,7 +232,6 @@
     "Grafana.md",
     "mtg_continue_login.md",
     "cds_testing.md",
-    "blog_other_pages_indexing.md",
     "Excalidraw",
     "Pasted image 20240621152540.png",
     "Projects/Prism",
