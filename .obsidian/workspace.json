@@ -11,19 +11,21 @@
             "id": "d517d1e74a1333b7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4d9ab1d02703c3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASK/Tasks/cds_testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md"
               }
             }
           },
@@ -166,18 +169,22 @@
   },
   "active": "d517d1e74a1333b7",
   "lastOpenFiles": [
-    "TASK/Tasks/Location_Ads.md",
+    "TASK/Tasks/cds_testing.md",
+    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
     "TASK/Task_Board.md",
+    "Projects/Prism/Map Generator.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "Projects/Prism/prism.md",
+    "prism_get_linux_terminal_canvas_working.md",
+    "TASK/Tasks/Location_Ads.md",
     "prism_create_db's.md",
     "prism_make_art_txt.md",
     "project_toby.md",
-    "Projects/Prism/prism.md",
     "Projects/Prism/worker.md",
     "Projects/pokegold_mod.md",
     "USER_OBJECT.md",
     "artifact.md",
     "EVENTS.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "resource.md",
     "TASK/Tasks/CDS Web Server.md",
     "wass_beneleaves.md",
@@ -189,11 +196,7 @@
     "secret.md",
     "Untitled.md",
     "TASK/Tasks/prism_nearby_objects.md",
-    "Projects/Prism/prism_draw_notes_on_long&lat.md",
-    "Projects/Prism/ProjectStructure.md",
-    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
     "prism_rdb_canvas.canvas",
-    "Projects/Prism/BUILDING.md",
     "Projects/Prism",
     "Pasted image 20240621152540.png",
     "TASK",

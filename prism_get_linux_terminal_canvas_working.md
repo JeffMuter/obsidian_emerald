@@ -1,0 +1,1 @@
+I did.... something to make the terminal work in debugger mode for windows. now I need it for linux.
