@@ -11,14 +11,19 @@
             "id": "6088a7b8cb8c8832",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": -188,
-                  "y": 239.5,
-                  "zoom": -0.4427177450760277
-                }
+                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md"
+              }
+            }
+          },
+          {
+            "id": "e041cc53ce0b074d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
               }
             }
           },
@@ -47,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wass_beneleaves.md",
+                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wass_beneleaves.md",
+                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wass_beneleaves.md"
+                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md"
               }
             }
           },
@@ -184,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcb2b3d99b5d1d99",
+  "active": "1db0080b57718456",
   "lastOpenFiles": [
+    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
     "wass_beneleaves.md",
     "Projects/Prism/diving.md",
     "Projects/Prism/BUILDING.md",
@@ -204,15 +212,12 @@
     "Projects/Prism/USER_OBJECT.md",
     "Projects/Prism/prism_screen_paint_adjust.md",
     "TASK/Task_Board.md",
-    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
     "Projects/Prism/landmarks.md",
     "Projects/Prism/ProjectStructure.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Projects/Prism/prism_draw_notes_on_long&lat.md",
     "Projects/Prism/prism_nearby_objects.md",
     "TASK/Tasks/pokegold_adjust_route_encounters.md",
     "golang_companies.md",
-    "Projects/Prism/worker.md",
     "Excalidraw",
     "Pasted image 20240621152540.png",
     "Projects/Prism",
