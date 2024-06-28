@@ -11,6 +11,11 @@ ipinfo documentation:
 https://ipinfo.io/developers
 [[ipinfo]]
 
+- [x] talk to heath about UTM tracking.
+- [x] implement utm tracking
+- [ ] move to stage eom
+
+
 
 PSEUDOCODE:
 
