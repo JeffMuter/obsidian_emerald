@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c46305e0de9af86b",
+        "id": "70e77151d61686f5",
         "type": "tabs",
         "children": [
           {
-            "id": "6088a7b8cb8c8832",
+            "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Prism/prism_draw_notes_on_long&lat.md"
-              }
-            }
-          },
-          {
-            "id": "e041cc53ce0b074d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "8a8db373268d5cfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86224cc899f2726b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TASK/Tasks/pokegold_adjust_route_encounters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcb2b3d99b5d1d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wass_beneleaves.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,48 +139,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "194e4c734f9c099e",
+  "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "prism_nearby_objects.md",
-    "resource.md",
-    "project_toby.md",
-    "prism_make_art_txt.md",
-    "prism_get_linux_terminal_canvas_working.md",
-    "prism_create_db's.md",
-    "artifact.md",
-    "TASK/Tasks/prism_nearby_objects.md",
-    "TASK/Tasks/prism_cross_compilation.md",
-    "TASK/Tasks/mtg_continue_login.md",
+    "pack for wootown.md",
+    "TASK/Task_Board.md",
     "TASK/Tasks/cds_testing.md",
-    "TASK/Tasks/blog_other_pages_indexing.md",
-    "TASK/Tasks/blog_google_search_dns.md",
-    "TASK/Tasks/Meetup_Sessionize_yearly.md",
-    "TASK/Tasks/LinkedIn_post_DORA.md",
-    "Projects/Prism/geolocating_user.md",
     "Projects/Prism/Map Generator.md",
-    "Grafana.md",
-    "mtg_continue_login.md",
-    "cds_testing.md",
-    "blog_other_pages_indexing.md",
-    "blog_google_search_dns.md",
-    "Projects/Prism/prism_nearby_objects.md",
-    "Meetup_Sessionize_yearly.md",
-    "LinkedIn_post_DORA.md",
+    "Projects/saorsadev_blog.md",
+    "Untitled.md",
+    "Projects/Prism/node_types.md",
+    "cds_2_new_pages.md",
+    "email lisa.md",
+    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
     "conflict-files-obsidian-git.md",
+    "Projects/Prism/prism_screen_paint_adjust.md",
+    "Projects/Prism/monastery.md",
+    "Projects/Prism/harbor.md",
+    "Projects/Prism/grove.md",
+    "Projects/Prism/diving.md",
+    "Projects/Prism/city.md",
+    "Projects/Prism/USER_OBJECT.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "Excalidraw",
-    "Pasted image 20240621152540.png",
+    "Projects/Prism/prism.md",
+    "prism_get_linux_terminal_canvas_working.md",
+    "TASK/Tasks/Location_Ads.md",
+    "prism_create_db's.md",
+    "prism_make_art_txt.md",
+    "project_toby.md",
+    "Projects/Prism/worker.md",
+    "Projects/pokegold_mod.md",
+    "prism_rdb_canvas.canvas",
     "Projects/Prism",
+    "Pasted image 20240621152540.png",
     "TASK",
     "TASK/Tasks",
     "Projects"

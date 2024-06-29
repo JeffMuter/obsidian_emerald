@@ -43,6 +43,8 @@ kanban-plugin: board
 	#work
 - [ ] [[Location_Ads]]
 	#work
+- [ ] [[email lisa]] 
+	#work
 
 
 ## COMPLETE
@@ -65,6 +67,8 @@ kanban-plugin: board
 
 - [ ] [[wass_beneleaves]]
 - [ ] [[project_toby]]
+- [ ] [[cds_2_new_pages]]
+	#work
 
 
 
