@@ -8,7 +8,7 @@
 		{"id":"1cad409eed4de55d","type":"text","text":"TIMELOG\nid\nentity_id\nentity_type\nlatitude\nlongitude\ntime","x":120,"y":-221,"width":164,"height":162},
 		{"id":"dac36c488b65b997","type":"text","text":"LANDMARK\nid INTEGER PK\n","x":-660,"y":558,"width":180,"height":62},
 		{"id":"a54955bdff20137e","type":"text","text":"[[EVENTS]]\nid\nname\ntime\ntimestamp\nlongitude\nlatitude\ndescription\nart","x":125,"y":0,"width":155,"height":200},
-		{"id":"60609d493f108df7","type":"text","text":"WORKER_NODE\nid SERIAL PK\nnode_id INTEGER FK\nworker_id INTEGER FK\nstart_time TIMESTAMP\nend_time TIMESTAMP","x":-998,"y":640,"width":250,"height":160},
+		{"id":"60609d493f108df7","type":"text","text":"WORKER_ACTIVITY\nid SERIAL PK\nnode_id INTEGER FK\nworker_id INTEGER FK\nstart_time TIMESTAMP\nend_time TIMESTAMP\nstart_longitude \nstart_latitude\ntype TEXT","x":-998,"y":640,"width":250,"height":200},
 		{"id":"c4fe705f3a145882","type":"text","text":"NODE\nid SERIAL PK\nuser_id INTEGER FK\nlongitude INTEGER\nlatitude INTEGER\nart TEXT\n","x":-1060,"y":-248,"width":250,"height":128,"color":"1"},
 		{"id":"a651215203460f5d","type":"text","text":"resource_node\nnode_id INTEGER FK\nresource_id INTEGER FK\nbase_rate DECIMAL\namount INTEGER","x":-1060,"y":-477,"width":250,"height":117},
 		{"id":"a08d054bed0cf34b","type":"text","text":"[[resource]]\nid SERIAL PK\nname TEXT","x":-1060,"y":-760,"width":250,"height":77,"color":"1"},

@@ -7,4 +7,6 @@ these would be individuals in the game world.
 - has a general societal 'status'
 - traits like intelligence, charisma, strength, each can play a role in impacting whether that character
 - faith, many possible faiths  
-- 
+
+
+[[worker_location_render_notes]]

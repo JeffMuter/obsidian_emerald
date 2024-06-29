@@ -35,10 +35,20 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -349.31616542718945,
-                  "y": 603.0893377908741,
-                  "zoom": 0.4792559488360819
+                  "x": -614,
+                  "y": 476.90958614051965,
+                  "zoom": -1.066350295604834
                 }
+              }
+            }
+          },
+          {
+            "id": "c763228fdb0373de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-06-29 11.33.59.excalidraw.md"
               }
             }
           },
@@ -206,8 +216,12 @@
   },
   "active": "8a8db373268d5cfa",
   "lastOpenFiles": [
-    "intelligence.md",
+    "worker_location_render_notes.md",
+    "Drawing 2024-06-29 11.33.59.excalidraw.md",
+    "Projects/Prism/worker.md",
+    "Projects/Prism/Terrain Generation.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "intelligence.md",
     "carry_capacity.md",
     "injured.md",
     "TASK/Task_Board.md",
@@ -229,9 +243,6 @@
     "TASK/Tasks/LinkedIn_post_DORA.md",
     "Projects/Prism/geolocating_user.md",
     "Projects/Prism/Map Generator.md",
-    "Grafana.md",
-    "mtg_continue_login.md",
-    "cds_testing.md",
     "Excalidraw",
     "Pasted image 20240621152540.png",
     "Projects/Prism",
