@@ -1,5 +1,4 @@
-[[prism]]
-
+[[node]] [[prism]]
 [[diving]]
 
 [[harbor]]
@@ -9,3 +8,5 @@
 [[grove]]
 
 [[city]]
+
+[[mine]]
