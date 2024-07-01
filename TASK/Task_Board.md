@@ -45,6 +45,8 @@ kanban-plugin: board
 	#work
 - [ ] [[email lisa]] 
 	#work
+- [ ] [[add node to db]]
+	#prism
 
 
 ## COMPLETE
