@@ -1,4 +1,4 @@
-[[go]]
+
 
 ascii game that is a geo-based app. Close to ar. Made in the termindal
 

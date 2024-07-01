@@ -31,22 +31,32 @@ kanban-plugin: board
 	#blog
 - [ ] [[prism_make_nodes]]
 	#prism
-- [ ] [[prism_create_db's]]
-	#prism
-- [ ] [[prism_make_art_txt]]
-	#prism
 
 
 ## ACTIVE
 
+- [ ] [[node_logic]]
+	#prism
 - [ ] [[cds_testing]]
 	#work
 - [ ] [[Location_Ads]]
 	#work
+- [ ] objects from db
+	#prism
+- [ ] art made from db
+	#prism
 
 
 ## COMPLETE
 
+- [ ] method to get user
+	#prism
+- [ ] [[add users to db]]
+	#prism
+- [ ] [[prism_make_art_txt]]
+	#prism
+- [ ] [[prism_create_db's]]
+	#prism
 - [ ] [[CDS_Rework]]
 	#work
 - [ ] [[prism_get_linux_terminal_canvas_working]]
