@@ -35,8 +35,6 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[node_logic]]
-	#prism
 - [ ] [[cds_testing]]
 	#work
 - [ ] [[Location_Ads]]
@@ -44,6 +42,8 @@ kanban-plugin: board
 - [ ] objects from db
 	#prism
 - [ ] art made from db
+	#prism
+- [ ] [[node_logic]]
 	#prism
 
 
