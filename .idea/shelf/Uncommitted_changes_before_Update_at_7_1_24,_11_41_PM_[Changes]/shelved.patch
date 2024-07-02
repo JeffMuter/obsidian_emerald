@@ -1,0 +1,63 @@
+Index: TASK/Task_Board.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\n\nkanban-plugin: board\n\n---\n\n## BACKLOG\n\n- [ ] Blog_Add_Socials\n\t#blog\n- [ ] Blog_AddContactForm\n\t#blog\n- [ ] [[Portfolio_Update_Projects]]\n- [ ] [[Portfolio_Blog_&_Meetup_Section]]\n- [ ] [[Portfolio_Update_Slider]]\n- [ ] [[Blog_GitHub_Actions_Build_Hugo]]\n\t#blog\n- [ ] [[prism_nearby_objects]]\n\t#prism\n- [ ] [[prism_cross_compilation]]\n\t#prism\n\n\n## TODO\n\n- [ ] Blog_Add_Post_Comments\n\t#blog\n- [ ] Blog_Add_Catagories\n\t#blog\n- [ ] [[blog_other_pages_indexing]]\n\t#blog\n- [ ] [[prism_make_nodes]]\n\t#prism\n\n\n## ACTIVE\n\n- [ ] [[cds_testing]]\n\t#work\n- [ ] [[Location_Ads]]\n\t#work\n- [ ] objects from db\n\t#prism\n- [ ] art made from db\n\t#prism\n- [ ] [[node_logic]]\n\t#prism\n\n\n## COMPLETE\n\n- [ ] method to get user\n\t#prism\n- [ ] [[add users to db]]\n\t#prism\n- [ ] [[prism_make_art_txt]]\n\t#prism\n- [ ] [[prism_create_db's]]\n\t#prism\n- [ ] [[CDS_Rework]]\n\t#work\n- [ ] [[prism_get_linux_terminal_canvas_working]]\n\t#prism\n- [ ] prism_wifi_linux_location\n\t#prism\n- [ ] prism_location_wifi_windows\n\t#prism\n- [ ] [[blog_google_search_dns]]\n\t#blog\n- [ ] [[Meetup_Sessionize_yearly]]\n\t#devops\n\n\n## HOLD\n\n- [ ] [[wass_beneleaves]]\n- [ ] [[project_toby]]\n\n\n\n\n%% kanban:settings\n```\n{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false,false],\"new-note-folder\":\"TASK/Tasks\",\"show-checkboxes\":false,\"tag-sort\":[{\"tag\":\"#job\"},{\"tag\":\"#blog\"},{\"tag\":\"#prism\"},{\"tag\":\"#stream\"},{\"tag\":\"#family\"},{\"tag\":\"#devops\"}],\"tag-colors\":[{\"tagKey\":\"#blog\",\"color\":\"rgba(255, 0, 145, 1)\",\"backgroundColor\":\"rgba(0, 0, 0, 0.52)\"},{\"tagKey\":\"#work\",\"color\":\"rgba(15, 8, 100, 1)\",\"backgroundColor\":\"rgba(255, 255, 255, 1)\"},{\"tagKey\":\"#family\",\"color\":\"rgba(0, 0, 0, 1)\",\"backgroundColor\":\"rgba(220, 245, 0, 1)\"},{\"tagKey\":\"#prism\",\"color\":\"rgba(94, 236, 255, 1)\",\"backgroundColor\":\"rgba(0, 0, 0, 1)\"}]}\n```\n%%
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/TASK/Task_Board.md b/TASK/Task_Board.md
+--- a/TASK/Task_Board.md	(revision 1f2a3ec6d286cd6772f0c2e6962a73d00f1d4e23)
++++ b/TASK/Task_Board.md	(date 1719891554932)
+@@ -31,6 +31,10 @@
+ 	#blog
+ - [ ] [[prism_make_nodes]]
+ 	#prism
++- [ ] [[prism_create_db's]]
++	#prism
++- [ ] [[prism_make_art_txt]]
++	#prism
+ 
+ 
+ ## ACTIVE
+@@ -39,6 +43,10 @@
+ 	#work
+ - [ ] [[Location_Ads]]
+ 	#work
++- [ ] [[email lisa]] 
++	#work
++- [ ] [[add node to db]]
++	#prism
+ - [ ] objects from db
+ 	#prism
+ - [ ] art made from db
+Index: add node to db.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/add node to db.md b/add node to db.md
+new file mode 100644
+--- /dev/null	(date 1719891554932)
++++ b/add node to db.md	(date 1719891554932)
+@@ -0,0 +1,21 @@
++we want to use the current location of the user to add a location to the database.
++in pseudocode
++func AddNode(user user.User) err {
++	userLat := user.Latitude
++	userLong := user.Longitude
++	// get other nearby nodes
++	if nodes nearby {
++		return error
++	} else {
++		db := database.OpenDatabase()
++		defer db.Close()
++
++		query := 
++		// execute query
++		return id, nil
++	}
++
++
++
++}
++
