@@ -13,7 +13,7 @@ https://ipinfo.io/developers
 
 - [x] talk to heath about UTM tracking.
 - [x] implement utm tracking
-- [ ] move to stage eom
+- [x] move to stage eom
 
 
 

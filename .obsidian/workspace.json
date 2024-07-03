@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbf79101ea046ca",
+        "id": "70e77151d61686f5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ddf47fbc2e9f126",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "05d19e52e58ad003",
+            "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang_companies.md",
+                "file": "TASK/Tasks/cds_testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prism",
+                "query": "tag:#work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "TASK/Tasks/cds_testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "TASK/Tasks/cds_testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "TASK/Tasks/cds_testing.md"
               }
             }
           },
@@ -166,49 +146,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ddf47fbc2e9f126",
+  "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "golang_companies.md",
     "TASK/Task_Board.md",
-    "add node to db.md",
-    "locations from db.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "Projects/Prism/USER_LOCATIONS.md",
-    "workers_activities.md",
-    "Projects/saorsadev_blog.md",
-    "Stone.md",
     "node_logic.md",
-    "add users to db.md",
-    "Projects/Prism/workers.md",
-    "Projects/Prism/node_types.md",
-    "Projects/Prism/city.md",
-    "Projects/Prism/mine.md",
-    "Projects/Prism/Wood.md",
-    "Projects/Prism/Crystal.md",
+    "data_from_osm.md",
+    "cds_devops_presentaion.md",
+    "wass_devops_canvas.canvas",
+    "wass_devops_canvas.md",
+    "Drawing 2024-07-03 08.49.30.excalidraw.md",
+    "Untitled.md",
+    "TASK/Tasks/Location_Ads.md",
+    "workers_activities.md",
+    "locations from db.md",
+    "Stone.md",
+    "Projects/Prism/USER_LOCATIONS.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "add node to db.md",
+    "workers_activies.md",
+    "conflict-files-obsidian-git.md",
+    "intelligence.md",
+    "injured.md",
+    "carry_capacity.md",
+    "pack for wootown.md",
+    "TASK/Tasks/cds_testing.md",
     "Projects/Prism/Map Generator.md",
-    "BLOG_POSTS/Terror of Incompetence.md",
-    "Projects/Prism/resource.md",
-    "Projects/Prism/Iron.md",
-    "Projects/mtg_finance.md",
-    "Projects/Prism/prism.md",
-    "Projects/Prism/node.md",
-    "Projects/Prism/injured.md",
-    "Projects/Prism/carry_capacity.md",
-    "BLOG_POSTS",
-    "Excalidraw",
-    "Pasted image 20240621152540.png",
+    "Projects/saorsadev_blog.md",
+    "Projects/Prism/node_types.md",
+    "cds_2_new_pages.md",
+    "email lisa.md",
+    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+    "prism_rdb_canvas.canvas",
     "Projects/Prism",
+    "Pasted image 20240621152540.png",
     "TASK",
     "TASK/Tasks",
     "Projects"

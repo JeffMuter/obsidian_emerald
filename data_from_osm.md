@@ -1,0 +1,1 @@
+need to get data from osm. not quite sure how to do this, other than writing a golang main func that does this, and writes the data in the structure I want to a file.

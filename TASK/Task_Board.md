@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] get a list of mountains
+	#prism
 - [ ] Blog_Add_Post_Comments
 	#blog
 - [ ] Blog_Add_Catagories
@@ -37,18 +39,28 @@ kanban-plugin: board
 
 - [ ] [[cds_testing]]
 	#work
-- [ ] [[Location_Ads]]
-	#work
-- [ ] objects from db
-	#prism
-- [ ] art made from db
-	#prism
 - [ ] [[node_logic]]
+	#prism
+- [ ] Pull [[data_from_osm]]
 	#prism
 
 
 ## COMPLETE
 
+- [ ] add wisc & penn to cds db 
+	#work
+- [ ] art made from db
+	#prism
+- [ ] prep [[cds_devops_presentaion]]
+	#work
+- [ ] add large cities to db 
+	#prism
+- [ ] objects from db
+	#prism
+- [ ] [[Location_Ads]]
+	#work
+- [ ] remove award banner from home 
+	#work
 - [ ] method to get user
 	#prism
 - [ ] [[add users to db]]
