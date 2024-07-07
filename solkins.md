@@ -1,0 +1,1 @@
+solkins adapted to high amounts of sun.

@@ -1,0 +1,1 @@
+could be any diameter. but so far, we've kept to a 40mile x 40mile square. Where locations of any size can be seen, but only interacted with up close.

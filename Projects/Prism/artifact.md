@@ -1,4 +1,3 @@
-[[prism]]
 
 haven't totally designed what these are yet. Something from ages past, when magic was still about.
 

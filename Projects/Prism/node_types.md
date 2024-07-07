@@ -1,4 +1,4 @@
-[[node]] [[prism]]
+[[node]]
 [[diving]]
 
 [[harbor]]

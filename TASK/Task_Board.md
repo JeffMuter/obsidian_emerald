@@ -43,6 +43,8 @@ kanban-plugin: board
 	#prism
 - [ ] Pull [[data_from_osm]]
 	#prism
+- [ ] test queries in node.go
+	#prism
 
 
 ## COMPLETE

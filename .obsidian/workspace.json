@@ -11,11 +11,19 @@
             "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TASK/Tasks/cds_testing.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Tasks/cds_testing.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Tasks/cds_testing.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Tasks/cds_testing.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -158,34 +166,35 @@
   },
   "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "TASK/Task_Board.md",
-    "node_logic.md",
-    "data_from_osm.md",
-    "cds_devops_presentaion.md",
-    "wass_devops_canvas.canvas",
-    "wass_devops_canvas.md",
-    "Drawing 2024-07-03 08.49.30.excalidraw.md",
-    "Untitled.md",
-    "TASK/Tasks/Location_Ads.md",
-    "workers_activities.md",
-    "locations from db.md",
-    "Stone.md",
-    "Projects/Prism/USER_LOCATIONS.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "add node to db.md",
-    "workers_activies.md",
-    "conflict-files-obsidian-git.md",
-    "intelligence.md",
-    "injured.md",
-    "carry_capacity.md",
-    "pack for wootown.md",
-    "TASK/Tasks/cds_testing.md",
-    "Projects/Prism/Map Generator.md",
-    "Projects/saorsadev_blog.md",
+    "map_views.md",
+    "terrain_view.md",
+    "node_view.md",
+    "location_view.md",
+    "Projects/Prism/prism.md",
+    "prismkins.md",
     "Projects/Prism/node_types.md",
-    "cds_2_new_pages.md",
-    "email lisa.md",
-    "Projects/Prism/Drawing 2024-06-22 21.42.16.excalidraw.md",
+    "Projects/saorsadev_blog.md",
+    "TASK/Tasks/cds_testing.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "TASK/Task_Board.md",
+    "birding_spotted.md",
+    "Projects/Prism/prism_get_linux_terminal_canvas_working.md",
+    "solkins.md",
+    "stormkins.md",
+    "nibblekins.md",
+    "Projects/Prism/workers.md",
+    "Projects/Prism/worker_location_render_notes.md",
+    "scene.md",
+    "locations.md",
+    "Projects/Prism/landmarks.md",
+    "items.md",
+    "Projects/Prism/artifact.md",
+    "Projects/Prism/resource.md",
+    "Projects/Prism/Iron.md",
+    "Projects/Prism/mine.md",
+    "Projects/Prism/WORKER.md",
+    "node_canvas.canvas",
+    "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",
     "Projects/Prism",
     "Pasted image 20240621152540.png",

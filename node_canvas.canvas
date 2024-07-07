@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ffcd7bccf1b04afb","type":"text","text":"locations\nid\nname\ntype\ndesc\nart\nlat\nlong\ndefault_accessible BOOLEAN\n","x":-157,"y":-172,"width":157,"height":212},
+		{"id":"96a54a2e4219c61e","type":"text","text":"user_locations\nid\nuser_id\nlocation_id","x":83,"y":-44,"width":250,"height":104},
+		{"id":"cc7b8743965f644d","type":"text","text":"","x":-219,"y":130,"width":250,"height":60}
+	],
+	"edges":[]
+}

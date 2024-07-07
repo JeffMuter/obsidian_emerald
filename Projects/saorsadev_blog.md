@@ -1,11 +1,4 @@
-[[blog]]
-[[saorsadev]]
-[[https://saorsadev.com]]
-
-[[html]]
-[[cds_testing]]
-[[javascript]]
-[[go]]
+https://saorsadev.com
 
 
 [website_link](https://saorsadev.com)

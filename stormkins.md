@@ -1,0 +1,1 @@
+stormkins have adapted to storms

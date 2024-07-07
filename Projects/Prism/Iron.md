@@ -1,1 +1,1 @@
-used to produce many game items. can only be found at [[mine]]s in [[prism]]
+used to produce many game items. can only be found at [[mine]]s in

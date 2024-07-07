@@ -27,3 +27,5 @@ simple commands on the bottom.
 location of workers.
 nodes
 unique [[landmarks]]
+
+What if we had different [[map_views]]
