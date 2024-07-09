@@ -39,16 +39,20 @@ kanban-plugin: board
 
 - [ ] [[cds_testing]]
 	#work
+- [ ] remove objects in favor of locations
+	#prism
+- [ ] complete using db to get locations for display
+	#prism
 - [ ] [[node_logic]]
 	#prism
 - [ ] Pull [[data_from_osm]]
-	#prism
-- [ ] collect all object from database not local
 	#prism
 
 
 ## COMPLETE
 
+- [ ] collect all object from database not local
+	#prism
 - [ ] test queries in node.go
 	#prism
 - [ ] add wisc & penn to cds db 
