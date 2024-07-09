@@ -2,6 +2,4 @@ nodes are structures in [[prism]] that a player can send workers to. nodes have 
 
 PostgreSQL has some functionality called 'graph', where we can somehow use this to create 'edges' between location based nodes. Interesting. Very curious to look into this after the MVP stage
 
-
-
-
+Maybe to get a worker to a new node, one must build 'roads', as a thing to use resources on.

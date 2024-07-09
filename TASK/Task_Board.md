@@ -43,12 +43,14 @@ kanban-plugin: board
 	#prism
 - [ ] Pull [[data_from_osm]]
 	#prism
-- [ ] test queries in node.go
+- [ ] collect all object from database not local
 	#prism
 
 
 ## COMPLETE
 
+- [ ] test queries in node.go
+	#prism
 - [ ] add wisc & penn to cds db 
 	#work
 - [ ] art made from db
