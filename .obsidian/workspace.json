@@ -11,20 +11,8 @@
             "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TASK/Task_Board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +150,16 @@
   },
   "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "node_logic.md",
+    "Projects/saorsadev_blog.md",
+    "devops.md",
+    "locations.md",
+    "default_accessible.md",
+    "TASK/Tasks/LinkedIn_post_DORA.md",
+    "Grafana.md",
     "TASK/Task_Board.md",
+    "TASK/Tasks/Blog_GitHub_Actions_Build_Hugo.md",
+    "project_toby.md",
+    "node_logic.md",
     "TASK/Tasks/cds_testing.md",
     "Projects/Prism/node.md",
     "birding_spotted.md",
@@ -178,7 +170,6 @@
     "Projects/Prism/prism.md",
     "prismkins.md",
     "Projects/Prism/node_types.md",
-    "Projects/saorsadev_blog.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Projects/Prism/prism_get_linux_terminal_canvas_working.md",
     "solkins.md",
@@ -186,13 +177,6 @@
     "nibblekins.md",
     "Projects/Prism/workers.md",
     "Projects/Prism/worker_location_render_notes.md",
-    "scene.md",
-    "locations.md",
-    "Projects/Prism/landmarks.md",
-    "items.md",
-    "Projects/Prism/artifact.md",
-    "Projects/Prism/resource.md",
-    "Projects/Prism/Iron.md",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",

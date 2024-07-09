@@ -1,1 +1,1 @@
-[[node]] [[dungeon]] [[scene]]
+[[node]] [[dungeon]] [[scene]][[default_accessible]]
