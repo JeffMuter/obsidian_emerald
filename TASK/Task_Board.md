@@ -37,9 +37,9 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] distribution video section
+- [ ] cds automate testing on push
 	#work
-- [ ] serveHome func
+- [ ] cds add github
 	#work
 - [ ] [[cds_testing]]
 	#work
@@ -55,6 +55,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] distribution video section
+	#work
+- [ ] serveHome func
+	#work
 - [ ] collect all object from database not local
 	#prism
 - [ ] test queries in node.go

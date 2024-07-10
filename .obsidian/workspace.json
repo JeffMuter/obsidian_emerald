@@ -11,11 +11,19 @@
             "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "mountain.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mountain.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mountain.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mountain.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -158,11 +166,12 @@
   },
   "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "Projects/Prism/node_types.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "TASK/Task_Board.md",
     "mountain.md",
+    "Projects/Prism/node_types.md",
     "Projects/Prism/node.md",
     "locations.md",
-    "TASK/Task_Board.md",
     "golang_companies.md",
     "TASK/Tasks/cds_testing.md",
     "Projects/saorsadev_blog.md",
@@ -180,11 +189,9 @@
     "location_view.md",
     "Projects/Prism/prism.md",
     "prismkins.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Projects/Prism/prism_get_linux_terminal_canvas_working.md",
     "solkins.md",
     "stormkins.md",
-    "nibblekins.md",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",
