@@ -11,8 +11,12 @@
             "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mountain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mountain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mountain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mountain.md"
+              }
             }
           },
           {
@@ -150,18 +158,21 @@
   },
   "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
+    "Projects/Prism/node_types.md",
+    "mountain.md",
+    "Projects/Prism/node.md",
+    "locations.md",
+    "TASK/Task_Board.md",
+    "golang_companies.md",
+    "TASK/Tasks/cds_testing.md",
     "Projects/saorsadev_blog.md",
     "devops.md",
-    "locations.md",
     "default_accessible.md",
     "TASK/Tasks/LinkedIn_post_DORA.md",
     "Grafana.md",
-    "TASK/Task_Board.md",
     "TASK/Tasks/Blog_GitHub_Actions_Build_Hugo.md",
     "project_toby.md",
     "node_logic.md",
-    "TASK/Tasks/cds_testing.md",
-    "Projects/Prism/node.md",
     "birding_spotted.md",
     "map_views.md",
     "terrain_view.md",
@@ -169,14 +180,11 @@
     "location_view.md",
     "Projects/Prism/prism.md",
     "prismkins.md",
-    "Projects/Prism/node_types.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Projects/Prism/prism_get_linux_terminal_canvas_working.md",
     "solkins.md",
     "stormkins.md",
     "nibblekins.md",
-    "Projects/Prism/workers.md",
-    "Projects/Prism/worker_location_render_notes.md",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",

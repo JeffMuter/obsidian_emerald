@@ -37,6 +37,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] distribution video section
+	#work
+- [ ] serveHome func
+	#work
 - [ ] [[cds_testing]]
 	#work
 - [ ] remove objects in favor of locations
