@@ -57,6 +57,8 @@ kanban-plugin: board
 	#prism
 - [ ] time_off_structure_plan
 	#work
+- [ ] location.Named handling when connecting & creating node
+	#prism
 
 
 ## COMPLETE
