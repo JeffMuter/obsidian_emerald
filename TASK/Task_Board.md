@@ -29,10 +29,14 @@ kanban-plugin: board
 	#blog
 - [ ] Blog_Add_Catagories
 	#blog
+- [ ] Pull [[data_from_osm]]
+	#prism
 - [ ] [[blog_other_pages_indexing]]
 	#blog
 - [ ] [[prism_make_nodes]]
 	#prism
+- [ ] [[draft blog post about golang sql reading]]
+	#blog
 
 
 ## ACTIVE
@@ -43,18 +47,22 @@ kanban-plugin: board
 	#work
 - [ ] [[cds_testing]]
 	#work
-- [ ] remove objects in favor of locations
+- [ ] get user workers from db
 	#prism
-- [ ] complete using db to get locations for display
-	#prism
-- [ ] [[node_logic]]
-	#prism
-- [ ] Pull [[data_from_osm]]
+- [ ] Display List of user's connected Nodes
 	#prism
 
 
 ## COMPLETE
 
+- [ ] fix header on BE-overview
+	#work
+- [ ] [[node_logic]]
+	#prism
+- [ ] complete using db to get locations for display
+	#prism
+- [ ] remove objects in favor of locations
+	#prism
 - [ ] distribution video section
 	#work
 - [ ] serveHome func

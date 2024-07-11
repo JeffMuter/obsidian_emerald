@@ -11,19 +11,11 @@
             "id": "4d9ab1d02703c3dd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "draft blog post about golang sql reading.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "draft blog post about golang sql reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "draft blog post about golang sql reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "draft blog post about golang sql reading.md"
               }
             }
           },
@@ -166,8 +158,9 @@
   },
   "active": "4d9ab1d02703c3dd",
   "lastOpenFiles": [
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "TASK/Task_Board.md",
+    "draft blog post about golang sql reading.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
     "mountain.md",
     "Projects/Prism/node_types.md",
     "Projects/Prism/node.md",
