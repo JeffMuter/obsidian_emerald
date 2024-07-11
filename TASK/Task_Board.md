@@ -41,6 +41,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] move yt links into prod
+	#work
+- [ ] [[Careers StyleGuide Upgrade]]
+	#work
 - [ ] cds automate testing on push
 	#work
 - [ ] cds add github
@@ -51,6 +55,8 @@ kanban-plugin: board
 	#prism
 - [ ] Display List of user's connected Nodes
 	#prism
+- [ ] time_off_structure_plan
+	#work
 
 
 ## COMPLETE
