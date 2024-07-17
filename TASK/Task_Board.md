@@ -37,12 +37,12 @@ kanban-plugin: board
 	#prism
 - [ ] [[draft blog post about golang sql reading]]
 	#blog
+- [ ] Fix stage NASP Blog widget
+	#prism
 
 
 ## ACTIVE
 
-- [ ] move yt links into prod
-	#work
 - [ ] [[Careers StyleGuide Upgrade]]
 	#work
 - [ ] cds automate testing on push
@@ -53,8 +53,6 @@ kanban-plugin: board
 	#work
 - [ ] get user workers from db
 	#prism
-- [ ] Display List of user's connected Nodes
-	#prism
 - [ ] time_off_structure_plan
 	#work
 - [ ] location.Named handling when connecting & creating node
@@ -63,6 +61,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] move yt links into prod
+	#work
+- [ ] Display List of user's connected Nodes
+	#prism
 - [ ] fix header on BE-overview
 	#work
 - [ ] [[node_logic]]
