@@ -33,11 +33,11 @@ kanban-plugin: board
 	#prism
 - [ ] [[blog_other_pages_indexing]]
 	#blog
-- [ ] [[prism_make_nodes]]
-	#prism
 - [ ] [[draft blog post about golang sql reading]]
 	#blog
 - [ ] Fix stage NASP Blog widget
+	#work
+- [ ] attempt backup from prism backup file
 	#prism
 
 
@@ -51,16 +51,20 @@ kanban-plugin: board
 	#work
 - [ ] [[cds_testing]]
 	#work
-- [ ] get user workers from db
-	#prism
 - [ ] time_off_structure_plan
 	#work
 - [ ] location.Named handling when connecting & creating node
+	#prism
+- [ ] how to accumulate resources from workers at nodes
 	#prism
 
 
 ## COMPLETE
 
+- [ ] [[prism_make_nodes]]
+	#prism
+- [ ] get user workers from db
+	#prism
 - [ ] move yt links into prod
 	#work
 - [ ] Display List of user's connected Nodes

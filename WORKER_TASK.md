@@ -1,0 +1,1 @@
+this table contains details on the individual tasks that workers are assigned to. A task begins as soon as a user assigns it, and nothing truly changes until the task is either completed per the estimated completion time, or the user ends the task themselves.

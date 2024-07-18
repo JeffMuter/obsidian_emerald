@@ -1,0 +1,4 @@
+dungeon's are a kind of location in prism, where, once revealed to a user, one can send workers to it.
+The dungeon has a kind of health system. Workers with higher stats like strength do more damage. Workers can take home lore if they survive a level, but only if they survive a level. Just like all things,there are rolls for stat and culture checks within for lore.
+
+At the bottom of a dungeon, there's a prize, I haven't quite defined what that is yet. But let's say each dungeon has X levels, 10, 100, idk. But if each level requires a certain number of workers, or a certain amount of 'strength'. Workers always return injured. So they'd have to rest, then return to the home base to convey messages.

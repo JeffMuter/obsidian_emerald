@@ -23,8 +23,15 @@
             "id": "8ed356ff9edc1f62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": 26.037506697945453,
+                  "y": 320.09645715143427,
+                  "zoom": -1.4062263058343418
+                }
+              }
             }
           }
         ],
@@ -94,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+              }
             }
           },
           {
@@ -163,11 +174,21 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
+    "TASK_TYPE.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "WORKER_TASK.md",
+    "LOCATION_TYPE_RESOURCE.md",
+    "resource.md",
+    "Projects/Prism/prism.md",
+    "Projects/Prism/carry_capacity.md",
+    "how to accumulate resources from workers at nodes.md",
+    "TASK/Task_Board.md",
+    "make menus look cool.md",
+    "Projects/Prism/resource.md",
+    "dungeon.md",
     "blog.md",
     "canvas.canvas.md",
     "projects.md",
-    "Projects/Prism/resource.md",
-    "make menus look cool.md",
     "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
     "ColumbusDevOps.md",
     "Projects/Prism/prism_create_db's.md",
@@ -179,18 +200,7 @@
     "Projects/Prism/Game UX.md",
     "Projects/Prism/Menus.md",
     "birding_spotted.md",
-    "locations from db.md",
-    "Projects/Prism/intelligence.md",
-    "TASK/Task_Board.md",
-    "Drawing 2024-07-16 08.52.58.excalidraw.md",
-    "homescreen_UX.excalidraw.md",
-    "Untitled 1.md",
     "homescreen_UX.canvas",
-    "node menu.md",
-    "Careers StyleGuide Upgrade.md",
-    "draft blog post about golang sql reading.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "mountain.md",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",
