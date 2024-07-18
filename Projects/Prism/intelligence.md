@@ -1,1 +1,1 @@
-this trait is just for validating checks
+this [[worker]] trait is just for validating checks

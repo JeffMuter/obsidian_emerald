@@ -23,12 +23,8 @@
             "id": "8ed356ff9edc1f62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "make menus look cool.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "make menus look cool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "make menus look cool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "make menus look cool.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,34 +163,34 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
-    "TASK/Task_Board.md",
+    "blog.md",
+    "canvas.canvas.md",
+    "projects.md",
+    "Projects/Prism/resource.md",
     "make menus look cool.md",
-    "Drawing 2024-07-16 08.52.58.excalidraw.md",
+    "TASK/Tasks/Portfolio_Blog_&_Meetup_Section.md",
+    "ColumbusDevOps.md",
+    "Projects/Prism/prism_create_db's.md",
+    "TASK/Tasks/prism_nearby_objects.md",
+    "add users to db.md",
+    "prismkins.md",
+    "Projects/Prism/landmarks.md",
+    "project_toby.md",
     "Projects/Prism/Game UX.md",
+    "Projects/Prism/Menus.md",
+    "birding_spotted.md",
+    "locations from db.md",
+    "Projects/Prism/intelligence.md",
+    "TASK/Task_Board.md",
+    "Drawing 2024-07-16 08.52.58.excalidraw.md",
     "homescreen_UX.excalidraw.md",
     "Untitled 1.md",
     "homescreen_UX.canvas",
     "node menu.md",
-    "Projects/Prism/Menus.md",
     "Careers StyleGuide Upgrade.md",
     "draft blog post about golang sql reading.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "mountain.md",
-    "Projects/Prism/node_types.md",
-    "Projects/Prism/node.md",
-    "locations.md",
-    "golang_companies.md",
-    "TASK/Tasks/cds_testing.md",
-    "Projects/saorsadev_blog.md",
-    "devops.md",
-    "default_accessible.md",
-    "TASK/Tasks/LinkedIn_post_DORA.md",
-    "Grafana.md",
-    "TASK/Tasks/Blog_GitHub_Actions_Build_Hugo.md",
-    "project_toby.md",
-    "node_logic.md",
-    "birding_spotted.md",
-    "map_views.md",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",

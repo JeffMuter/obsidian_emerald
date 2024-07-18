@@ -1,4 +1,4 @@
-[[projects]]
+
 
 This project showcases our flipbooks. 
 Images are in my email
