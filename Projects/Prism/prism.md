@@ -29,3 +29,5 @@ nodes
 unique [[landmarks]]
 
 What if we had different [[map_views]]
+
+[[schema]]
