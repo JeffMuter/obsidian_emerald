@@ -11,13 +11,18 @@
             "id": "8ed356ff9edc1f62",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 582.2818755614566,
-                  "y": 148.6729311944742,
-                  "zoom": 0.2149176458586552
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               }
             }
@@ -120,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -193,8 +198,8 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
-    "LOCATION_TYPES_TASKS.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "LOCATION_TYPES_TASKS.md",
     "TASK_TYPES.md",
     "notes on wass qualty quarterly sales meeting.md",
     "TASK/Task_Board.md",

@@ -43,6 +43,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] dummy data location_types_resources
+	#prism
 - [ ] [[Careers StyleGuide Upgrade]]
 	#work
 - [ ] cds automate testing on push
