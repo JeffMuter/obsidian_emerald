@@ -11,18 +11,13 @@
             "id": "8ed356ff9edc1f62",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": 386.981296394364,
+                  "y": 708.1709838038312,
+                  "zoom": -0.6818878881995232
                 }
               }
             }
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
               }
             }
           },
@@ -198,11 +193,12 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
+    "LOCATION_TYPE_RESOURCE.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "LOCATION_TYPES_TASKS.md",
-    "TASK_TYPES.md",
-    "notes on wass qualty quarterly sales meeting.md",
     "TASK/Task_Board.md",
+    "TASK_TYPES.md",
+    "LOCATION_TYPES_TASKS.md",
+    "notes on wass qualty quarterly sales meeting.md",
     "schama_for_nodes_canvas.md",
     "schema.md",
     "LOCATION_TYPE_TASK.md",
@@ -216,7 +212,6 @@
     "Drawing 2024-07-16 08.52.58.excalidraw.md",
     "TASK/Tasks/Blog_GitHub_Actions_Build_Hugo.md",
     "WORKER_TASK.md",
-    "LOCATION_TYPE_RESOURCE.md",
     "resource.md",
     "Projects/Prism/carry_capacity.md",
     "how to accumulate resources from workers at nodes.md",
