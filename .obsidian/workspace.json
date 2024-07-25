@@ -193,8 +193,9 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
-    "LOCATION_TYPE_RESOURCE.md",
+    "TASK_TYPE_RESOURCE.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "LOCATION_TYPE_RESOURCE.md",
     "TASK/Task_Board.md",
     "TASK_TYPES.md",
     "LOCATION_TYPES_TASKS.md",
@@ -218,7 +219,6 @@
     "make menus look cool.md",
     "Projects/Prism/resource.md",
     "dungeon.md",
-    "blog.md",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
