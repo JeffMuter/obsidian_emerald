@@ -1,0 +1,1 @@
+a connection for blog article ideas

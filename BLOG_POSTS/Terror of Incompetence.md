@@ -1,4 +1,5 @@
-[[blog]]
+[[blog_ideas]]
+
 ## The Need Comes Before The Talent
 
 My main project has some challenges that have been petrifying me. It's an AR game, similar to Pokemon Go in that way. The only way to get your character to move, is to move in the real world.

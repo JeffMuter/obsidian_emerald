@@ -1,0 +1,1 @@
+landmarks are places on the map that users can visit, and are similar to monuments in their world. Like a view of an important statue, embedded into a mountain. Or an obelisk, forgotten in the deep forests
