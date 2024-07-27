@@ -11,8 +11,12 @@
             "id": "8ed356ff9edc1f62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git push.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -137,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git push.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git push.md"
+              }
             }
           },
           {
@@ -206,6 +214,7 @@
   },
   "active": "8ed356ff9edc1f62",
   "lastOpenFiles": [
+    "git push.md",
     "LOCATIONS.md",
     "birding_spotted.md",
     "Projects/Prism/workers.md",
@@ -231,7 +240,6 @@
     "solkins.md",
     "landmarks.md",
     "locations from db.md",
-    "stone.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
