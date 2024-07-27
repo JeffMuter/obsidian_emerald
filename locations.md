@@ -1,1 +1,1 @@
-[[node]] [[dungeon]] [[scene]][[default_accessible]]
+schema for locations
