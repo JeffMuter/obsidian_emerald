@@ -45,8 +45,6 @@ kanban-plugin: board
 
 - [ ] dummy data location_types_resources
 	#prism
-- [ ] [[Careers StyleGuide Upgrade]]
-	#work
 - [ ] cds automate testing on push
 	#work
 - [ ] cds add github
@@ -63,6 +61,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[Careers StyleGuide Upgrade]]
+	#work
 - [ ] [[prism_make_nodes]]
 	#prism
 - [ ] get user workers from db
