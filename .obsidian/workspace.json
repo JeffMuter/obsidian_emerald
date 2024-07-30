@@ -28,46 +28,25 @@
             }
           },
           {
-            "id": "5fdbc94e92b4af04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Prism/WORKER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "410fd707ceb5ea1d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
             "id": "82e2061498fa53d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3ca13d989d860b5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
-                "file": "notes on wass qualty quarterly sales meeting.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": -48.904961533204656,
+                  "y": 613.9007466844029,
+                  "zoom": -1.0689992139684839
+                }
               }
             }
           }
@@ -210,10 +189,13 @@
   },
   "active": "50777345221e8790",
   "lastOpenFiles": [
-    "Careers StyleGuide Upgrade.md",
+    "attempt backup from prism backup file.md",
     "TASK/Task_Board.md",
-    "making a game in go.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "notes on wass qualty quarterly sales meeting.md",
     "Projects/Prism/WORKER.md",
+    "Careers StyleGuide Upgrade.md",
+    "making a game in go.md",
     "email lisa.md",
     "git push.md",
     "LOCATIONS.md",
@@ -234,9 +216,6 @@
     "LOCATION_TYPE_TASK.md",
     "Projects/Prism/Wood.md",
     "LOCATION_RESOURCE.md",
-    "Drawing 2024-06-29 11.33.59.excalidraw.md",
-    "schematic.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",

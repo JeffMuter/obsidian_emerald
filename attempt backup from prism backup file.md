@@ -1,0 +1,1 @@
+i have been macking backups, to the best of my ability, but I have no clue if these work. I need to validate by restoring a server on a different machine, probably. This is essential, before this project goes to the point where I do lose a machine.

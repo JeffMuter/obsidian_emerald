@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[attempt backup from prism backup file]]
+	#prism
 - [ ] get a list of mountains
 	#prism
 - [ ] Blog_Add_Post_Comments
@@ -37,14 +39,10 @@ kanban-plugin: board
 	#blog
 - [ ] Fix stage NASP Blog widget
 	#work
-- [ ] attempt backup from prism backup file
-	#prism
 
 
 ## ACTIVE
 
-- [ ] dummy data location_types_resources
-	#prism
 - [ ] cds automate testing on push
 	#work
 - [ ] cds add github
@@ -55,12 +53,16 @@ kanban-plugin: board
 	#work
 - [ ] location.Named handling when connecting & creating node
 	#prism
-- [ ] how to accumulate resources from workers at nodes
-	#prism
 
 
 ## COMPLETE
 
+- [ ] how to accumulate resources from workers at nodes
+	#prism
+- [ ] check all tables for dummy relation data
+	#prism
+- [ ] dummy data location_types_resources
+	#prism
 - [ ] [[Careers StyleGuide Upgrade]]
 	#work
 - [ ] [[prism_make_nodes]]
