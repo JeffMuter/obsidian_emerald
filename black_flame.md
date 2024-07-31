@@ -1,0 +1,1 @@
+this flame is a relatively bad omen. If used, it's harmful to the user, but also more powerful. maybe even visible.

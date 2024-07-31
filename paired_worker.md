@@ -1,0 +1,1 @@
+this is just a concept idea, that the user can 'pair' with a worker more intimately. Walk with them, have a closer bond with them, getting exclusive dialogue with them, learn extra things about the world, grow them, etc.. I'd want this to be a very intimate situation, like a tomagachi

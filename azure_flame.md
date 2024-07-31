@@ -1,0 +1,1 @@
+I think this flame is associated with mental strength, and being able to 'see' things, like cursed objects, or lies. 

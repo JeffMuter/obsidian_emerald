@@ -1,0 +1,1 @@
+this flame enhances physical abilities.

@@ -1,0 +1,1 @@
+humanity rises up, going in and out of different strategies for handling this world. In this main story, humanity has worked mostly with the bl__d god, and thus, a strong association with their ancestors, a focus on passing things down / on, and an importance with politics in the living world having an impact on the afterlife.
