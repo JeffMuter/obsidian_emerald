@@ -1,4 +1,4 @@
-[[WORKER]]
+`[[WORKER]]
 [[WORKER_TASK]]
 
 [[USER]]

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50777345221e8790",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "d3ca13d989d860b5",
             "type": "leaf",
             "state": {
@@ -48,6 +40,14 @@
                   ]
                 }
               }
+            }
+          },
+          {
+            "id": "29937f6ef35ea6d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -117,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TASK/Task_Board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,13 +184,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12e9f9f3859db1b1",
+  "active": "29937f6ef35ea6d8",
   "lastOpenFiles": [
+    "golang_companies.md",
+    "Hell Summoner.md",
+    "angel of death.md",
+    "hell_summoner.md",
+    "paladin.md",
+    "heaven summoner.md",
+    "Emerald.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "Emery SinClaire.md",
+    "SinClaire.md",
+    "book-ideas.md",
+    "schema.md",
+    "TASK/Task_Board.md",
+    "Books/NecroEmily/NecroEmily.md",
+    "Books/NecroEmily",
+    "Books",
     "Projects/Prism/BUILDING.md",
     "Projects/Prism/WORKER.md",
     "count new pages made in last fiscal.md",
-    "TASK/Task_Board.md",
     "add process to select worker task.md",
     "assign a task to a worker.md",
     "attempt backup from prism backup file.md",
@@ -205,17 +215,6 @@
     "git push.md",
     "LOCATIONS.md",
     "birding_spotted.md",
-    "Projects/Prism/workers.md",
-    "schama_for_nodes_canvas.md",
-    "LOCATION_TYPES.md",
-    "Projects/Prism/USER_LOCATIONS.md",
-    "TASK/Tasks/pokegold_new_starter.md",
-    "how to accumulate resources from workers at nodes.md",
-    "smelt.md",
-    "TASK/Tasks/CDS Web Server.md",
-    "cds_2_new_pages.md",
-    "worker_visual.excalidraw.md",
-    "map.md",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
