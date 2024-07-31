@@ -39,10 +39,18 @@ kanban-plugin: board
 	#blog
 - [ ] Fix stage NASP Blog widget
 	#work
+- [ ] get list of tasks for location when selecting worker task
+	#prism
 
 
 ## ACTIVE
 
+- [ ] implement GetTasksForLocation, into worker menu
+	#prism
+- [ ] count new pages made in last fiscal
+	#work
+- [ ] Careers redesign
+	#work
 - [ ] cds automate testing on push
 	#work
 - [ ] cds add github
@@ -57,6 +65,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] get all tasks from location
+	#prism
 - [ ] how to accumulate resources from workers at nodes
 	#prism
 - [ ] check all tables for dummy relation data

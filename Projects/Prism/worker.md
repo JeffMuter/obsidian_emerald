@@ -1,4 +1,4 @@
-[[prism]]
+[[schema]]
 
 these would be individuals in the game world. 
 - many cultures of origin

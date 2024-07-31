@@ -11,6 +11,29 @@
             "id": "50777345221e8790",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3ca13d989d860b5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": -48.904961533204656,
+                  "y": 444.1533861806432,
+                  "zoom": -1.0689992139684839
+                }
+              }
+            }
+          },
+          {
+            "id": "12e9f9f3859db1b1",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "TASK/Task_Board.md",
@@ -26,31 +49,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "82e2061498fa53d4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d3ca13d989d860b5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": -48.904961533204656,
-                  "y": 613.9007466844029,
-                  "zoom": -1.0689992139684839
-                }
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +188,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "50777345221e8790",
+  "active": "12e9f9f3859db1b1",
   "lastOpenFiles": [
-    "attempt backup from prism backup file.md",
-    "TASK/Task_Board.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "notes on wass qualty quarterly sales meeting.md",
+    "Projects/Prism/BUILDING.md",
     "Projects/Prism/WORKER.md",
+    "count new pages made in last fiscal.md",
+    "TASK/Task_Board.md",
+    "add process to select worker task.md",
+    "assign a task to a worker.md",
+    "attempt backup from prism backup file.md",
+    "notes on wass qualty quarterly sales meeting.md",
     "Careers StyleGuide Upgrade.md",
     "making a game in go.md",
     "email lisa.md",
@@ -211,11 +216,6 @@
     "cds_2_new_pages.md",
     "worker_visual.excalidraw.md",
     "map.md",
-    "TASK_TYPE_RESOURCE.md",
-    "Projects/Prism/Crystal.md",
-    "LOCATION_TYPE_TASK.md",
-    "Projects/Prism/Wood.md",
-    "LOCATION_RESOURCE.md",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",

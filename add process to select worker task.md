@@ -1,0 +1,1 @@
+when assigning a worker to work, instead of just working, or not working, need to assign the worker to a task that can be done at the location
