@@ -5,3 +5,4 @@ main worldbuilding elements.
 [[n.e._politics]]
 [[n.e._groups]]
 [[n.e._spirituality]]
+[[n.e._characters]]

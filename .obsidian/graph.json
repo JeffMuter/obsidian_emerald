@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "book",
+      "color": {
+        "a": 1,
+        "rgb": 6376959
+      }
+    },
+    {
+      "query": "Task_Board",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "prism",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.990138408304498,
+  "lineSizeMultiplier": 2.48217993079585,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.30761017293264914,
+  "centerStrength": 0.558823529411765,
+  "repelStrength": 15.8823529411765,
+  "linkStrength": 0.866782006920415,
+  "linkDistance": 83,
+  "scale": 0.17794526424967005,
   "close": true
 }

@@ -26,6 +26,14 @@
             "id": "12e9f9f3859db1b1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "29937f6ef35ea6d8",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "TASK/Task_Board.md",
@@ -41,21 +49,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "29937f6ef35ea6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equalists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equalists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equalists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Equalists.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +184,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "29937f6ef35ea6d8",
+  "active": "12e9f9f3859db1b1",
   "lastOpenFiles": [
-    "living_politics.md",
+    "Emily.md",
+    "TASK/Task_Board.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "n.e_worldbuilding.md",
+    "n.e._characters.md",
+    "Oran.md",
+    "Atena.md",
     "Equalists.md",
+    "living_politics.md",
     "Stoics.md",
     "n.e._politics.md",
     "prism_make_nodes.md",
@@ -213,14 +212,6 @@
     "deep_layered_abyss.md",
     "hundred_level_tower.md",
     "n.e._spirituality.md",
-    "blood_god.md",
-    "flame_god.md",
-    "n.e._history.md",
-    "azure_flame.md",
-    "flame_magic.md",
-    "white_flame.md",
-    "black_flame.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
