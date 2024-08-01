@@ -1,0 +1,1 @@
+a fallen one. shriveled man with dark gray skin, hairless.

@@ -1,0 +1,1 @@
+jill asked me about adding some new functionality to the slideshow. emailed james to get a priority list. yet to hear back

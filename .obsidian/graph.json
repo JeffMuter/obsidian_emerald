@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "book",
@@ -25,7 +25,7 @@
       "query": "prism",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16726092
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 15.8823529411765,
   "linkStrength": 0.866782006920415,
   "linkDistance": 83,
-  "scale": 0.17794526424967005,
-  "close": true
+  "scale": 0.14418156976691215,
+  "close": false
 }

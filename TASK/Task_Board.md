@@ -23,9 +23,9 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[attempt backup from prism backup file]]
+- [ ] get list of tasks for location when selecting worker task
 	#prism
-- [ ] get a list of mountains
+- [ ] [[attempt backup from prism backup file]]
 	#prism
 - [ ] Blog_Add_Post_Comments
 	#blog
@@ -39,8 +39,8 @@ kanban-plugin: board
 	#blog
 - [ ] Fix stage NASP Blog widget
 	#work
-- [ ] get list of tasks for location when selecting worker task
-	#prism
+- [ ] [[eands homepage banner more images and times slide]]
+	#work
 
 
 ## ACTIVE

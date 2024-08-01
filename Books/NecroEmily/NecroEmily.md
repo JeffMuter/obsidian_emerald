@@ -17,3 +17,12 @@ Like that, Emily needs to be one way on the surface, but show signs of this inna
 
 Like a needle striking a balloon, she pops. The pressure of that fear only really needing a trigger, and watching her terrified friend pass from a random accident sends her over the edge.
 
+main worldbuilding elements.
+
+[[n.e_magic system]]
+[[n.e._history]]
+[[n.e._politics]]
+[[n.e._groups]]
+[[n.e._spirituality]]
+[[n.e._characters]]
+[[n.e._dark_realm]]

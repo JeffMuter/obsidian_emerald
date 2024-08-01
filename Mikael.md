@@ -1,0 +1,1 @@
+the previous heaven summoner. won. became a paladin. unusually loyal to his sister compared to other paladins.

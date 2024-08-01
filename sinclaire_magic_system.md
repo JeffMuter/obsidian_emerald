@@ -1,0 +1,1 @@
+magic is like an investment.

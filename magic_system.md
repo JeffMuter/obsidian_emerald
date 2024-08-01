@@ -1,0 +1,1 @@
+in this realm, the only kind of magic is summoning. There are 2 other realms that can be accessed by the summoners. heaven and hell.
