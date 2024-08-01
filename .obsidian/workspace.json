@@ -26,8 +26,20 @@
             "id": "12e9f9f3859db1b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           },
           {
@@ -117,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TASK/Task_Board.md"
+              }
             }
           },
           {
@@ -186,6 +202,10 @@
   },
   "active": "12e9f9f3859db1b1",
   "lastOpenFiles": [
+    "add column to locations_resources, of last time checked.md",
+    "TASK/Task_Board.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "troegdah.md",
     "Avalon.md",
     "sinclaire_locations.md",
     "SinClaire_Book.md",
@@ -202,17 +222,13 @@
     "nephelim.md",
     "n.e._dark_realm.md",
     "ancestral_politics.md",
-    "TASK/Task_Board.md",
     "eands homepage banner more images and times slide.md",
     "on login update resources across all nodes.md",
     "sinclaire_magic_system.md",
     "cloud_nirvana_conference.md",
     "Stoics.md",
     "Emily.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "n.e._characters.md",
-    "Oran.md",
-    "Atena.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

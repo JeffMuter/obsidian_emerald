@@ -1,0 +1,1 @@
+this column on the locations_resources table keeps a timestamp of the last time it was updated. When we run the 'update locations resources' function for all the user's locations, we will check the currently being done tasks, and if time has varied by over xseconds, then we update the number of resources.

@@ -45,8 +45,6 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] implement GetTasksForLocation, into worker menu
-	#prism
 - [ ] count new pages made in last fiscal
 	#work
 - [ ] Careers redesign
@@ -61,10 +59,22 @@ kanban-plugin: board
 	#work
 - [ ] location.Named handling when connecting & creating node
 	#prism
+- [ ] [[add column to locations_resources, of last time checked]]
+	#prism
+- [ ] Take time off for CIOTommorow
+	#work
+- [ ] end current worker task function 
+	#prism
+- [ ] finish set worker task to new task func
+	#prism
 
 
 ## COMPLETE
 
+- [ ] implement GetTasksForLocation, into worker menu
+	#prism
+- [ ] get code snippet for E&S homepage banner ready
+	#work
 - [ ] get all tasks from location
 	#prism
 - [ ] how to accumulate resources from workers at nodes
