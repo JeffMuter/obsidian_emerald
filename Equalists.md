@@ -1,0 +1,1 @@
+this political party in n.e. is based on the modern ideas of communism. Instead of class based war, it's based on something more related to ancestors. The main goal is the get everyone to a point where things are equally distributed. 

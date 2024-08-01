@@ -46,8 +46,12 @@
             "id": "29937f6ef35ea6d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equalists.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equalists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equalists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equalists.md"
+              }
             }
           },
           {
@@ -186,6 +194,19 @@
   },
   "active": "29937f6ef35ea6d8",
   "lastOpenFiles": [
+    "living_politics.md",
+    "Equalists.md",
+    "Stoics.md",
+    "n.e._politics.md",
+    "prism_make_nodes.md",
+    "Books/book-ideas.md",
+    "SinClaire_Book.md",
+    "characters.md",
+    "Abella.md",
+    "SinClaire.md",
+    "Christina.md",
+    "Gertrude.md",
+    "blood_magic.md",
     "paired_worker.md",
     "Projects/Prism/prism.md",
     "stories.md",
@@ -199,19 +220,6 @@
     "flame_magic.md",
     "white_flame.md",
     "black_flame.md",
-    "crimson_flames.md",
-    "n.e_magic system.md",
-    "n.e_worldbuilding.md",
-    "n.e._groups.md",
-    "ember_guard.md",
-    "Books/NecroEmily/NecroEmily.md",
-    "golang_companies.md",
-    "Hell Summoner.md",
-    "angel of death.md",
-    "hell_summoner.md",
-    "paladin.md",
-    "heaven summoner.md",
-    "Emerald.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Books/NecroEmily",
     "Books",

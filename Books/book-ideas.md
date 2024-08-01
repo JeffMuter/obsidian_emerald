@@ -1,3 +1,3 @@
 [[NecroEmily]]
 [[Hell Summoner]]
-[[SinClaire]]
+[[SinClaire_Book]]
