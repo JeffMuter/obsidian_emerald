@@ -15,9 +15,9 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -48.904961533204656,
-                  "y": 444.1533861806432,
-                  "zoom": -1.0689992139684839
+                  "x": 81.60509078342308,
+                  "y": 413.76353860398757,
+                  "zoom": -1.3193327427520705
                 }
               }
             }
@@ -26,44 +26,11 @@
             "id": "12e9f9f3859db1b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "29937f6ef35ea6d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
               }
             }
           },
@@ -200,35 +167,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12e9f9f3859db1b1",
+  "active": "d3ca13d989d860b5",
   "lastOpenFiles": [
-    "add column to locations_resources, of last time checked.md",
-    "TASK/Task_Board.md",
+    "Projects/Prism/prism.md",
+    "wass_beneleaves.md",
+    "sql functions in go.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "troegdah.md",
-    "Avalon.md",
-    "sinclaire_locations.md",
-    "SinClaire_Book.md",
-    "magic_system.md",
-    "hs_characters.md",
-    "Jaylynn.md",
-    "Mikael.md",
-    "Metatron.md",
-    "Hell Summoner.md",
-    "Books/NecroEmily/NecroEmily.md",
-    "n.e_worldbuilding.md",
-    "default_accessible.md",
+    "last_updated.md",
+    "quantity.md",
+    "LOCATION_RESOURCE.md",
+    "Saorsa.md",
+    "saorsa_magic_system.md",
+    "deep_magic.md",
+    "land_magic.md",
+    "underground_folk.md",
+    "earth_peoples.md",
+    "sky_peoples.md",
+    "sky_island_magic.md",
     "Books/book-ideas.md",
-    "nephelim.md",
-    "n.e._dark_realm.md",
-    "ancestral_politics.md",
-    "eands homepage banner more images and times slide.md",
-    "on login update resources across all nodes.md",
-    "sinclaire_magic_system.md",
-    "cloud_nirvana_conference.md",
-    "Stoics.md",
-    "Emily.md",
-    "n.e._characters.md",
+    "purple_flame.md",
+    "TASK_TYPE_RESOURCE.md",
+    "Projects/Prism/workers.md",
+    "cinders.md",
+    "dark_knight.md",
+    "realm_walkers.md",
+    "cinder_paladin.md",
+    "paladin.md",
+    "investigators.md",
+    "n.e._groups.md",
+    "ember_guard.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

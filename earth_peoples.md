@@ -1,0 +1,1 @@
+these are the peoples who live on the surface of the earth

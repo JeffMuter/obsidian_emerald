@@ -1,0 +1,1 @@
+this value on the prism table: [[LOCATION_RESOURCE]], is meant to act as the current quanitty of this particular resource, at this particular location

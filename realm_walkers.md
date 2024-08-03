@@ -1,0 +1,1 @@
+using blue and purple flames to see evil in this realm, and the other.

@@ -14,7 +14,7 @@
 		{"id":"f9b5bb1867e2bad5","type":"text","text":"[[LOCATION_TYPES]]\nid SERIAL PK NOT NULL\nname VARCHAR(50)","x":-321,"y":600,"width":250,"height":111,"color":"4"},
 		{"id":"7759edbe0d080f9e","type":"text","text":"[[TASK_TYPE_RESOURCE]]\nid SERIAL PRIMARY KEY\ntask_type_id FK\nresource_type_id FK\n","x":270,"y":896,"width":250,"height":146,"color":"#0c00b8"},
 		{"id":"a08d054bed0cf34b","type":"text","text":"[[resource]]\nid SERIAL PK\nname TEXT","x":-321,"y":930,"width":250,"height":78,"color":"1"},
-		{"id":"5a3f8cdda8dec214","type":"text","text":"[[LOCATION_RESOURCE]]\nid SERIAL PRIMARY KEY\nlocation_id FK\nresource_id FK\nquantity INTEGER DEFAULT 0 NOT NULL","x":-840,"y":642,"width":360,"height":119}
+		{"id":"5a3f8cdda8dec214","type":"text","text":"[[LOCATION_RESOURCE]]\nid SERIAL PRIMARY KEY\nlocation_id FK\nresource_id FK\n[[quantity]] INTEGER DEFAULT 0 NOT NULL\n[[last_updated]] TIMESTAMP","x":-840,"y":642,"width":360,"height":158}
 	],
 	"edges":[
 		{"id":"ef994761b7b688b4","fromNode":"8fba41fa4dc098c0","fromSide":"top","toNode":"f2c29c1238f21203","toSide":"bottom","color":"#2300d1"},

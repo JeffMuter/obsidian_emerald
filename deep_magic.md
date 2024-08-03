@@ -1,0 +1,1 @@
+i haven't decided what this is. the sky magic is more 'air-like', earth magic being about the physical body, im not sure what the deep magic would be.

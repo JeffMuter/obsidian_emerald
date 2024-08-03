@@ -1,0 +1,1 @@
+this is a version of saorsa use, where the user can use the saorsa externally, turning a mist the comes from their mouth into a real substance. Basic examples are creating a weapon, a staff, a tool, or even a small structure, like a bridge.

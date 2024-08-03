@@ -1,0 +1,1 @@
+purple flame allows one to see into another realm, but they need a connection to that realm. Such as blood for the blood god.

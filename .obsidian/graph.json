@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "book",
@@ -25,7 +25,21 @@
       "query": "prism",
       "color": {
         "a": 1,
-        "rgb": 16726092
+        "rgb": 16735340
+      }
+    },
+    {
+      "query": "excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 42695
+      }
+    },
+    {
+      "query": "canvas",
+      "color": {
+        "a": 1,
+        "rgb": 10711040
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 15.8823529411765,
   "linkStrength": 0.866782006920415,
   "linkDistance": 83,
-  "scale": 0.150005925456453,
-  "close": false
+  "scale": 0.11431861063771294,
+  "close": true
 }
