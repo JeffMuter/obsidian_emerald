@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[homebase design]] 
+	#prism
 - [ ] [[update locations_resources on login]]
 	#prism
 - [ ] [[attempt backup from prism backup file]]
@@ -45,6 +47,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[function, update all locations_resources quantities]]
+	[[prism]]
 - [ ] Take time off for CIOTommorow
 	#work
 - [ ] count new pages made in last fiscal
@@ -57,12 +61,12 @@ kanban-plugin: board
 	#work
 - [ ] location.Named handling when connecting & creating node
 	#prism
-- [ ] [[add column to locations_resources, of last time checked]]
-	#prism
 
 
 ## COMPLETE
 
+- [ ] [[add column to locations_resources, of last time checked]]
+	#prism
 - [ ] end current worker task function 
 	#prism
 - [ ] finish set worker task to new task func

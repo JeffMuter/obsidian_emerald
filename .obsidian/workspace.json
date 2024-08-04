@@ -15,9 +15,9 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -257.4876908719331,
-                  "y": 230.22252047618605,
-                  "zoom": -0.22089684000754228
+                  "x": -190.1037220927203,
+                  "y": 749.3342869215312,
+                  "zoom": -0.5351746865558347
                 }
               }
             }
@@ -26,19 +26,11 @@
             "id": "12e9f9f3859db1b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "function, update all locations_resources quantities.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "function, update all locations_resources quantities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "function, update all locations_resources quantities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "function, update all locations_resources quantities.md"
               }
             }
           },
@@ -190,10 +182,13 @@
   },
   "active": "12e9f9f3859db1b1",
   "lastOpenFiles": [
-    "update locations_resources on login.md",
     "TASK/Task_Board.md",
-    "refresh resources on login.md",
+    "function, update all locations_resources quantities.md",
+    "add column to locations_resources, of last time checked.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "update locations_resources on login.md",
+    "homebase design.md",
+    "refresh resources on login.md",
     "named.md",
     "Projects/Prism/prism.md",
     "wass_beneleaves.md",
@@ -214,9 +209,6 @@
     "TASK_TYPE_RESOURCE.md",
     "Projects/Prism/workers.md",
     "cinders.md",
-    "dark_knight.md",
-    "realm_walkers.md",
-    "cinder_paladin.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
