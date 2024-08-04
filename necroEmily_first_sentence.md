@@ -1,4 +1,5 @@
-[[NecroEmily]]
+[[NecroEmily]] [[Emily]]
+
 
 the first sentence Emily says is:
 "I want to see war."
