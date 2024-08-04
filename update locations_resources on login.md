@@ -1,0 +1,1 @@
+on login, we need to update this user's locations_resources by comparing the last time they were updated vs now, then run the algorithm based on the current tasks being done at those locations, etc..

@@ -23,7 +23,7 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] get list of tasks for location when selecting worker task
+- [ ] [[update locations_resources on login]]
 	#prism
 - [ ] [[attempt backup from prism backup file]]
 	#prism
@@ -59,14 +59,14 @@ kanban-plugin: board
 	#prism
 - [ ] [[add column to locations_resources, of last time checked]]
 	#prism
-- [ ] end current worker task function 
-	#prism
-- [ ] finish set worker task to new task func
-	#prism
 
 
 ## COMPLETE
 
+- [ ] end current worker task function 
+	#prism
+- [ ] finish set worker task to new task func
+	#prism
 - [ ] time_off_structure_plan
 	#work
 - [ ] implement GetTasksForLocation, into worker menu
@@ -155,6 +155,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#job"},{"tag":"#blog"},{"tag":"#prism"},{"tag":"#stream"},{"tag":"#family"},{"tag":"#devops"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#family","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(220, 245, 0, 1)"},{"tagKey":"#prism","color":"rgba(94, 236, 255, 1)","backgroundColor":"rgba(0, 0, 0, 1)"}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#job"},{"tag":"#blog"},{"tag":"#prism"},{"tag":"#stream"},{"tag":"#family"},{"tag":"#devops"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#family","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(220, 245, 0, 1)"},{"tagKey":"#prism","color":"rgba(94, 236, 255, 1)","backgroundColor":"rgba(0, 0, 0, 1)"}],"new-card-insertion-method":"prepend"}
 ```
 %%
