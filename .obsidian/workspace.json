@@ -15,9 +15,9 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -190.1037220927203,
-                  "y": 749.3342869215312,
-                  "zoom": -0.5351746865558347
+                  "x": -82.81342525389712,
+                  "y": 251.67725022516993,
+                  "zoom": -1.0112458911651803
                 }
               }
             }
@@ -41,9 +41,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "9e825469abb716c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "necroEmily_first_sentence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "function, update all locations_resources quantities.md",
+                "file": "necroEmily_first_sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "function, update all locations_resources quantities.md",
+                "file": "necroEmily_first_sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "function, update all locations_resources quantities.md"
+                "file": "necroEmily_first_sentence.md"
               }
             }
           },
@@ -180,12 +192,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12e9f9f3859db1b1",
+  "active": "9e825469abb716c1",
   "lastOpenFiles": [
-    "TASK/Task_Board.md",
-    "function, update all locations_resources quantities.md",
-    "add column to locations_resources, of last time checked.md",
+    "necroEmily_first_sentence.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "function, update all locations_resources quantities.md",
+    "TASK/Task_Board.md",
+    "add column to locations_resources, of last time checked.md",
     "update locations_resources on login.md",
     "homebase design.md",
     "refresh resources on login.md",
@@ -208,7 +221,6 @@
     "purple_flame.md",
     "TASK_TYPE_RESOURCE.md",
     "Projects/Prism/workers.md",
-    "cinders.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
