@@ -48,9 +48,7 @@ kanban-plugin: board
 ## ACTIVE
 
 - [ ] [[function, update all locations_resources quantities]]
-	[[prism]]
-- [ ] Take time off for CIOTommorow
-	#work
+	#prism
 - [ ] count new pages made in last fiscal
 	#work
 - [ ] Careers redesign
@@ -65,6 +63,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] Take time off for CIOTommorow
+	#work
 - [ ] [[add column to locations_resources, of last time checked]]
 	#prism
 - [ ] end current worker task function 
