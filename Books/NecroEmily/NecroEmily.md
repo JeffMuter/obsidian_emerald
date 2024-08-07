@@ -26,3 +26,4 @@ main worldbuilding elements.
 [[n.e._spirituality]]
 [[n.e._characters]]
 [[n.e._dark_realm]]
+[[n.e._story]]

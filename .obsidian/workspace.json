@@ -15,9 +15,9 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -82.81342525389712,
-                  "y": 251.67725022516993,
-                  "zoom": -1.0112458911651803
+                  "x": -28.35926961959538,
+                  "y": 264.1335063368632,
+                  "zoom": -0.7618466824075678
                 }
               }
             }
@@ -26,8 +26,12 @@
             "id": "12e9f9f3859db1b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "emergency edit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -41,9 +45,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "810e00568f12ad69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "function, update all locations_resources quantities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+              }
             }
           },
           {
@@ -176,34 +195,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12e9f9f3859db1b1",
+  "active": "d3ca13d989d860b5",
   "lastOpenFiles": [
+    "function, update all locations_resources quantities.md",
+    "anger_reasons.md",
+    "wdu_08_09_24.md",
+    "emergency edit.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "n.e._story.md",
+    "n.e._chapter2.md",
+    "n.e._chapter1.md",
+    "Books/NecroEmily/NecroEmily.md",
+    "homebase design.md",
+    "Oran.md",
     "user_stories_prism.md",
     "TASK/Task_Board.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "wdu_08_09_24.md",
-    "function, update all locations_resources quantities.md",
     "weekly_dev_updates.md",
     "sorsadev.md",
     "blog_ideas.md",
     "Emily.md",
-    "n.e._chapter1.md",
     "Thompson.md",
     "necroEmily_first_sentence.md",
     "add column to locations_resources, of last time checked.md",
     "update locations_resources on login.md",
-    "homebase design.md",
     "refresh resources on login.md",
     "named.md",
     "Projects/Prism/prism.md",
     "wass_beneleaves.md",
     "sql functions in go.md",
-    "last_updated.md",
-    "quantity.md",
-    "LOCATION_RESOURCE.md",
-    "Saorsa.md",
-    "saorsa_magic_system.md",
-    "deep_magic.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

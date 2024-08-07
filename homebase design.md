@@ -1,4 +1,4 @@
-this is a [[prism]] project. 
+this is a project. 
 
 the homebase is a concept for a centralized location the user can establish. This location is accessible wherever the user is. But I may consider making this location movable, and have some special details a user can access when within a mildly wide range, in case they move somewhere, they don't need to destroy their old nodes, or pay attention to where they're moving in case they're not going to be close enough to where they can place a node. It HAS to be movable, for similar reasons.
 
