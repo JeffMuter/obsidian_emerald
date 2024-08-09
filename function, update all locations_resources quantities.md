@@ -17,3 +17,9 @@ we have a location id to start with.
 using that location, we need to update all resources it is going to have. to know that, we need to know the ongoing tasks, and the resources they can potentially update.
 
 once we have the location_resources. let's say we have iron, 
+
+
+Now we're making the functions to update the columns in locations_resources.
+
+Some exceptions here. What if a row didn't exist?
+the solution I figure is, there 

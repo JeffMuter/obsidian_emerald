@@ -15,50 +15,71 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -28.35926961959538,
-                  "y": 264.1335063368632,
-                  "zoom": -0.7618466824075678
+                  "x": 166.1909548155394,
+                  "y": 292.58329903885334,
+                  "zoom": -0.9347801366277659
                 }
               }
             }
           },
           {
-            "id": "12e9f9f3859db1b1",
+            "id": "da643af65408f48d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "87e7317199a6e609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emergency edit.md",
+                "file": "fix base rate calculation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7f9144a104354cd",
+            "id": "22990d800937536a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wdu_08_09_24.md",
+                "file": "19thAug Remove Ariz Home Banner.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "810e00568f12ad69",
+            "id": "eb3a41f000fd459f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "function, update all locations_resources quantities.md",
+                "file": "CDS Homepage build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d1017addb11336f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "talk to jeffb registration page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "CDS Homepage build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "CDS Homepage build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+                "file": "CDS Homepage build.md"
               }
             }
           },
@@ -195,34 +216,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3ca13d989d860b5",
+  "active": "eb3a41f000fd459f",
   "lastOpenFiles": [
-    "function, update all locations_resources quantities.md",
-    "anger_reasons.md",
-    "wdu_08_09_24.md",
-    "emergency edit.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "n.e._story.md",
-    "n.e._chapter2.md",
-    "n.e._chapter1.md",
-    "Books/NecroEmily/NecroEmily.md",
-    "homebase design.md",
-    "Oran.md",
-    "user_stories_prism.md",
     "TASK/Task_Board.md",
-    "weekly_dev_updates.md",
-    "sorsadev.md",
-    "blog_ideas.md",
-    "Emily.md",
-    "Thompson.md",
-    "necroEmily_first_sentence.md",
-    "add column to locations_resources, of last time checked.md",
-    "update locations_resources on login.md",
-    "refresh resources on login.md",
-    "named.md",
-    "Projects/Prism/prism.md",
-    "wass_beneleaves.md",
-    "sql functions in go.md",
+    "CDS Homepage build.md",
+    "cds pages, new logo.md",
+    "golang_companies.md",
+    "talk to jeffb registration page.md",
+    "Pasted image 20240809135208.png",
+    "chants sennar.md",
+    "games.md",
+    "19thAug Remove Ariz Home Banner.md",
+    "fix base rate calculation.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "optimize update resources quantities.md",
+    "nola_food.md",
+    "Cafe_Du_Monde.md",
+    "new_orleans.md",
+    "Pasted image 20240808140956.png",
+    "Pasted image 20240808135735.png",
+    "Pasted image 20240808135716.png",
+    "Pasted image 20240808135346.png",
+    "Pasted image 20240808135140.png",
+    "Pasted image 20240808135111.png",
+    "Pasted image 20240808135031.png",
+    "Pasted image 20240808135018.png",
+    "Pasted image 20240808134953.png",
+    "dn_vacations.md",
+    "date_night.md",
+    "native_american.md",
+    "naicco quisine.md",
+    "SouthAmerican.md",
+    "chile_verde.md",
+    "indian.md",
+    "awahd india.md",
+    "dn_movie.md",
+    "dn_town_walk.md",
+    "dn_food.md",
+    "Asian.md",
+    "texas_de_brazil.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
@@ -230,7 +262,6 @@
     "wass_devops_canvas.canvas",
     "prism_rdb_canvas.canvas",
     "Projects/Prism",
-    "Pasted image 20240621152540.png",
     "TASK",
     "TASK/Tasks",
     "Projects"

@@ -23,9 +23,9 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[homebase design]] 
-	#prism
 - [ ] [[update locations_resources on login]]
+	#prism
+- [ ] [[homebase design]] 
 	#prism
 - [ ] [[attempt backup from prism backup file]]
 	#prism
@@ -47,9 +47,26 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[function, update all locations_resources quantities]]
+- [ ] [[cds pages, new logo]]
+	#work
+- [ ] [[CDS Homepage build]]
+	#work
+- [ ] [[talk to jeffb registration page]]
+	#work
+- [ ] [[fix base rate calculation]]
 	#prism
-- [ ] count new pages made in last fiscal
+- [ ] [[update james on license]]
+	#work
+- [ ] sale funnel 
+	#work
+- [ ] [[19thAug Remove Ariz Home Banner]]
+	#work
+- [ ] [[test_for_cloudinary_images]]
+	#work
+- [ ] [[careers hero update]]
+	#work
+- [ ] [[optimize update resources quantities]]#prism
+- [ ] [[count new pages made in last fiscal]]
 	#work
 - [ ] Careers redesign
 	#work
@@ -63,6 +80,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[emergency edit on overview]]
+	#work
+- [ ] [[function, update all locations_resources quantities]]
+	#prism
 - [ ] Take time off for CIOTommorow
 	#work
 - [ ] [[add column to locations_resources, of last time checked]]
