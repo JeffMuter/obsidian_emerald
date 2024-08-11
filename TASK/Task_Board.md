@@ -47,14 +47,14 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[error in updating quantity]]
+	#prism
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
 	#work
 - [ ] [[talk to jeffb registration page]]
 	#work
-- [ ] [[fix base rate calculation]]
-	#prism
 - [ ] [[update james on license]]
 	#work
 - [ ] sale funnel 
@@ -65,7 +65,8 @@ kanban-plugin: board
 	#work
 - [ ] [[careers hero update]]
 	#work
-- [ ] [[optimize update resources quantities]]#prism
+- [ ] [[optimize update resources quantities]]
+	#prism
 - [ ] [[count new pages made in last fiscal]]
 	#work
 - [ ] Careers redesign
@@ -80,6 +81,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[fix base rate calculation]]
+	#prism
+- [ ] [[fix circular imports]]
+	#prism
 - [ ] [[emergency edit on overview]]
 	#work
 - [ ] [[function, update all locations_resources quantities]]

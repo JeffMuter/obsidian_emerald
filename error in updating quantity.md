@@ -1,0 +1,1 @@
+the function appears to be properly updating the time, but not the quantity, needs stepped through in the debugger.
