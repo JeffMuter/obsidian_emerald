@@ -1,0 +1,1 @@
+waiting for an image back from ali. Other than that, not much left on the careers page.

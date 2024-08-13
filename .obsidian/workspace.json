@@ -11,14 +11,11 @@
             "id": "d3ca13d989d860b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 46.49388857285941,
-                  "y": 273.5430996238559,
-                  "zoom": -1.200586438857329
-                }
+                "file": "EGG.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,31 +28,21 @@
             }
           },
           {
-            "id": "87e7317199a6e609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fix base rate calculation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a1fe3317db6bb1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "error in updating quantity.md",
-                "mode": "source",
-                "source": false
+                "file": "docker_alternatives.canvas",
+                "viewState": {
+                  "x": -153.1538426787008,
+                  "y": -15.712866393274503,
+                  "zoom": -1.003662154144711
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "error in updating quantity.md",
+                "file": "EGG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "error in updating quantity.md",
+                "file": "EGG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "error in updating quantity.md"
+                "file": "EGG.md"
               }
             }
           },
@@ -192,20 +179,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3a1fe3317db6bb1c",
+  "active": "d3ca13d989d860b5",
   "lastOpenFiles": [
-    "TASK/Task_Board.md",
-    "error in updating quantity.md",
-    "fix circular imports.md",
-    "fix base rate calculation.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "EGG.md",
+    "docker_alternatives.canvas",
+    "TASK/Task_Board.md",
+    "Excalidraw/Drawing 2024-08-13 14.11.00.excalidraw.md",
+    "Excalidraw",
+    "determine_process_to_meet_workers.md",
+    "homebase design.md",
+    "error in updating quantity.md",
+    "worker_count broken.md",
+    "cds pages, new logo.md",
+    "careers hero update.md",
+    "fix base rate calculation.md",
+    "fix circular imports.md",
     "closet.md",
     "personality.md",
     "19thAug Remove Ariz Home Banner.md",
     "talk to jeffb registration page.md",
     "golang_companies.md",
     "CDS Homepage build.md",
-    "cds pages, new logo.md",
     "Pasted image 20240809135208.png",
     "chants sennar.md",
     "games.md",
@@ -224,13 +219,6 @@
     "Pasted image 20240808134953.png",
     "dn_vacations.md",
     "date_night.md",
-    "native_american.md",
-    "naicco quisine.md",
-    "SouthAmerican.md",
-    "chile_verde.md",
-    "indian.md",
-    "awahd india.md",
-    "dn_movie.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

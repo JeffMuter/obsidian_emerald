@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"44ab30bd385b59a9","x":-425,"y":-256,"width":250,"height":156,"type":"text","text":"Docker:\nCreate containers\nindustry standard\nour future containerization platform"},
+		{"id":"35d08f8a2c0157e4","x":-175,"y":-440,"width":250,"height":60,"type":"text","text":"Run / Develop / Test"},
+		{"id":"00a6022f8a2996f0","x":98,"y":-262,"width":222,"height":162,"type":"text","text":"Podman:\nCreate containers\nNot the standard\nNot on Wasserstrom Dev roadmap"},
+		{"id":"b5aa967ead543e7e","x":84,"y":-28,"width":250,"height":118,"type":"text","text":"Podman Desktop\nPods\nFree & Open Source"},
+		{"id":"2ccabc37ecd51614","x":-175,"y":320,"width":250,"height":60,"type":"text","text":"Containerized Applicaiton"},
+		{"id":"77baee930f0eabac","x":-280,"y":36,"width":250,"height":108,"type":"text","text":"Docker Desktop:\nUI to work with Docker\nRequires License"},
+		{"id":"c09f01ad5077e871","x":-580,"y":31,"width":227,"height":92,"type":"text","text":"Rancher Desktop\nFree & Open Source"}
+	],
+	"edges":[
+		{"id":"44ac3bc65ff8dbdf","fromNode":"35d08f8a2c0157e4","fromSide":"bottom","toNode":"44ab30bd385b59a9","toSide":"top"},
+		{"id":"28a4e0c4e61144c7","fromNode":"35d08f8a2c0157e4","fromSide":"bottom","toNode":"00a6022f8a2996f0","toSide":"top"},
+		{"id":"129da5fc0c4cc73e","fromNode":"00a6022f8a2996f0","fromSide":"bottom","toNode":"b5aa967ead543e7e","toSide":"top"},
+		{"id":"579d710f3ab117fe","fromNode":"44ab30bd385b59a9","fromSide":"bottom","toNode":"77baee930f0eabac","toSide":"top"},
+		{"id":"29d23c663a3bfe05","fromNode":"44ab30bd385b59a9","fromSide":"bottom","toNode":"c09f01ad5077e871","toSide":"top"},
+		{"id":"e096666e885abbce","fromNode":"77baee930f0eabac","fromSide":"bottom","toNode":"2ccabc37ecd51614","toSide":"top"},
+		{"id":"23770980eed59f19","fromNode":"c09f01ad5077e871","fromSide":"bottom","toNode":"2ccabc37ecd51614","toSide":"top"},
+		{"id":"0c88aa42793088e0","fromNode":"b5aa967ead543e7e","fromSide":"bottom","toNode":"2ccabc37ecd51614","toSide":"top"}
+	]
+}

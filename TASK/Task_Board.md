@@ -23,8 +23,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[update locations_resources on login]]
-	#prism
 - [ ] [[homebase design]] 
 	#prism
 - [ ] [[attempt backup from prism backup file]]
@@ -41,35 +39,20 @@ kanban-plugin: board
 	#blog
 - [ ] Fix stage NASP Blog widget
 	#work
-- [ ] [[eands homepage banner more images and times slide]]
-	#work
 
 
 ## ACTIVE
 
-- [ ] [[error in updating quantity]]
+- [ ] [[docker_alternatives.canvas]]
+- [ ] [[determine_process_to_meet_workers]]
 	#prism
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
 	#work
-- [ ] [[talk to jeffb registration page]]
-	#work
-- [ ] [[update james on license]]
-	#work
-- [ ] sale funnel 
-	#work
 - [ ] [[19thAug Remove Ariz Home Banner]]
 	#work
 - [ ] [[test_for_cloudinary_images]]
-	#work
-- [ ] [[careers hero update]]
-	#work
-- [ ] [[optimize update resources quantities]]
-	#prism
-- [ ] [[count new pages made in last fiscal]]
-	#work
-- [ ] Careers redesign
 	#work
 - [ ] cds automate testing on push
 	#work
@@ -81,6 +64,28 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] Careers redesign
+	#work
+- [ ] [[careers hero update]]
+	#work
+- [ ] [[eands homepage banner more images and times slide]]
+	#work
+- [ ] [[update locations_resources on login]]
+	#prism
+- [ ] [[worker_count broken]]
+	#prism
+- [ ] [[count new pages made in last fiscal]]
+	#work
+- [ ] sale funnel 
+	#work
+- [ ] [[update james on license]]
+	#work
+- [ ] [[talk to jeffb registration page]]
+	#work
+- [ ] [[optimize update resources quantities]]
+	#prism
+- [ ] [[error in updating quantity]]
+	#prism
 - [ ] [[fix base rate calculation]]
 	#prism
 - [ ] [[fix circular imports]]
