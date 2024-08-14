@@ -28,21 +28,22 @@
             }
           },
           {
-            "id": "3a1fe3317db6bb1c",
+            "id": "41dd431764d0c752",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "docker_alternatives.canvas",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": -153.1538426787008,
-                  "y": -15.712866393274503,
-                  "zoom": -1.003662154144711
+                  "x": 175.9198425490303,
+                  "y": 25.096500873071207,
+                  "zoom": -1.2702854708144249
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGG.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGG.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGG.md"
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
               }
             }
           },
@@ -179,11 +180,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3ca13d989d860b5",
+  "active": "41dd431764d0c752",
   "lastOpenFiles": [
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "EGG.md",
+    "do what you hate.md",
     "docker_alternatives.canvas",
+    "EGG.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "A Developer's Golden Age.md",
+    "blog_ideas.md",
     "TASK/Task_Board.md",
     "Excalidraw/Drawing 2024-08-13 14.11.00.excalidraw.md",
     "Excalidraw",
@@ -217,8 +221,6 @@
     "Pasted image 20240808135031.png",
     "Pasted image 20240808135018.png",
     "Pasted image 20240808134953.png",
-    "dn_vacations.md",
-    "date_night.md",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
