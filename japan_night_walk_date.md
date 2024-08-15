@@ -1,0 +1,2 @@
+
+I think it would be cool to just 'go' out in japan at night in an urban city. Get street food, see the city in its natural habitat, get sushi, or ramen, just watch what a night looks like in this place, which is remarkably safe.

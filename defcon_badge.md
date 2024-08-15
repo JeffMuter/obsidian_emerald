@@ -1,0 +1,1 @@
+id like to go to defcon and win a badge from a CTF challenge. Super difficult, but would prove im becoming a pretty damn good developer.

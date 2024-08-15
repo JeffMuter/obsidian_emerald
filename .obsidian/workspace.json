@@ -31,14 +31,11 @@
             "id": "41dd431764d0c752",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 175.9198425490303,
-                  "y": 25.096500873071207,
-                  "zoom": -1.2702854708144249
-                }
+                "file": "balloon ride.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "balloon ride.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "balloon ride.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+                "file": "balloon ride.md"
               }
             }
           },
@@ -182,10 +179,21 @@
   },
   "active": "41dd431764d0c752",
   "lastOpenFiles": [
-    "do what you hate.md",
-    "docker_alternatives.canvas",
+    "tour japan.md",
+    "mt_fuji.md",
+    "Pasted image 20240814205421.png",
+    "bucket_list.md",
+    "japan_night_walk_date.md",
+    "summit mount Mitchell.md",
+    "balloon ride.md",
+    "skydive.md",
+    "defcon_badge.md",
+    "personality.md",
+    "notes james.md",
     "EGG.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "do what you hate.md",
+    "docker_alternatives.canvas",
     "A Developer's Golden Age.md",
     "blog_ideas.md",
     "TASK/Task_Board.md",
@@ -200,18 +208,7 @@
     "fix base rate calculation.md",
     "fix circular imports.md",
     "closet.md",
-    "personality.md",
-    "19thAug Remove Ariz Home Banner.md",
-    "talk to jeffb registration page.md",
-    "golang_companies.md",
-    "CDS Homepage build.md",
     "Pasted image 20240809135208.png",
-    "chants sennar.md",
-    "games.md",
-    "optimize update resources quantities.md",
-    "nola_food.md",
-    "Cafe_Du_Monde.md",
-    "new_orleans.md",
     "Pasted image 20240808140956.png",
     "Pasted image 20240808135735.png",
     "Pasted image 20240808135716.png",
@@ -220,7 +217,6 @@
     "Pasted image 20240808135111.png",
     "Pasted image 20240808135031.png",
     "Pasted image 20240808135018.png",
-    "Pasted image 20240808134953.png",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
