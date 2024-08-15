@@ -6,3 +6,5 @@
 [[manage workers]]
 [[automate resource allocation, and transport]]
 [[real world events]]
+[[loot]]
+[[expedition]]

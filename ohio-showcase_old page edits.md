@@ -1,0 +1,1 @@
+on the old page, remove the registration on the page

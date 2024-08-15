@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[travel_system]]
+	#prism
 - [ ] [[homebase design]] 
 	#prism
 - [ ] [[attempt backup from prism backup file]]
@@ -35,6 +37,8 @@ kanban-plugin: board
 	#prism
 - [ ] [[blog_other_pages_indexing]]
 	#blog
+- [ ] location.Named handling when connecting & creating node
+	#prism
 - [ ] [[draft blog post about golang sql reading]]
 	#blog
 - [ ] Fix stage NASP Blog widget
@@ -43,14 +47,16 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[docker_alternatives.canvas]]
-- [ ] [[determine_process_to_meet_workers]]
+- [ ] [[ohio-showcase_old page edits]]
+	#work
+- [ ] [[hatch egg process]]
 	#prism
+- [ ] [[docker_alternatives.canvas]]
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
 	#work
-- [ ] [[19thAug Remove Ariz Home Banner]]
+- [ ] [[20thAug Remove Ariz Home Banner]]
 	#work
 - [ ] [[test_for_cloudinary_images]]
 	#work
@@ -58,12 +64,14 @@ kanban-plugin: board
 	#work
 - [ ] cds add github
 	#work
-- [ ] location.Named handling when connecting & creating node
-	#prism
 
 
 ## COMPLETE
 
+- [ ] create egg func
+	#prism
+- [ ] [[determine_process_to_meet_workers]]
+	#prism
 - [ ] Careers redesign
 	#work
 - [ ] [[careers hero update]]

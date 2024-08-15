@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGG.md",
+                "file": "expedition.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,20 @@
             "id": "da643af65408f48d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           },
           {
@@ -41,9 +53,20 @@
                 }
               }
             }
+          },
+          {
+            "id": "c6e5c33f6296ae20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "travel_system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "expedition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "file": "expedition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas"
+                "file": "expedition.md"
               }
             }
           },
@@ -180,10 +203,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "41dd431764d0c752",
+  "active": "d3ca13d989d860b5",
   "lastOpenFiles": [
-    "balloon ride.md",
+    "user_stories_prism.md",
+    "expedition.md",
+    "hatch egg process.md",
+    "travel_system.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "TASK/Task_Board.md",
+    "loot.md",
+    "ohio-showcase_old page edits.md",
+    "20thAug Remove Ariz Home Banner.md",
+    "notes james.md",
     "EGG.md",
+    "balloon ride.md",
     "tour japan.md",
     "mt_fuji.md",
     "Pasted image 20240814205421.png",
@@ -193,24 +226,15 @@
     "skydive.md",
     "defcon_badge.md",
     "personality.md",
-    "notes james.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "do what you hate.md",
     "docker_alternatives.canvas",
     "A Developer's Golden Age.md",
     "blog_ideas.md",
-    "TASK/Task_Board.md",
     "Excalidraw/Drawing 2024-08-13 14.11.00.excalidraw.md",
     "Excalidraw",
     "determine_process_to_meet_workers.md",
     "homebase design.md",
     "error in updating quantity.md",
-    "worker_count broken.md",
-    "cds pages, new logo.md",
-    "careers hero update.md",
-    "fix base rate calculation.md",
-    "fix circular imports.md",
-    "closet.md",
     "Pasted image 20240809135208.png",
     "Pasted image 20240808140956.png",
     "Pasted image 20240808135735.png",

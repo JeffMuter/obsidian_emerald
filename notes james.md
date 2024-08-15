@@ -6,3 +6,5 @@
 - [ ] move forward on careers
 
 - [x]  tell michal about Rancher
+
+issue where forever added to the list of emails, can a person truly unsubscribe.
