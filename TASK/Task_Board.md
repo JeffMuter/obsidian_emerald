@@ -54,13 +54,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] debug hatch egg
+- [ ] [[careers_new_vid]]
+	#work
+- [ ] [[hatch_egg_stat roll err]]
 	#prism
-- [ ] [[oh_showcase-  new content]]
-	#work
-- [ ] [[ohio-showcase_old page edits]]
-	#work
-- [ ] [[docker_alternatives.canvas]]
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
@@ -77,6 +74,13 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[oh_showcase-  new content]]
+	#work
+- [ ] debug hatch egg
+	#prism
+- [ ] [[docker_alternatives.canvas]]
+- [ ] [[ohio-showcase_old page edits]]
+	#work
 - [ ] [[hatch egg process]]
 	#prism
 - [ ] add_egg func needs tested

@@ -23,19 +23,11 @@
             "id": "da643af65408f48d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "hatch_egg_stat roll err.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,9 +57,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aaea03008d06ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,10 +216,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "da643af65408f48d",
+  "active": "aaea03008d06ce9c",
   "lastOpenFiles": [
-    "talk_to.md",
+    "careers_new_vid.md",
     "TASK/Task_Board.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "hatch_egg_stat roll err.md",
+    "talk_to.md",
     "util package documentation.md",
     "oh_showcase-  new content.md",
     "ohio-showcase_old page edits.md",
@@ -222,7 +237,6 @@
     "how to prioritize todo list.md",
     "4000 weeks.md",
     "travel_system.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "loot.md",
     "20thAug Remove Ariz Home Banner.md",
     "notes james.md",
@@ -232,8 +246,6 @@
     "mt_fuji.md",
     "Pasted image 20240814205421.png",
     "bucket_list.md",
-    "japan_night_walk_date.md",
-    "summit mount Mitchell.md",
     "docker_alternatives.canvas",
     "Excalidraw",
     "Pasted image 20240809135208.png",
