@@ -23,6 +23,13 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[talk_to]] cyprian
+- [ ] [[util package documentation]]
+	#prism
+- [ ] [[get admin access to TLC]]
+	#devops
+- [ ] [[email all devops group]]
+	#devops
 - [ ] [[travel_system]]
 	#prism
 - [ ] [[homebase design]] 
@@ -47,10 +54,12 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] debug hatch egg
+	#prism
+- [ ] [[oh_showcase-  new content]]
+	#work
 - [ ] [[ohio-showcase_old page edits]]
 	#work
-- [ ] [[hatch egg process]]
-	#prism
 - [ ] [[docker_alternatives.canvas]]
 - [ ] [[cds pages, new logo]]
 	#work
@@ -68,6 +77,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[hatch egg process]]
+	#prism
+- [ ] add_egg func needs tested
+	#prism
 - [ ] create egg func
 	#prism
 - [ ] [[determine_process_to_meet_workers]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "expedition.md",
+                "file": "user_stories_prism.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "expedition.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "expedition.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "expedition.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -203,16 +204,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3ca13d989d860b5",
+  "active": "da643af65408f48d",
   "lastOpenFiles": [
+    "talk_to.md",
+    "TASK/Task_Board.md",
+    "util package documentation.md",
+    "oh_showcase-  new content.md",
+    "ohio-showcase_old page edits.md",
+    "get admin access to TLC.md",
+    "email all devops group.md",
     "user_stories_prism.md",
-    "expedition.md",
     "hatch egg process.md",
+    "expedition.md",
+    "Books/book-ideas.md",
+    "books_to_read.md",
+    "googleable.md",
+    "how to prioritize todo list.md",
+    "4000 weeks.md",
     "travel_system.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "TASK/Task_Board.md",
     "loot.md",
-    "ohio-showcase_old page edits.md",
     "20thAug Remove Ariz Home Banner.md",
     "notes james.md",
     "EGG.md",
@@ -223,18 +234,8 @@
     "bucket_list.md",
     "japan_night_walk_date.md",
     "summit mount Mitchell.md",
-    "skydive.md",
-    "defcon_badge.md",
-    "personality.md",
-    "do what you hate.md",
     "docker_alternatives.canvas",
-    "A Developer's Golden Age.md",
-    "blog_ideas.md",
-    "Excalidraw/Drawing 2024-08-13 14.11.00.excalidraw.md",
     "Excalidraw",
-    "determine_process_to_meet_workers.md",
-    "homebase design.md",
-    "error in updating quantity.md",
     "Pasted image 20240809135208.png",
     "Pasted image 20240808140956.png",
     "Pasted image 20240808135735.png",

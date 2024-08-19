@@ -20,5 +20,5 @@ I imagine this like a fortified caravan, they anticipate a long travel, the dang
 
 Really, the main benefit is trying to get the lore from those workers. Get resources that you can't get access to normally. Desert nodes, port nodes, that you can't get until you connect to the outpost, or the expedition returns with those supplies. 
 
-Anyways, won't have to try implementing this for a while, but it is a really interesting solution to travel that isn't just 'get blimp'.
+Anyways, won't have to try implementing this for a while, but it is a really interesting solution to travel that isn't just 'get blimp'
 
