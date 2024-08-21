@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user_stories_prism.md",
+                "file": "schedule content... again.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hatch_egg_stat roll err.md",
+                "file": "err updating resource quantities.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,9 +39,9 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": 81.89458458564889,
-                  "y": -244.75494161755665,
-                  "zoom": -1.4718306788701079
+                  "x": 74.0668386486783,
+                  "y": 129.55696931941608,
+                  "zoom": -0.907758267544865
                 }
               }
             }
@@ -62,24 +62,15 @@
             "id": "aaea03008d06ce9c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "checkout_notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "schedule content... again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "schedule content... again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "schedule content... again.md"
               }
             }
           },
@@ -216,36 +207,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aaea03008d06ce9c",
+  "active": "d3ca13d989d860b5",
   "lastOpenFiles": [
-    "careers_new_vid.md",
+    "Pasted image 20240821192337.png",
     "TASK/Task_Board.md",
+    "schedule content... again.md",
+    "location advertizing homepage.md",
+    "user_stories_prism.md",
+    "checkout_notes.md",
+    "newsletter_idea.canvas",
+    "Pasted image 20240820145537.png",
+    "Pasted image 20240820145438.png",
+    "setup neovim.md",
+    "test_for_cloudinary_images.md",
+    "waiting for heath.md",
+    "LOCATION_TYPE_RESOURCE.md",
+    "add resource view to locations.md",
+    "menu_options_bar.md",
+    "home_location_requirements.md",
+    "travel_system.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
+    "err updating resource quantities.md",
     "hatch_egg_stat roll err.md",
+    "careers_new_vid.md",
     "talk_to.md",
     "util package documentation.md",
     "oh_showcase-  new content.md",
     "ohio-showcase_old page edits.md",
     "get admin access to TLC.md",
     "email all devops group.md",
-    "user_stories_prism.md",
     "hatch egg process.md",
     "expedition.md",
     "Books/book-ideas.md",
-    "books_to_read.md",
-    "googleable.md",
-    "how to prioritize todo list.md",
-    "4000 weeks.md",
-    "travel_system.md",
-    "loot.md",
-    "20thAug Remove Ariz Home Banner.md",
-    "notes james.md",
-    "EGG.md",
-    "balloon ride.md",
-    "tour japan.md",
-    "mt_fuji.md",
     "Pasted image 20240814205421.png",
-    "bucket_list.md",
     "docker_alternatives.canvas",
     "Excalidraw",
     "Pasted image 20240809135208.png",
@@ -255,8 +249,6 @@
     "Pasted image 20240808135346.png",
     "Pasted image 20240808135140.png",
     "Pasted image 20240808135111.png",
-    "Pasted image 20240808135031.png",
-    "Pasted image 20240808135018.png",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

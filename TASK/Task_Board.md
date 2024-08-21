@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[menu_options_bar]]
+	#prism
 - [ ] [[talk_to]] cyprian
 - [ ] [[util package documentation]]
 	#prism
@@ -54,9 +56,19 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[careers_new_vid]]
+- [ ] [[schedule content... again]]
 	#work
-- [ ] [[hatch_egg_stat roll err]]
+- [ ] get_hugo
+	#work
+- [ ] [[location advertizing homepage]]
+	#work
+- [ ] [[checkout_notes]]
+	#work
+- [ ] [[setup neovim]]
+	#prism
+- [ ] [[add resource view to locations]]
+	#prism
+- [ ] [[home_location_requirements]]
 	#prism
 - [ ] [[cds pages, new logo]]
 	#work
@@ -74,6 +86,14 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] setup neovim 
+	#work
+- [ ] [[err updating resource quantities]]
+	#prism
+- [ ] [[careers_new_vid]]
+	#work
+- [ ] [[hatch_egg_stat roll err]]
+	#prism
 - [ ] [[oh_showcase-  new content]]
 	#work
 - [ ] debug hatch egg

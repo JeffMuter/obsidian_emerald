@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"71957d5820c5b773","type":"text","text":"Unsure From Website\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16","x":-118,"y":-51,"width":250,"height":431,"color":"5"},
+		{"id":"9733d906ee885606","type":"text","text":"List of Subscribed\n1\n2\n3\n4\n5\n6\n7","x":320,"y":-140,"width":250,"height":214,"color":"4"},
+		{"id":"4d6a8af0c42e5122","type":"text","text":"Unsubscribed\n8\n9\n10\n11\n12\n13","x":359,"y":240,"width":173,"height":220,"color":"1"}
+	],
+	"edges":[
+		{"id":"ba2e8eb288987c73","fromNode":"71957d5820c5b773","fromSide":"right","toNode":"4d6a8af0c42e5122","toSide":"left","color":"1"},
+		{"id":"6c2193d5eceee4f5","fromNode":"71957d5820c5b773","fromSide":"right","toNode":"9733d906ee885606","toSide":"left","color":"4"},
+		{"id":"77e61b9d0c2700e0","fromNode":"9733d906ee885606","fromSide":"bottom","toNode":"4d6a8af0c42e5122","toSide":"top","color":"1"}
+	]
+}
