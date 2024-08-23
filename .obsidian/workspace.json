@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel_system.md",
+                "file": "home_location_requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schedule content... again.md",
+                "file": "home_location_requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schedule content... again.md",
+                "file": "home_location_requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schedule content... again.md"
+                "file": "home_location_requirements.md"
               }
             }
           },
@@ -207,15 +208,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3ca13d989d860b5",
+  "active": "c6e5c33f6296ae20",
   "lastOpenFiles": [
-    "Pasted image 20240821192337.png",
     "TASK/Task_Board.md",
-    "schedule content... again.md",
-    "location advertizing homepage.md",
-    "user_stories_prism.md",
+    "get admin access to TLC.md",
     "checkout_notes.md",
     "newsletter_idea.canvas",
+    "nvim test debugger.md",
+    "nvim go autocomplete.md",
+    "below_tile_espot NASP.md",
+    "travel_system.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "err updating resource quantities.md",
+    "schedule content... again.md",
+    "Pasted image 20240821192337.png",
+    "location advertizing homepage.md",
+    "user_stories_prism.md",
     "Pasted image 20240820145537.png",
     "Pasted image 20240820145438.png",
     "setup neovim.md",
@@ -225,20 +233,13 @@
     "add resource view to locations.md",
     "menu_options_bar.md",
     "home_location_requirements.md",
-    "travel_system.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "err updating resource quantities.md",
     "hatch_egg_stat roll err.md",
     "careers_new_vid.md",
     "talk_to.md",
     "util package documentation.md",
     "oh_showcase-  new content.md",
     "ohio-showcase_old page edits.md",
-    "get admin access to TLC.md",
     "email all devops group.md",
-    "hatch egg process.md",
-    "expedition.md",
-    "Books/book-ideas.md",
     "Pasted image 20240814205421.png",
     "docker_alternatives.canvas",
     "Excalidraw",
@@ -248,7 +249,6 @@
     "Pasted image 20240808135716.png",
     "Pasted image 20240808135346.png",
     "Pasted image 20240808135140.png",
-    "Pasted image 20240808135111.png",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

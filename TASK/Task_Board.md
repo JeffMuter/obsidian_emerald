@@ -28,8 +28,6 @@ kanban-plugin: board
 - [ ] [[talk_to]] cyprian
 - [ ] [[util package documentation]]
 	#prism
-- [ ] [[get admin access to TLC]]
-	#devops
 - [ ] [[email all devops group]]
 	#devops
 - [ ] [[travel_system]]
@@ -56,6 +54,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[get admin access to TLC]]
+	#devops
 - [ ] [[schedule content... again]]
 	#work
 - [ ] get_hugo
@@ -64,8 +64,6 @@ kanban-plugin: board
 	#work
 - [ ] [[checkout_notes]]
 	#work
-- [ ] [[setup neovim]]
-	#prism
 - [ ] [[add resource view to locations]]
 	#prism
 - [ ] [[home_location_requirements]]
@@ -86,6 +84,16 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[nvim test debugger]]
+	#work
+- [ ] [[nvim go autocomplete]]
+	#work
+- [ ] nvim sql cmp 
+	#work
+- [ ] [[setup neovim]]
+	#prism
+- [ ] [[below_tile_espot NASP]]
+	#work
 - [ ] setup neovim 
 	#work
 - [ ] [[err updating resource quantities]]
