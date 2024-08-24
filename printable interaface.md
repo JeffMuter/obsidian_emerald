@@ -1,0 +1,1 @@
+work on printing detailed and simplistic layouts of text concerning lists of items. I think methods called printable and printabledetailed would add some clean easy way to print out lists of types like locations, workers, and all the future things we have planned.

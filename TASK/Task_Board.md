@@ -54,6 +54,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[printable interaface]]
+	#prism
 - [ ] [[get admin access to TLC]]
 	#devops
 - [ ] [[schedule content... again]]

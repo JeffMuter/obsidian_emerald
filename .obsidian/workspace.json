@@ -50,11 +50,19 @@
             "id": "c6e5c33f6296ae20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "home_location_requirements.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -137,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home_location_requirements.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home_location_requirements.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home_location_requirements.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -210,7 +218,9 @@
   },
   "active": "c6e5c33f6296ae20",
   "lastOpenFiles": [
+    "printable interaface.md",
     "TASK/Task_Board.md",
+    "home_location_requirements.md",
     "get admin access to TLC.md",
     "checkout_notes.md",
     "newsletter_idea.canvas",
@@ -232,7 +242,6 @@
     "LOCATION_TYPE_RESOURCE.md",
     "add resource view to locations.md",
     "menu_options_bar.md",
-    "home_location_requirements.md",
     "hatch_egg_stat roll err.md",
     "careers_new_vid.md",
     "talk_to.md",
