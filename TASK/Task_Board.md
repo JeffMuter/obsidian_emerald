@@ -54,10 +54,16 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[homepage notifaction banner]]
+	#work
+- [ ] [[stand_up 08/26/24]]
+	#work
+- [ ] [[ask drake about TLC]]
+	#devops
+- [ ] setup next meetup event
+	#devops
 - [ ] [[printable interaface]]
 	#prism
-- [ ] [[get admin access to TLC]]
-	#devops
 - [ ] [[schedule content... again]]
 	#work
 - [ ] get_hugo
@@ -86,6 +92,14 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[get admin access to TLC]]
+	#devops
+- [ ] remove registration from az showcase
+	#work
+- [ ] move ohio showcase to stage
+	#work
+- [ ] [[config_tmux_todo]]
+	#work
 - [ ] [[nvim test debugger]]
 	#work
 - [ ] [[nvim go autocomplete]]

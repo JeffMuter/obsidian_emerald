@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3ca13d989d860b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schedule content... again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "da643af65408f48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "err updating resource quantities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41dd431764d0c752",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 74.0668386486783,
-                  "y": 129.55696931941608,
-                  "zoom": -0.907758267544865
-                }
-              }
-            }
-          },
-          {
-            "id": "c6e5c33f6296ae20",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -67,19 +28,21 @@
             }
           },
           {
-            "id": "aaea03008d06ce9c",
+            "id": "41dd431764d0c752",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "checkout_notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
+                "viewState": {
+                  "x": 74.0668386486783,
+                  "y": 129.55696931941608,
+                  "zoom": -0.907758267544865
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,21 +179,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c6e5c33f6296ae20",
+  "active": "da643af65408f48d",
   "lastOpenFiles": [
-    "printable interaface.md",
+    "homepage notifaction banner.md",
     "TASK/Task_Board.md",
+    "stand_up 08/26/24.md",
+    "stand_up 08/26",
+    "stand_up 08",
+    "ask drake about TLC.md",
+    "config_tmux_todo.md",
+    "err updating resource quantities.md",
+    "schedule content... again.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "new_interface_prism.md",
+    "checkout_notes.md",
+    "printable interaface.md",
     "home_location_requirements.md",
     "get admin access to TLC.md",
-    "checkout_notes.md",
     "newsletter_idea.canvas",
     "nvim test debugger.md",
     "nvim go autocomplete.md",
     "below_tile_espot NASP.md",
     "travel_system.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "err updating resource quantities.md",
-    "schedule content... again.md",
     "Pasted image 20240821192337.png",
     "location advertizing homepage.md",
     "user_stories_prism.md",
@@ -244,11 +214,6 @@
     "menu_options_bar.md",
     "hatch_egg_stat roll err.md",
     "careers_new_vid.md",
-    "talk_to.md",
-    "util package documentation.md",
-    "oh_showcase-  new content.md",
-    "ohio-showcase_old page edits.md",
-    "email all devops group.md",
     "Pasted image 20240814205421.png",
     "docker_alternatives.canvas",
     "Excalidraw",
