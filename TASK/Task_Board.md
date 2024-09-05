@@ -23,6 +23,14 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[flipbook new images]]
+	#work
+- [ ] [[load-swap distribution banner]]
+	#work
+- [ ] [[add resource view to locations]]
+	#prism
+- [ ] [[home_location_requirements]]
+	#prism
 - [ ] [[menu_options_bar]]
 	#prism
 - [ ] [[talk_to]] cyprian
@@ -56,26 +64,16 @@ kanban-plugin: board
 
 - [ ] [[homepage notifaction banner]]
 	#work
-- [ ] [[stand_up 08/26/24]]
-	#work
 - [ ] [[ask drake about TLC]]
 	#devops
 - [ ] setup next meetup event
 	#devops
-- [ ] [[printable interaface]]
-	#prism
 - [ ] [[schedule content... again]]
 	#work
 - [ ] get_hugo
 	#work
 - [ ] [[location advertizing homepage]]
 	#work
-- [ ] [[checkout_notes]]
-	#work
-- [ ] [[add resource view to locations]]
-	#prism
-- [ ] [[home_location_requirements]]
-	#prism
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
@@ -92,6 +90,22 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[move ohio ip banner to prod]]
+	#work
+- [ ] [[move to new loc bug]]
+	#prism
+- [ ] [[new reg helpdesk ticket]]
+	#work
+- [ ] [[printable interaface]]
+	#prism
+- [ ] [[worker details bug]]
+	#prism
+- [ ] [[fix assign task]]
+	#prism
+- [ ] [[checkout_notes]]
+	#work
+- [ ] [[stand_up 08/26/24]]
+	#work
 - [ ] [[get admin access to TLC]]
 	#devops
 - [ ] remove registration from az showcase

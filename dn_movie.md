@@ -1,7 +1,13 @@
-bucket list
-
-caddyshack
-
-blazingsaddles
-
-christmas vacation
+List of movies and shows for us to watch.
+- [x]  Stranger things
+- [ ] Dexter
+- [x] LOTR
+- [x] Harry Potter
+- [ ] Avatar the Last Airbender
+- [ ] Le Miserables
+- [x] Christmas Vacation
+- [ ] The Neverending Story
+- [x] Blazing Saddles
+- [ ] CaddyShack
+- [ ] The Bucket List
+- [ ] Only Murders in the Building - Steve Martin, funny

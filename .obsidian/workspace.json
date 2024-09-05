@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da643af65408f48d",
+            "id": "5ff98829df4ed55e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -23,21 +23,6 @@
                     false,
                     false
                   ]
-                }
-              }
-            }
-          },
-          {
-            "id": "41dd431764d0c752",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 74.0668386486783,
-                  "y": 129.55696931941608,
-                  "zoom": -0.907758267544865
                 }
               }
             }
@@ -169,20 +154,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da643af65408f48d",
+  "active": "5ff98829df4ed55e",
   "lastOpenFiles": [
-    "homepage notifaction banner.md",
+    "move ohio ip banner to prod.md",
     "TASK/Task_Board.md",
+    "dn_movie.md",
+    "flipbook new images.md",
+    "load-swap distribution banner.md",
+    "move to new loc bug.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "homepage notifaction banner.md",
+    "worker details bug.md",
+    "TASK_TYPES.md",
+    "menu_options_bar.md",
+    "new reg helpdesk ticket.md",
+    "fix assign task.md",
     "stand_up 08/26/24.md",
     "stand_up 08/26",
     "stand_up 08",
@@ -190,7 +186,6 @@
     "config_tmux_todo.md",
     "err updating resource quantities.md",
     "schedule content... again.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "new_interface_prism.md",
     "checkout_notes.md",
     "printable interaface.md",
@@ -202,18 +197,8 @@
     "below_tile_espot NASP.md",
     "travel_system.md",
     "Pasted image 20240821192337.png",
-    "location advertizing homepage.md",
-    "user_stories_prism.md",
     "Pasted image 20240820145537.png",
     "Pasted image 20240820145438.png",
-    "setup neovim.md",
-    "test_for_cloudinary_images.md",
-    "waiting for heath.md",
-    "LOCATION_TYPE_RESOURCE.md",
-    "add resource view to locations.md",
-    "menu_options_bar.md",
-    "hatch_egg_stat roll err.md",
-    "careers_new_vid.md",
     "Pasted image 20240814205421.png",
     "docker_alternatives.canvas",
     "Excalidraw",
