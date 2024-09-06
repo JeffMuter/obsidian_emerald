@@ -1,0 +1,1 @@
+I want to type 'back' and not just have the program end when a command chain ends.

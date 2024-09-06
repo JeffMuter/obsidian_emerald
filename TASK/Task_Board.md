@@ -23,19 +23,20 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] think more about [[Coin]]
+- [ ] [[menu_back_option]]
+	#prism
+- [ ] [[menu system refactor]]
+	#prism
 - [ ] [[flipbook new images]]
 	#work
 - [ ] [[load-swap distribution banner]]
 	#work
-- [ ] [[add resource view to locations]]
-	#prism
 - [ ] [[home_location_requirements]]
 	#prism
 - [ ] [[menu_options_bar]]
 	#prism
 - [ ] [[talk_to]] cyprian
-- [ ] [[util package documentation]]
-	#prism
 - [ ] [[email all devops group]]
 	#devops
 - [ ] [[travel_system]]
@@ -64,10 +65,6 @@ kanban-plugin: board
 
 - [ ] [[homepage notifaction banner]]
 	#work
-- [ ] [[ask drake about TLC]]
-	#devops
-- [ ] setup next meetup event
-	#devops
 - [ ] [[schedule content... again]]
 	#work
 - [ ] get_hugo
@@ -90,6 +87,16 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[add resource view to locations]]
+	#prism
+- [ ] [[solve multi-task options]]
+	#prism
+- [ ] [[util package documentation]]
+	#prism
+- [ ] setup next meetup event
+	#devops
+- [ ] [[ask drake about TLC]]
+	#devops
 - [ ] [[move ohio ip banner to prod]]
 	#work
 - [ ] [[move to new loc bug]]

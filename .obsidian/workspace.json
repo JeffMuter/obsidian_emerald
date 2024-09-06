@@ -11,19 +11,11 @@
             "id": "5ff98829df4ed55e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "add resource view to locations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "add resource view to locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "add resource view to locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "add resource view to locations.md"
               }
             }
           },
@@ -166,8 +158,13 @@
   },
   "active": "5ff98829df4ed55e",
   "lastOpenFiles": [
-    "move ohio ip banner to prod.md",
     "TASK/Task_Board.md",
+    "Coin.md",
+    "solve multi-task options.md",
+    "add resource view to locations.md",
+    "menu system refactor.md",
+    "menu_back_option.md",
+    "move ohio ip banner to prod.md",
     "dn_movie.md",
     "flipbook new images.md",
     "load-swap distribution banner.md",
@@ -190,12 +187,7 @@
     "checkout_notes.md",
     "printable interaface.md",
     "home_location_requirements.md",
-    "get admin access to TLC.md",
     "newsletter_idea.canvas",
-    "nvim test debugger.md",
-    "nvim go autocomplete.md",
-    "below_tile_espot NASP.md",
-    "travel_system.md",
     "Pasted image 20240821192337.png",
     "Pasted image 20240820145537.png",
     "Pasted image 20240820145438.png",
