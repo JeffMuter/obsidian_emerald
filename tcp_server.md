@@ -1,0 +1,1 @@
+to make [[Coin]] we need to make a tcp server. there's a few other additions to what this entails, but it's a lower end, more reliable version of web sockets.

@@ -32,8 +32,6 @@ kanban-plugin: board
 	#work
 - [ ] [[load-swap distribution banner]]
 	#work
-- [ ] [[home_location_requirements]]
-	#prism
 - [ ] [[menu_options_bar]]
 	#prism
 - [ ] [[talk_to]] cyprian
@@ -63,8 +61,12 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[hatch egg bug]]
+	#prism
 - [ ] [[homepage notifaction banner]]
 	#work
+- [ ] [[home_location_requirements]]
+	#prism
 - [ ] [[schedule content... again]]
 	#work
 - [ ] get_hugo
@@ -87,6 +89,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[select loc type on create]]
+	#prism
+- [ ] [[naming a location]]
+	#prism
 - [ ] [[add resource view to locations]]
 	#prism
 - [ ] [[solve multi-task options]]
