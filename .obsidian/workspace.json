@@ -31,11 +31,19 @@
             "id": "b6ee37822df7d479",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Coin.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -55,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TASK/Task_Board.md"
+              }
             }
           },
           {
@@ -188,12 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "023d3d6f9d812651",
+  "active": "b6ee37822df7d479",
   "lastOpenFiles": [
+    "e&sperf.com sync stage to qa.md",
+    "TASK/Task_Board.md",
+    "talktojill about e&s.md",
     "Coin.md",
     "tcp_server.md",
     "home_location_requirements.md",
-    "TASK/Task_Board.md",
     "send worker with recs home.md",
     "add task_types for crafters.md",
     "add buildings to db.md",
@@ -216,8 +230,6 @@
     "hatch egg bug.md",
     "select loc type on create.md",
     "naming a location.md",
-    "Untitled.md",
-    "add resource view to locations.md",
     "stand_up 08/26",
     "stand_up 08",
     "newsletter_idea.canvas",

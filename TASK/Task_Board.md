@@ -59,6 +59,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[schedule content... again]]
+	#work
 - [ ] [[send worker with recs home]]
 	#prism
 - [ ] [[add task_types for crafters]]
@@ -69,8 +71,6 @@ kanban-plugin: board
 	#prism
 - [ ] [[home_location_requirements]]
 	#prism
-- [ ] [[schedule content... again]]
-	#work
 - [ ] get_hugo
 	#work
 - [ ] [[location advertizing homepage]]
@@ -91,6 +91,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[e&sperf.com sync stage to qa]]
+	#work
+- [ ] [[talktojill about e&s]]
+	#work
 - [ ] location.Named handling when connecting & creating node
 	#prism
 - [ ] [[location isCreated logic]]
