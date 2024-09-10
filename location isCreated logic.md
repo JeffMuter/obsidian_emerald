@@ -1,0 +1,1 @@
+now we're adding 'is user created' to the logic of getting / creating locations. Need to implement this in all forms

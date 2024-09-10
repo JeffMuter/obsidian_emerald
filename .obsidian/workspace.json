@@ -23,19 +23,11 @@
             "id": "cb7b6bd09b09ef45",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "location isCreated logic.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -67,15 +59,15 @@
               "state": {
                 "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "viewState": {
-                  "x": 174.5,
-                  "y": -6,
-                  "zoom": -1.2875881394642852
+                  "x": 236.04343277499004,
+                  "y": -426.74385228147275,
+                  "zoom": -0.9373075067565628
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
               }
             }
           },
@@ -212,37 +204,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb7b6bd09b09ef45",
+  "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "hatch egg bug.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "Coin.md",
+    "location isCreated logic.md",
     "TASK/Task_Board.md",
+    "create home not updating/adding.md",
+    "not showing locations bug.md",
+    "Untitled 3.md",
+    "homepage notifaction banner.md",
+    "create home not updating",
+    "home_location_requirements.md",
+    "Untitled 2.md",
+    "fix getting & display location type.md",
+    "Untitled 1.md",
+    "home location table creation.md",
+    "BUILDINGS.md",
+    "broken renderer.md",
+    "hatch egg bug.md",
     "select loc type on create.md",
     "naming a location.md",
-    "home_location_requirements.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Untitled.md",
-    "Coin.md",
     "tcp_server.md",
     "add resource view to locations.md",
     "solve multi-task options.md",
     "menu system refactor.md",
     "menu_back_option.md",
     "move ohio ip banner to prod.md",
-    "dn_movie.md",
-    "flipbook new images.md",
-    "load-swap distribution banner.md",
-    "move to new loc bug.md",
-    "homepage notifaction banner.md",
-    "worker details bug.md",
-    "TASK_TYPES.md",
-    "menu_options_bar.md",
-    "new reg helpdesk ticket.md",
-    "fix assign task.md",
-    "stand_up 08/26/24.md",
     "stand_up 08/26",
     "stand_up 08",
-    "ask drake about TLC.md",
-    "config_tmux_todo.md",
     "newsletter_idea.canvas",
     "Pasted image 20240821192337.png",
     "Pasted image 20240820145537.png",

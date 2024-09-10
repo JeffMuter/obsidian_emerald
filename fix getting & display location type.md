@@ -1,0 +1,1 @@
+not showing loc type, since we moved it off of location

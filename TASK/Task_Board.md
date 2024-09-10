@@ -61,10 +61,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[hatch egg bug]]
+- [ ] [[location isCreated logic]]
 	#prism
-- [ ] [[homepage notifaction banner]]
-	#work
 - [ ] [[home_location_requirements]]
 	#prism
 - [ ] [[schedule content... again]]
@@ -89,6 +87,20 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[create home not updating/adding]]
+	#prism
+- [ ] [[not showing locations bug]]
+	#prism
+- [ ] [[homepage notifaction banner]]
+	#work
+- [ ] [[fix getting & display location type]]
+	#prism
+- [ ] [[home location table creation]]
+	#prism
+- [ ] [[broken renderer]]
+	#prism
+- [ ] [[hatch egg bug]]
+	#prism
 - [ ] [[select loc type on create]]
 	#prism
 - [ ] [[naming a location]]
