@@ -51,8 +51,6 @@ kanban-plugin: board
 	#prism
 - [ ] [[blog_other_pages_indexing]]
 	#blog
-- [ ] location.Named handling when connecting & creating node
-	#prism
 - [ ] [[draft blog post about golang sql reading]]
 	#blog
 - [ ] Fix stage NASP Blog widget
@@ -61,7 +59,13 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[location isCreated logic]]
+- [ ] [[send worker with recs home]]
+	#prism
+- [ ] [[add task_types for crafters]]
+	#prism
+- [ ] [[add buildings to db]]
+	#prism
+- [ ] [[home loc, no multi homes]]
 	#prism
 - [ ] [[home_location_requirements]]
 	#prism
@@ -87,6 +91,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] location.Named handling when connecting & creating node
+	#prism
+- [ ] [[location isCreated logic]]
+	#prism
 - [ ] [[create home not updating/adding]]
 	#prism
 - [ ] [[not showing locations bug]]
