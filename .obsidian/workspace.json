@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ff98829df4ed55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home_location_requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "023d3d6f9d812651",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6ee37822df7d479",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
@@ -62,8 +22,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "Projects/Prism/prism_rdb_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "Projects/Prism/prism_rdb_canvas.canvas"
               }
             }
           },
@@ -200,20 +159,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6ee37822df7d479",
+  "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "e&sperf.com sync stage to qa.md",
+    "generalize_to_specialize.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "home_location_requirements.md",
     "TASK/Task_Board.md",
+    "presentations.md",
+    "generalize_to_specialize.canvas",
+    "e&sperf.com sync stage to qa.md",
     "talktojill about e&s.md",
     "Coin.md",
     "tcp_server.md",
-    "home_location_requirements.md",
     "send worker with recs home.md",
     "add task_types for crafters.md",
     "add buildings to db.md",
     "home loc, no multi homes.md",
     "location isCreated logic.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Untitled 4.md",
     "Untitled 5.md",
     "create home not updating/adding.md",
@@ -227,9 +189,6 @@
     "home location table creation.md",
     "BUILDINGS.md",
     "broken renderer.md",
-    "hatch egg bug.md",
-    "select loc type on create.md",
-    "naming a location.md",
     "stand_up 08/26",
     "stand_up 08",
     "newsletter_idea.canvas",

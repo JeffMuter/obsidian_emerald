@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"8f74945cb7ff2c90","x":-480,"y":-240,"width":250,"height":100,"type":"text","text":"data evidence that trades make more when they specialize"},
+		{"id":"a66b3c4f28b9e51a","x":-100,"y":-220,"width":250,"height":60,"type":"text","text":"tech roles also make more when they specialize"},
+		{"id":"b976c6b4d6b68f72","x":320,"y":20,"width":250,"height":108,"color":"6","type":"text","text":"research to determine which specialization is for me."},
+		{"id":"27845381dbfc1894","x":570,"y":239,"width":186,"height":60,"color":"1","type":"text","text":"specialization 3"},
+		{"id":"7b909504106e8651","x":143,"y":239,"width":177,"height":60,"color":"1","type":"text","text":"specialization 1"},
+		{"id":"abedebdf9fc2a10a","x":357,"y":239,"width":176,"height":60,"color":"1","type":"text","text":"specialization 2"},
+		{"id":"df663b819fe172f5","x":232,"y":778,"width":250,"height":60,"color":"1","type":"text","text":"put in the work"},
+		{"id":"fadda3a7910b1bf0","x":1000,"y":128,"width":250,"height":212,"type":"text","text":"for each specialization, you should speak to people who are doing the job, and see if you think their job, lifestyle, and philosophy are something worth the work and effort"},
+		{"id":"944377b06fcb3511","x":232,"y":920,"width":250,"height":60,"color":"1","type":"text","text":"put in the work"},
+		{"id":"3f2c045c2ac75c90","x":232,"y":620,"width":250,"height":60,"color":"1","type":"text","text":"put in the work"},
+		{"id":"24ab17efec8e092d","x":251,"y":460,"width":213,"height":60,"color":"6","type":"text","text":"plan how to acheive"},
+		{"id":"83f54b4481a82dae","x":283,"y":-240,"width":250,"height":107,"color":"3","type":"text","text":"specializations exist, sure, but I don't know what I want."},
+		{"id":"697ddb6c98d09da5","x":227,"y":1161,"width":293,"height":159,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"c4ee40ab0c39fa1c","fromNode":"8f74945cb7ff2c90","fromSide":"right","toNode":"a66b3c4f28b9e51a","toSide":"left"},
+		{"id":"6650a5538498cd52","fromNode":"a66b3c4f28b9e51a","fromSide":"right","toNode":"83f54b4481a82dae","toSide":"left"},
+		{"id":"eded57f7a9d91ed6","fromNode":"83f54b4481a82dae","fromSide":"bottom","toNode":"b976c6b4d6b68f72","toSide":"top"},
+		{"id":"3c014638401bc981","fromNode":"b976c6b4d6b68f72","fromSide":"bottom","toNode":"27845381dbfc1894","toSide":"top"},
+		{"id":"93b21646f31695a4","fromNode":"27845381dbfc1894","fromSide":"left","toNode":"abedebdf9fc2a10a","toSide":"right"},
+		{"id":"6011de09db06e2f8","fromNode":"abedebdf9fc2a10a","fromSide":"left","toNode":"7b909504106e8651","toSide":"right"},
+		{"id":"6537f17019a28fe2","fromNode":"7b909504106e8651","fromSide":"bottom","toNode":"24ab17efec8e092d","toSide":"top"},
+		{"id":"ec2b466cb0f0b715","fromNode":"24ab17efec8e092d","fromSide":"bottom","toNode":"3f2c045c2ac75c90","toSide":"top"},
+		{"id":"565e42bdbda333d4","fromNode":"3f2c045c2ac75c90","fromSide":"bottom","toNode":"df663b819fe172f5","toSide":"top"},
+		{"id":"f617dbb7eb97736d","fromNode":"df663b819fe172f5","fromSide":"bottom","toNode":"944377b06fcb3511","toSide":"top"},
+		{"id":"ebe1e277bc1f2d4f","fromNode":"944377b06fcb3511","fromSide":"right","toNode":"27845381dbfc1894","toSide":"right"}
+	]
+}
