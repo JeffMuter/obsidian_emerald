@@ -59,6 +59,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[bug making room]]
+	#prism
 - [ ] [[schedule content... again]]
 	#work
 - [ ] [[send worker with recs home]]
@@ -73,13 +75,9 @@ kanban-plugin: board
 	#prism
 - [ ] get_hugo
 	#work
-- [ ] [[location advertizing homepage]]
-	#work
 - [ ] [[cds pages, new logo]]
 	#work
 - [ ] [[CDS Homepage build]]
-	#work
-- [ ] [[20thAug Remove Ariz Home Banner]]
 	#work
 - [ ] [[test_for_cloudinary_images]]
 	#work
@@ -91,6 +89,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[location advertizing homepage]]
+	#work
+- [ ] [[20thAug Remove Ariz Home Banner]]
+	#work
 - [ ] [[e&sperf.com sync stage to qa]]
 	#work
 - [ ] [[talktojill about e&s]]
