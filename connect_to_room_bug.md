@@ -1,0 +1,1 @@
+once a room exists, it cannot be connected to by a second user

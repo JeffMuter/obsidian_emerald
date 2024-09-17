@@ -41,18 +41,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "83beb68269aeb89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meeting notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -194,12 +182,19 @@
   },
   "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
-    "bug making room.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
-    "meeting notes.md",
-    "Pasted image 20240912141707.png",
+    "create ec2 instance.md",
     "TASK/Task_Board.md",
+    "make names unique.md",
+    "adding and displaying mess to room bug.md",
+    "room_connection_race_cond..md",
     "schedule content... again.md",
+    "connect_to_room_bug.md",
+    "devoops_notes.md",
+    "meeting notes.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "Untitled 6.md",
+    "bug making room.md",
+    "Pasted image 20240912141707.png",
     "generalize_to_specialize.md",
     "home_location_requirements.md",
     "presentations.md",
@@ -216,13 +211,7 @@
     "Untitled 4.md",
     "Untitled 5.md",
     "create home not updating/adding.md",
-    "not showing locations bug.md",
-    "Untitled 3.md",
-    "homepage notifaction banner.md",
     "create home not updating",
-    "Untitled 2.md",
-    "fix getting & display location type.md",
-    "Untitled 1.md",
     "stand_up 08/26",
     "stand_up 08",
     "newsletter_idea.canvas",

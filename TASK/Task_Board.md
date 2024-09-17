@@ -23,7 +23,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] think more about [[Coin]]
 - [ ] [[menu_back_option]]
 	#prism
 - [ ] [[menu system refactor]]
@@ -59,8 +58,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[bug making room]]
-	#prism
+- [ ] [[create ec2 instance]]
+	#coin
+- [ ] [[make names unique]]
+	#coin
 - [ ] [[schedule content... again]]
 	#work
 - [ ] [[send worker with recs home]]
@@ -89,6 +90,15 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] think more about [[Coin]]
+- [ ] [[adding and displaying mess to room bug]]
+	#prism
+- [ ] [[room_connection_race_cond.]]
+	#prism
+- [ ] [[connect_to_room_bug]]
+	#prism
+- [ ] [[bug making room]]
+	#prism
 - [ ] [[location advertizing homepage]]
 	#work
 - [ ] [[20thAug Remove Ariz Home Banner]]
@@ -312,6 +322,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#job"},{"tag":"#blog"},{"tag":"#prism"},{"tag":"#stream"},{"tag":"#family"},{"tag":"#devops"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#family","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(220, 245, 0, 1)"},{"tagKey":"#prism","color":"rgba(94, 236, 255, 1)","backgroundColor":"rgba(0, 0, 0, 1)"}],"new-card-insertion-method":"prepend"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#work"},{"tag":"#prism"},{"tag":"#coin"},{"tag":"#stream"},{"tag":"#blog"},{"tag":"#family"},{"tag":"#devops"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#coin","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(255, 251, 0, 1)"},{"tagKey":"#prism","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(0, 255, 0, 1)"},{"tagKey":"","color":"","backgroundColor":""}],"new-card-insertion-method":"prepend"}
 ```
 %%

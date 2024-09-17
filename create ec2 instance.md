@@ -1,0 +1,1 @@
+first shot at a cloud integration of the coin prototype.

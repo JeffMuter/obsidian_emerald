@@ -1,0 +1,3 @@
+messages are sent, but not being read & displayed to users.
+
+discovered that when the first player adds messages, that when other plyers enter the room, that the messages channel is empty... Need to determine the source of this...
