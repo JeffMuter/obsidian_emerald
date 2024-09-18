@@ -1,0 +1,1 @@
+see if we can make, or find a nvim plugin to have Claude be a backseat pair programmer, giving more high-level suggestions more than anything else. A way to get rid of chatgpt, preferably. Save $20 a month

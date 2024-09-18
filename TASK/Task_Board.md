@@ -23,6 +23,7 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[look into claude pairprogrammer]]
 - [ ] [[menu_back_option]]
 	#prism
 - [ ] [[menu system refactor]]
@@ -58,9 +59,7 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[create ec2 instance]]
-	#coin
-- [ ] [[make names unique]]
+- [ ] [[git auto updating ci/cd]]
 	#coin
 - [ ] [[schedule content... again]]
 	#work
@@ -90,6 +89,12 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[make names unique]]
+	#coin
+- [ ] [[ec2 instance run]]
+	#coin
+- [ ] [[create ec2 instance]]
+	#coin
 - [ ] think more about [[Coin]]
 - [ ] [[adding and displaying mess to room bug]]
 	#prism
