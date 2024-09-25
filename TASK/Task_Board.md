@@ -59,6 +59,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[pact home page]]
+	#pact
+- [ ] [[stripe multi products]]
+	#pact
 - [ ] [[git auto updating ci/cd]]
 	#coin
 - [ ] [[schedule content... again]]
@@ -89,6 +93,14 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[stripe form]]
+	#pact
+- [ ] [[tailwind_styles_bug]]
+	#pact
+- [ ] [[issue rendering templates within layout templ]]
+	#pact
+- [ ] start playing with ideas
+	#pact
 - [ ] [[make names unique]]
 	#coin
 - [ ] [[ec2 instance run]]
