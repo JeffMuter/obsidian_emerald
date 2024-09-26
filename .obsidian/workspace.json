@@ -195,8 +195,9 @@
   },
   "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
-    "login & register.md",
+    "jwt implementation.md",
     "TASK/Task_Board.md",
+    "login & register.md",
     "pact home page.md",
     "stripe multi products.md",
     "stripe form.md",
@@ -223,7 +224,6 @@
     "bug making room.md",
     "Pasted image 20240912141707.png",
     "generalize_to_specialize.md",
-    "home_location_requirements.md",
     "generalize_to_specialize.canvas",
     "create home not updating",
     "stand_up 08/26",

@@ -1,0 +1,1 @@
+get jwt in, sessions out. I dislike how sessions take up a whole extra table, and the management is more taxing. Too many systems.

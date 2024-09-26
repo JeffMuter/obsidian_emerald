@@ -61,7 +61,7 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[login & register]]
+- [ ] [[jwt implementation]]
 	#pact
 - [ ] [[git auto updating ci/cd]]
 	#coin
@@ -93,6 +93,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[login & register]]
+	#pact
 - [ ] [[pact home page]]
 	#pact
 - [ ] [[stripe form]]
