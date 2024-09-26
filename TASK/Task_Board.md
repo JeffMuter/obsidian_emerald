@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[stripe multi products]]
+	#pact
 - [ ] [[look into claude pairprogrammer]]
 - [ ] [[menu_back_option]]
 	#prism
@@ -59,9 +61,7 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[pact home page]]
-	#pact
-- [ ] [[stripe multi products]]
+- [ ] [[login & register]]
 	#pact
 - [ ] [[git auto updating ci/cd]]
 	#coin
@@ -93,6 +93,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[pact home page]]
+	#pact
 - [ ] [[stripe form]]
 	#pact
 - [ ] [[tailwind_styles_bug]]
