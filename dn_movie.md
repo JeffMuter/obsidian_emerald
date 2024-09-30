@@ -11,3 +11,6 @@ List of movies and shows for us to watch.
 - [ ] CaddyShack
 - [ ] The Bucket List
 - [ ] Only Murders in the Building - Steve Martin, funny
+- [x] Ballad of Buster Scruggs - Western short stories
+- [x] White chicks - comedy
+- [ ] 

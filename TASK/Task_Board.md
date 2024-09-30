@@ -23,8 +23,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[stripe multi products]]
-	#pact
 - [ ] [[look into claude pairprogrammer]]
 - [ ] [[menu_back_option]]
 	#prism
@@ -61,8 +59,14 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[jwt implementation]]
+- [ ] [[handle page nav]]
 	#pact
+- [ ] [[navbar swap]]
+	#pact
+- [ ] [[add friend]]
+	#pact
+- [ ] [[add new ship banner home]]
+	#work
 - [ ] [[git auto updating ci/cd]]
 	#coin
 - [ ] [[schedule content... again]]
@@ -93,6 +97,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[stripe multi products]]
+	#pact
+- [ ] [[jwt implementation]]
+	#pact
 - [ ] [[login & register]]
 	#pact
 - [ ] [[pact home page]]
