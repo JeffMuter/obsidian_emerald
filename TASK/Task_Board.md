@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[test registration]]
+	#pact
 - [ ] [[look into claude pairprogrammer]]
 - [ ] [[menu_back_option]]
 	#prism
@@ -97,6 +99,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[jwt null on membership button]]
+	#pact
 - [ ] [[stripe multi products]]
 	#pact
 - [ ] [[jwt implementation]]
@@ -351,6 +355,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#work"},{"tag":"#prism"},{"tag":"#coin"},{"tag":"#stream"},{"tag":"#blog"},{"tag":"#family"},{"tag":"#devops"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#coin","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(255, 251, 0, 1)"},{"tagKey":"#prism","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(0, 255, 0, 1)"},{"tagKey":"","color":"","backgroundColor":""}],"new-card-insertion-method":"prepend"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"TASK/Tasks","show-checkboxes":false,"tag-sort":[{"tag":"#work"},{"tag":"#prism"},{"tag":"#pact"},{"tag":"#stream"},{"tag":"#blog"},{"tag":"#family"},{"tag":"#devops"},{"tag":"#coin"}],"tag-colors":[{"tagKey":"#blog","color":"rgba(255, 0, 145, 1)","backgroundColor":"rgba(0, 0, 0, 0.52)"},{"tagKey":"#work","color":"rgba(15, 8, 100, 1)","backgroundColor":"rgba(255, 255, 255, 1)"},{"tagKey":"#pact","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(255, 251, 0, 1)"},{"tagKey":"#prism","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(0, 255, 0, 1)"},{"tagKey":"","color":"","backgroundColor":""}],"new-card-insertion-method":"prepend"}
 ```
 %%
