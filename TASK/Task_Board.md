@@ -61,18 +61,18 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[schedule some content]]
+	#work
+- [ ] [[docker k8s study]]
+	#work
 - [ ] [[handle page nav]]
 	#pact
 - [ ] [[navbar swap]]
 	#pact
 - [ ] [[add friend]]
 	#pact
-- [ ] [[add new ship banner home]]
-	#work
 - [ ] [[git auto updating ci/cd]]
 	#coin
-- [ ] [[schedule content... again]]
-	#work
 - [ ] [[send worker with recs home]]
 	#prism
 - [ ] [[add task_types for crafters]]
@@ -99,6 +99,12 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[schedule content... again]]
+	#work
+- [ ] remove sale banner from home
+	#work
+- [ ] [[add new ship banner home]]
+	#work
 - [ ] [[jwt null on membership button]]
 	#pact
 - [ ] [[stripe multi products]]
