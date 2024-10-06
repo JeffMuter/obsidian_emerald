@@ -38,19 +38,11 @@
             "id": "d3829857fd04124b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "color scheme terminal.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -134,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "color scheme terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "color scheme terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "color scheme terminal.md"
               }
             }
           },
@@ -207,13 +199,13 @@
   },
   "active": "d3829857fd04124b",
   "lastOpenFiles": [
+    "TASK/Task_Board.md",
     "What is a Cloud.md",
     "color scheme terminal.md",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
     "whatsacloud.canvas",
     "linkedinQR.jpg",
-    "TASK/Task_Board.md",
     "set up tailwind & daisyui.md",
     "schedule some content.md",
     "docker k8s study.md",
