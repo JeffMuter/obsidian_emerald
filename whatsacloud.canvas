@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9c39c94d23e995c1","x":-404,"y":-120,"width":250,"height":60,"type":"text","text":"COMPUTER"},
+		{"id":"dcb13f894e1d2253","x":-500,"y":71,"width":125,"height":60,"type":"text","text":"Storage"},
+		{"id":"01ffcbbf2afce740","x":-180,"y":71,"width":100,"height":60,"type":"text","text":"CPU"},
+		{"id":"fc48eaab6d35fb9b","x":-880,"y":-120,"width":250,"height":60,"type":"text","text":"Low Requests"},
+		{"id":"490e5cb8c3e0e15c","x":-880,"y":-240,"width":250,"height":60,"type":"text","text":"High Requests"}
+	],
+	"edges":[
+		{"id":"a65128a6e242d151","fromNode":"dcb13f894e1d2253","fromSide":"top","toNode":"9c39c94d23e995c1","toSide":"bottom"},
+		{"id":"908f4838a46b89c3","fromNode":"01ffcbbf2afce740","fromSide":"top","toNode":"9c39c94d23e995c1","toSide":"bottom"},
+		{"id":"6f6681613b156dcd","fromNode":"fc48eaab6d35fb9b","fromSide":"right","toNode":"9c39c94d23e995c1","toSide":"left","color":"6"},
+		{"id":"57bcbb8fc162382e","fromNode":"490e5cb8c3e0e15c","fromSide":"right","toNode":"9c39c94d23e995c1","toSide":"left","color":"1"}
+	]
+}

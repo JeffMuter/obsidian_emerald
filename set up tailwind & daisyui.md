@@ -1,0 +1,1 @@
+fun complex way to get minimal css incloved for the website.

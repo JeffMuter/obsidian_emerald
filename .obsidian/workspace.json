@@ -26,6 +26,18 @@
             "id": "3ff8fcfeeb385a6f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "color scheme terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3829857fd04124b",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "TASK/Task_Board.md",
@@ -55,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,12 +205,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ff8fcfeeb385a6f",
+  "active": "d3829857fd04124b",
   "lastOpenFiles": [
-    "project_toby.md",
+    "What is a Cloud.md",
+    "color scheme terminal.md",
+    "devops_loop.jpeg",
+    "Devops-toolchain.svg.png",
+    "whatsacloud.canvas",
+    "linkedinQR.jpg",
     "TASK/Task_Board.md",
-    "docker k8s study.md",
+    "set up tailwind & daisyui.md",
     "schedule some content.md",
+    "docker k8s study.md",
+    "project_toby.md",
     "jwt null on membership button.md",
     "test registration.md",
     "project_ideas.md",
@@ -218,10 +237,6 @@
     "pact_bank.md",
     "pact_phone.md",
     "Pasted image 20240923220346.png",
-    "tailwind_styles_bug.md",
-    "issue rendering templates within layout templ.md",
-    "Untitled 7.md",
-    "make names unique.md",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Pasted image 20240912141707.png",
     "generalize_to_specialize.canvas",
@@ -236,9 +251,6 @@
     "docker_alternatives.canvas",
     "Excalidraw",
     "Pasted image 20240809135208.png",
-    "Pasted image 20240808140956.png",
-    "Pasted image 20240808135735.png",
-    "Pasted image 20240808135716.png",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",

@@ -61,9 +61,9 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[schedule some content]]
+- [ ] [[color scheme terminal]]
 	#work
-- [ ] [[docker k8s study]]
+- [ ] [[schedule some content]]
 	#work
 - [ ] [[handle page nav]]
 	#pact
@@ -99,6 +99,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[set up tailwind & daisyui]]
+	#work
+- [ ] [[docker k8s study]]
+	#work
 - [ ] [[schedule content... again]]
 	#work
 - [ ] remove sale banner from home
