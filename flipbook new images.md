@@ -1,1 +1,1 @@
-james said this is coming 'soonish', but Ali needs time to get it going.
+got images from lisa. just need to update these on 10/8. James *really* wants this sent off to eric for some reason. He might have some pressure on him for it, or he just feels pressured to do stuff since he's been out on injury? Idk, but hopefully not the latter. If we need to keep updating this stuff, I really should just use json to generate this stuff. But that slows things down... bleh.

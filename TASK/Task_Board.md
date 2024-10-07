@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[recovery mode on files]]
+	#work
 - [ ] [[test registration]]
 	#pact
 - [ ] [[look into claude pairprogrammer]]
@@ -61,6 +63,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[flipbook new images]]
+	#work
 - [ ] [[color scheme terminal]]
 	#work
 - [ ] [[schedule some content]]

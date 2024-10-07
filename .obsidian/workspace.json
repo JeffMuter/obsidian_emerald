@@ -26,11 +26,19 @@
             "id": "3ff8fcfeeb385a6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "color scheme terminal.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -52,14 +60,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pact.md",
+                "file": "What is a Cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2421a675f9426cad",
@@ -126,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "color scheme terminal.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "color scheme terminal.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "color scheme terminal.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -197,11 +206,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3829857fd04124b",
+  "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
+    "flipbook new images.md",
     "TASK/Task_Board.md",
-    "What is a Cloud.md",
+    "recovery mode on files.md",
     "color scheme terminal.md",
+    "What is a Cloud.md",
+    "icy-nietzsche.png",
+    "presentations.md",
+    "pact.md",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
     "whatsacloud.canvas",
@@ -224,10 +238,7 @@
     "pact home page.md",
     "stripe multi products.md",
     "stripe form.md",
-    "pact.md",
     "pact_address.md",
-    "pact_bank.md",
-    "pact_phone.md",
     "Pasted image 20240923220346.png",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Pasted image 20240912141707.png",
@@ -242,7 +253,6 @@
     "Pasted image 20240814205421.png",
     "docker_alternatives.canvas",
     "Excalidraw",
-    "Pasted image 20240809135208.png",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
