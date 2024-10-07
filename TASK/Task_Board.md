@@ -32,10 +32,6 @@ kanban-plugin: board
 	#prism
 - [ ] [[menu system refactor]]
 	#prism
-- [ ] [[flipbook new images]]
-	#work
-- [ ] [[load-swap distribution banner]]
-	#work
 - [ ] [[menu_options_bar]]
 	#prism
 - [ ] [[talk_to]] cyprian
@@ -63,6 +59,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[modal video component]]
+	#work
 - [ ] [[flipbook new images]]
 	#work
 - [ ] [[color scheme terminal]]
@@ -103,6 +101,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[load-swap distribution banner]]
+	#work
 - [ ] [[set up tailwind & daisyui]]
 	#work
 - [ ] [[docker k8s study]]
