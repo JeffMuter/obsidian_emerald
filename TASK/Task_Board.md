@@ -23,8 +23,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[recovery mode on files]]
-	#work
 - [ ] [[test registration]]
 	#pact
 - [ ] [[look into claude pairprogrammer]]
@@ -63,8 +61,6 @@ kanban-plugin: board
 	#work
 - [ ] [[flipbook new images]]
 	#work
-- [ ] [[color scheme terminal]]
-	#work
 - [ ] [[schedule some content]]
 	#work
 - [ ] [[handle page nav]]
@@ -101,6 +97,12 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[script my tmux sessions]]
+	#work
+- [ ] [[recovery mode on files]]
+	#work
+- [ ] [[color scheme terminal]]
+	#work
 - [ ] [[load-swap distribution banner]]
 	#work
 - [ ] [[set up tailwind & daisyui]]

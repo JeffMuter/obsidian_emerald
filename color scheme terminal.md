@@ -14,3 +14,6 @@ Okay, getting *something* working now, however, there' a long way to go in custo
 I made a polar-theme.lua file in the lua/ directory. Calling it in my init.lua file which sets it. Getting an alert when I open neovim, so need to get that figured out, as well as getting more customizing and inspiration. currently, symbols & brackets are a candle-orange color. Everything else should be different shades of blue / white. Gray for comments, white for strings, I have light-blue everywhere else, but that's too many things all the exact same shade.
 
 
+Gotten a decent way through the polar theme. I go back and forth on some things, I want a bit of distinguishment on variables vs packagenames, function names, method names, and keywords. I want less color variety. but I also want things to be hyper readable.
+
+For
