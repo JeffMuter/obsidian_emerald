@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ec5147153b90ca39","type":"text","text":"users_courses\nid int\nfk_user_id\nfk_course_id\npurchased_at text\nis_completed bool","x":-494,"y":-60,"width":220,"height":171},
+		{"id":"f74b77891724e5a7","x":-220,"y":-54,"width":152,"height":165,"type":"text","text":"reviews\nid int\nfk_course_id\nfk_user_id\nrating int\ndesc text"},
+		{"id":"2ad5db872be99df4","type":"text","text":"user","x":-440,"y":-280,"width":112,"height":60},
+		{"id":"0bc3721cc10c01c3","type":"text","text":"courses\ntitle text\nurl text\nprice int\ncreatorName text\nlength int\ncreated_at text\nupdated_at text","x":-494,"y":300,"width":220,"height":287}
+	],
+	"edges":[
+		{"id":"96626e53c3a676eb","fromNode":"2ad5db872be99df4","fromSide":"bottom","toNode":"ec5147153b90ca39","toSide":"top"},
+		{"id":"beb96445a742daf5","fromNode":"ec5147153b90ca39","fromSide":"bottom","toNode":"0bc3721cc10c01c3","toSide":"top"},
+		{"id":"9e6f266c398b0c0a","fromNode":"2ad5db872be99df4","fromSide":"bottom","toNode":"f74b77891724e5a7","toSide":"top"},
+		{"id":"5505bc02fbbbc59d","fromNode":"f74b77891724e5a7","fromSide":"bottom","toNode":"0bc3721cc10c01c3","toSide":"top"}
+	]
+}

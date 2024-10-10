@@ -57,9 +57,9 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[modal video component]]
+- [ ] [[custom status line]]
 	#work
-- [ ] [[flipbook new images]]
+- [ ] [[modal video component]]
 	#work
 - [ ] [[schedule some content]]
 	#work
@@ -97,6 +97,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[flipbook new images]]
+	#work
 - [ ] [[script my tmux sessions]]
 	#work
 - [ ] [[recovery mode on files]]

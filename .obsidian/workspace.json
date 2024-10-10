@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "color scheme terminal.md",
+                "file": "cipher_schema.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pacty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,13 +113,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2421a675f9426cad",
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "cipher_schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "cipher_schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "cipher_schema.md"
               }
             }
           },
@@ -206,18 +204,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ff8fcfeeb385a6f",
+  "active": "d3829857fd04124b",
   "lastOpenFiles": [
-    "script my tmux sessions.md",
-    "TASK/Task_Board.md",
-    "recovery mode on files.md",
+    "cipher_schema.canvas",
+    "cipher_schema.md",
+    "cipher_tasks.md",
+    "create_course_cipher.md",
+    "leave_reviews_cipher.md",
+    "pages_cipher.md",
+    "cofigure_cipher.md",
+    "nav_cipher.md",
+    "create_account_cipher.md",
+    "cipher.md",
+    "project_ideas.md",
+    "pact.md",
+    "discriminatron.md",
     "color scheme terminal.md",
+    "TASK/Task_Board.md",
+    "custom status line.md",
+    "script my tmux sessions.md",
+    "recovery mode on files.md",
     "modal video component.md",
     "flipbook new images.md",
     "What is a Cloud.md",
     "icy-nietzsche.png",
     "presentations.md",
-    "pact.md",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
     "whatsacloud.canvas",
@@ -226,19 +237,6 @@
     "schedule some content.md",
     "docker k8s study.md",
     "project_toby.md",
-    "jwt null on membership button.md",
-    "test registration.md",
-    "project_ideas.md",
-    "discriminatron.md",
-    "navbar swap.md",
-    "handle page nav.md",
-    "add friend.md",
-    "add new ship banner home.md",
-    "dn_movie.md",
-    "jwt implementation.md",
-    "login & register.md",
-    "pact home page.md",
-    "stripe multi products.md",
     "Pasted image 20240923220346.png",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "Pasted image 20240912141707.png",
