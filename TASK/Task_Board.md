@@ -57,6 +57,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[clipboard issue]]
+	#work
 - [ ] [[postgres to sqlite]]
 	#pact
 - [ ] [[backup configs]]
