@@ -30,9 +30,9 @@
               "state": {
                 "file": "schema_pact.canvas",
                 "viewState": {
-                  "x": 159.96000000000006,
-                  "y": 134.380019268475,
-                  "zoom": -0.8865413317746751
+                  "x": 228.77649459417322,
+                  "y": 71.08819973492724,
+                  "zoom": -0.49980327586645523
                 }
               }
             }
@@ -189,8 +189,14 @@
   },
   "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
-    "schema.md",
+    "assigned.md",
     "schema_pact.canvas",
+    "tasks.md",
+    "relationships.md",
+    "users.md",
+    "submissions.md",
+    "manager_tasks.md",
+    "schema.md",
     "pact.md",
     "TASK/Task_Board.md",
     "clipboard issue.md",
@@ -214,13 +220,6 @@
     "cofigure_cipher.md",
     "nav_cipher.md",
     "create_account_cipher.md",
-    "project_ideas.md",
-    "discriminatron.md",
-    "color scheme terminal.md",
-    "script my tmux sessions.md",
-    "recovery mode on files.md",
-    "modal video component.md",
-    "flipbook new images.md",
     "icy-nietzsche.png",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
