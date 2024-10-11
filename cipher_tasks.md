@@ -14,3 +14,4 @@ main features
 
 [[create_account_cipher]]
 
+[[create_db_schema_cipher]]

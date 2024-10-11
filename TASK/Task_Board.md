@@ -57,7 +57,9 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[custom status line]]
+- [ ] [[postgres to sqlite]]
+	#pact
+- [ ] [[backup configs]]
 	#work
 - [ ] [[modal video component]]
 	#work
@@ -97,6 +99,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[ipinfo cors issue]]
+	#work
+- [ ] [[custom status line]]
+	#work
 - [ ] [[flipbook new images]]
 	#work
 - [ ] [[script my tmux sessions]]

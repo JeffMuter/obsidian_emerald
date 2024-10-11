@@ -43,18 +43,6 @@
             }
           },
           {
-            "id": "d3829857fd04124b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cipher_schema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04e99abcec2ab647",
             "type": "leaf",
             "state": {
@@ -67,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cipher_schema.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cipher_schema.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cipher_schema.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -204,29 +192,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3829857fd04124b",
+  "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
-    "cipher_schema.canvas",
-    "cipher_schema.md",
+    "postgres to sqlite.md",
+    "TASK/Task_Board.md",
+    "backup configs.md",
+    "ipinfo cors issue.md",
+    "custom status line.md",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "What is a Cloud.md",
+    "moarlogos.webp",
+    "awsservicelogos.png",
+    "cloudmeme.jpg",
     "cipher_tasks.md",
+    "cipher.md",
+    "create_db_schema_cipher.md",
+    "cipher_schema.md",
+    "cipher_schema.canvas",
     "create_course_cipher.md",
     "leave_reviews_cipher.md",
     "pages_cipher.md",
     "cofigure_cipher.md",
     "nav_cipher.md",
     "create_account_cipher.md",
-    "cipher.md",
     "project_ideas.md",
     "pact.md",
     "discriminatron.md",
     "color scheme terminal.md",
-    "TASK/Task_Board.md",
-    "custom status line.md",
     "script my tmux sessions.md",
     "recovery mode on files.md",
     "modal video component.md",
     "flipbook new images.md",
-    "What is a Cloud.md",
     "icy-nietzsche.png",
     "presentations.md",
     "devops_loop.jpeg",
@@ -234,11 +230,7 @@
     "whatsacloud.canvas",
     "linkedinQR.jpg",
     "set up tailwind & daisyui.md",
-    "schedule some content.md",
-    "docker k8s study.md",
-    "project_toby.md",
     "Pasted image 20240923220346.png",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "Pasted image 20240912141707.png",
     "generalize_to_specialize.canvas",
     "create home not updating",
@@ -246,9 +238,6 @@
     "stand_up 08",
     "newsletter_idea.canvas",
     "Pasted image 20240821192337.png",
-    "Pasted image 20240820145537.png",
-    "Pasted image 20240820145438.png",
-    "Pasted image 20240814205421.png",
     "docker_alternatives.canvas",
     "Excalidraw",
     "Books/NecroEmily",

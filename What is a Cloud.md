@@ -23,9 +23,10 @@ Then I made an http server, no framework to make this easier, in Golang. Underst
 2 different types of networking will make you realize what networking is, and enforce the basic concepts.
 Then use E3, EC2, and whatever else you feel you need to, to set up something extremely basic, if not terrible, on your server. It will teach you a crazy amount, and you'll finally understand just enough about servers, and products to feel like you understand the basic concepts that allow businesses to run, and why services like AWS & Azure are so powerful
 
-## Last Slide
+## Last Slide![[cloudmeme.jpg]]
+![[awsservicelogos.png]]
 
-My contact stuff one more time, LinkedIn, personal website, blog, etc..
+![[moarlogos.webp]]
 
 
 i want to be the absolute best developer I can. While it's great to be interested, and focused on being great at making software, I realize that I need 'ops', or IT. And to be honest, I don't want to NEED them. I want to be able to be flexible, to do things anywhere. If I was stuck, and needed to understand hardware, hosting, networking, I didn't want it to be a black box, a wall I refused to surmount. Instead, I want to be well rounded. I want to be flexible. I want to know, if I had to, I could. So I started poking around in the world of DevOps. I started hosting some projects on cloud platforms, using, and understanding the tools
@@ -42,4 +43,11 @@ The next problem, was solving the problem of deciding what to build, that's when
 My solution to this was devops. To be able to quickly build something, and then easily troubleshoot problems, and to spend as little time as possible maintaining the system once it's active. It places me at the center of the two worlds, between software complexity, and operation complexity. Hardware, and software, if you will. If I can master this realm well enough, I'm convinced I can push features to code faster, more consistently, with less bugs, in a scalable way between projects. Which in turn, leads to me experiencing more, learning, and growing more, and closer to where I need to be to become even more free.
 
 Regardless.
+
+points:
+1: introduction
+2: why im interested in devops
+3: devops vs the cloud
+4: aws services are just software used to use the cloud
+5: ec2, s3, rds, iam, lambda
 

@@ -1,0 +1,1 @@
+mildly crazy here, but the point is that if I want to do things in production, I want them done in similar, simple ways. And sqlite fits my bill of higher levels of simplicity, especially in production. Cheaper to host, and you know, the normal benefits.
