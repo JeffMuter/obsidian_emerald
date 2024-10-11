@@ -26,18 +26,13 @@
             "id": "3ff8fcfeeb385a6f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "schema_pact.canvas",
+                "viewState": {
+                  "x": 159.96000000000006,
+                  "y": 134.380019268475,
+                  "zoom": -0.8865413317746751
                 }
               }
             }
@@ -121,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "schema_pact.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "schema_pact.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "schema_pact.canvas"
               }
             }
           },
@@ -194,8 +189,11 @@
   },
   "active": "3ff8fcfeeb385a6f",
   "lastOpenFiles": [
-    "clipboard issue.md",
+    "schema.md",
+    "schema_pact.canvas",
+    "pact.md",
     "TASK/Task_Board.md",
+    "clipboard issue.md",
     "postgres to sqlite.md",
     "backup configs.md",
     "ipinfo cors issue.md",
@@ -217,7 +215,6 @@
     "nav_cipher.md",
     "create_account_cipher.md",
     "project_ideas.md",
-    "pact.md",
     "discriminatron.md",
     "color scheme terminal.md",
     "script my tmux sessions.md",
@@ -225,7 +222,6 @@
     "modal video component.md",
     "flipbook new images.md",
     "icy-nietzsche.png",
-    "presentations.md",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
     "whatsacloud.canvas",
@@ -245,7 +241,6 @@
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "wass_devops_canvas.canvas",
-    "prism_rdb_canvas.canvas",
     "Projects/Prism",
     "TASK",
     "TASK/Tasks",

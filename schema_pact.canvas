@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"687625b506b36dd8","x":-403,"y":-167,"width":250,"height":287,"type":"text","text":"users\n\nid int\ncreated_at text\nrole text\npoints int\n"},
+		{"id":"e7f45e120a08a2f9","x":-310,"y":-425,"width":250,"height":145,"type":"text","text":"relationships\n\nfk_worker_id\nfk_manager_id"},
+		{"id":"29be367e4e9cbb83","x":420,"y":-197,"width":250,"height":348,"type":"text","text":"tasks\n\nany kind of task\nid int\ntype: assignment / reward / consequence text\ntitle text\ndesc text\npoints int\nimgRequired int\nvidRequired int\nwordCount int\ntextRequired int\ndueAt text"},
+		{"id":"6505e29a2d00cacc","x":-40,"y":-99,"width":250,"height":153,"type":"text","text":"manager_tasks\n\nfk_manager_id\nfk_task_id"},
+		{"id":"8ee6e44ba3175a76","x":-403,"y":280,"width":250,"height":346,"type":"text","text":"submissions\n\nemplyee sends these when completing a task\n\nfk_employee_id int\nfk_task_id int\nwordCount int\ntextContent text\nvideoUrl text\nimageUrl text\nsubmittedAt text\nstatus text (pending/approved/rejected)\n"}
+	],
+	"edges":[
+		{"id":"416c7e72995e7316","fromNode":"687625b506b36dd8","fromSide":"top","toNode":"e7f45e120a08a2f9","toSide":"bottom"},
+		{"id":"fe4117bd0a0429c0","fromNode":"e7f45e120a08a2f9","fromSide":"bottom","toNode":"687625b506b36dd8","toSide":"top"},
+		{"id":"5c8da229a494c771","fromNode":"687625b506b36dd8","fromSide":"right","toNode":"6505e29a2d00cacc","toSide":"left"},
+		{"id":"6d84dfaf33b84b61","fromNode":"6505e29a2d00cacc","fromSide":"right","toNode":"29be367e4e9cbb83","toSide":"left"},
+		{"id":"5f7ba0b0c01a65e8","fromNode":"687625b506b36dd8","fromSide":"bottom","toNode":"8ee6e44ba3175a76","toSide":"top"}
+	]
+}
