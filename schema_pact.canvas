@@ -1,17 +1,20 @@
 {
 	"nodes":[
-		{"id":"29be367e4e9cbb83","type":"text","text":"[[tasks]]\n\nany kind of task\nid int\ntype: assignment / reward / consequence text\ntitle text\ndesc text\npointsOnCompletion int\npointsReqiored int\nimgRequired int\nvidRequired int\nwordCount int\ntextRequired int\ndueAt text","x":420,"y":-197,"width":250,"height":397},
-		{"id":"8ee6e44ba3175a76","type":"text","text":"[[submissions]]\n\nemplyee sends these when completing a task\n\nfk_employee_id int\nfk_task_id int\nwordCount int\ntextContent text\nvideoUrl text\nimageUrl text\nsubmittedAt text\nstatus text (pending/approved/rejected)\n","x":-403,"y":280,"width":250,"height":346},
-		{"id":"e7f45e120a08a2f9","type":"text","text":"[[relationships]]\n\nfk_worker_id\nfk_manager_id","x":-403,"y":-520,"width":250,"height":185},
-		{"id":"687625b506b36dd8","type":"text","text":"[[users]]\n\nid int\ncreated_at text\nrole text\npoints int\n","x":-403,"y":-106,"width":250,"height":167},
-		{"id":"6505e29a2d00cacc","type":"text","text":"[[manager_tasks]]\n\nfk_manager_id\nfk_task_id","x":0,"y":-259,"width":250,"height":153},
-		{"id":"c6b4cc63624e1e69","x":-49,"y":133,"width":250,"height":287,"type":"text","text":"[[assigned]]\nid int\nfk_worker_id int\nfk_manager_id int\nfk_task_id int\n"}
+		{"id":"29be367e4e9cbb83","type":"text","text":"[[tasks]]\n\nany kind of task\nid int\ntype: assignment / reward / consequence text\ntitle text\ndesc text\npointsOnCompletion int\npointsReqiored int\nimgRequired int\nvidRequired int\nwordCount int\ntextRequired int","x":420,"y":-197,"width":250,"height":397},
+		{"id":"687625b506b36dd8","type":"text","text":"[[users]]\nid int\ncreated_at text\nrole text\npoints int\n","x":-379,"y":-106,"width":203,"height":167},
+		{"id":"c6b4cc63624e1e69","type":"text","text":"[[assigned]]\nid int\nfk_worker_id int\nfk_manager_id int\nfk_task_id int\nstatus text (submitted)\npointsOnCompletion\nimgRequired int\nvidRequired int\ntextRequired int\nwordCount int\ndueAt text","x":0,"y":-60,"width":250,"height":318},
+		{"id":"6505e29a2d00cacc","type":"text","text":"[[manager_tasks]]\n\nfk_manager_id\nfk_task_id","x":0,"y":-197,"width":250,"height":117},
+		{"id":"e7f45e120a08a2f9","type":"text","text":"[[relationships]]\nid int\nfk_worker_id\nfk_manager_id","x":-402,"y":-260,"width":250,"height":122},
+		{"id":"8ee6e44ba3175a76","type":"text","text":"[[submissions]]\nid int\nfk_employee_id int\nfk_assigned_id int\nwordCount int\ntextContent text\nvideoUrl text\nimageUrl text\nsubmittedAt text\nstatus text (pending/approved/rejected)\n","x":-402,"y":99,"width":250,"height":321},
+		{"id":"8eea69b08db35dfd","x":-137,"y":299,"width":197,"height":261,"type":"text","text":"[[rewards]]\nid int\npointsRequired int\ntitle text\ndesc text\nimgRequired int\nvidRequired int\ntextRequired int\nwordCount int"}
 	],
 	"edges":[
-		{"id":"416c7e72995e7316","fromNode":"687625b506b36dd8","fromSide":"top","toNode":"e7f45e120a08a2f9","toSide":"bottom"},
-		{"id":"fe4117bd0a0429c0","fromNode":"e7f45e120a08a2f9","fromSide":"bottom","toNode":"687625b506b36dd8","toSide":"top"},
 		{"id":"5c8da229a494c771","fromNode":"687625b506b36dd8","fromSide":"right","toNode":"6505e29a2d00cacc","toSide":"left"},
 		{"id":"6d84dfaf33b84b61","fromNode":"6505e29a2d00cacc","fromSide":"right","toNode":"29be367e4e9cbb83","toSide":"left"},
-		{"id":"5f7ba0b0c01a65e8","fromNode":"687625b506b36dd8","fromSide":"bottom","toNode":"8ee6e44ba3175a76","toSide":"top"}
+		{"id":"135cf7f8ba54c386","fromNode":"687625b506b36dd8","fromSide":"right","toNode":"c6b4cc63624e1e69","toSide":"left"},
+		{"id":"c35941016552c456","fromNode":"c6b4cc63624e1e69","fromSide":"right","toNode":"29be367e4e9cbb83","toSide":"left"},
+		{"id":"536ec1d2c71c6ac9","fromNode":"e7f45e120a08a2f9","fromSide":"bottom","toNode":"687625b506b36dd8","toSide":"top"},
+		{"id":"d7798c1f82fd5b4c","fromNode":"8ee6e44ba3175a76","fromSide":"top","toNode":"687625b506b36dd8","toSide":"bottom"},
+		{"id":"769583d99fbac267","fromNode":"8ee6e44ba3175a76","fromSide":"right","toNode":"c6b4cc63624e1e69","toSide":"left"}
 	]
 }

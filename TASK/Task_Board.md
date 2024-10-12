@@ -57,6 +57,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[sqlite schema]]
+	#pact
+- [ ] [[boise/heath cart page convo]]
+	#work
 - [ ] [[clipboard issue]]
 	#work
 - [ ] [[postgres to sqlite]]

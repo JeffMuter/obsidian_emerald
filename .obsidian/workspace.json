@@ -11,14 +11,21 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Prism/prism_rdb_canvas.canvas",
-                "viewState": {
-                  "x": 236.04343277499004,
-                  "y": -426.74385228147275,
-                  "zoom": -0.9373075067565628
-                }
+                "file": "db_notes_pact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c626253db354b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-11 18.25.01.excalidraw.md"
               }
             }
           },
@@ -31,8 +38,8 @@
                 "file": "schema_pact.canvas",
                 "viewState": {
                   "x": 228.77649459417322,
-                  "y": 71.08819973492724,
-                  "zoom": -0.49980327586645523
+                  "y": 65.02472020732492,
+                  "zoom": -0.704843300517877
                 }
               }
             }
@@ -50,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schema_pact.canvas",
+                "file": "What is a Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schema_pact.canvas",
+                "file": "What is a Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schema_pact.canvas"
+                "file": "What is a Cloud.md"
               }
             }
           },
@@ -187,24 +194,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ff8fcfeeb385a6f",
+  "active": "04e99abcec2ab647",
   "lastOpenFiles": [
-    "assigned.md",
     "schema_pact.canvas",
+    "Excalidraw/Drawing 2024-10-11 18.25.01.excalidraw.md",
+    "db_notes_pact.md",
+    "db_notes_pact.excalidraw.md",
+    "rewards.md",
+    "users.md",
+    "sqlite schema.md",
+    "TASK/Task_Board.md",
+    "boise/heath cart page convo.md",
+    "boise",
+    "Projects/Prism/prism_rdb_canvas.canvas",
+    "assigned.md",
     "tasks.md",
     "relationships.md",
-    "users.md",
     "submissions.md",
     "manager_tasks.md",
     "schema.md",
     "pact.md",
-    "TASK/Task_Board.md",
     "clipboard issue.md",
     "postgres to sqlite.md",
     "backup configs.md",
     "ipinfo cors issue.md",
     "custom status line.md",
-    "Projects/Prism/prism_rdb_canvas.canvas",
     "What is a Cloud.md",
     "moarlogos.webp",
     "awsservicelogos.png",
@@ -214,12 +228,6 @@
     "create_db_schema_cipher.md",
     "cipher_schema.md",
     "cipher_schema.canvas",
-    "create_course_cipher.md",
-    "leave_reviews_cipher.md",
-    "pages_cipher.md",
-    "cofigure_cipher.md",
-    "nav_cipher.md",
-    "create_account_cipher.md",
     "icy-nietzsche.png",
     "devops_loop.jpeg",
     "Devops-toolchain.svg.png",
@@ -242,7 +250,6 @@
     "wass_devops_canvas.canvas",
     "Projects/Prism",
     "TASK",
-    "TASK/Tasks",
-    "Projects"
+    "TASK/Tasks"
   ]
 }
