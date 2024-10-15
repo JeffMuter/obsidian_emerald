@@ -23,13 +23,43 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[backup configs]]
+	#work
+- [ ] [[schedule some content]]
+	#work
+- [ ] [[handle page nav]]
+	#pact
+- [ ] [[add friend]]
+	#pact
 - [ ] [[test registration]]
 	#pact
+- [ ] [[navbar swap]]
+	#pact
 - [ ] [[look into claude pairprogrammer]]
+- [ ] [[git auto updating ci/cd]]
+	#coin
+- [ ] [[add task_types for crafters]]
+	#prism
+- [ ] [[home_location_requirements]]
+	#prism
+- [ ] [[home loc, no multi homes]]
+	#prism
+- [ ] [[add buildings to db]]
+	#prism
+- [ ] [[send worker with recs home]]
+	#prism
 - [ ] [[menu_back_option]]
 	#prism
 - [ ] [[menu system refactor]]
 	#prism
+- [ ] [[test_for_cloudinary_images]]
+	#work
+- [ ] [[cds pages, new logo]]
+	#work
+- [ ] cds automate testing on push
+	#work
+- [ ] [[CDS Homepage build]]
+	#work
 - [ ] [[menu_options_bar]]
 	#prism
 - [ ] [[talk_to]] cyprian
@@ -57,52 +87,20 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[postgres to sqlite]]
-	#pact
-- [ ] [[heath mobile vs desktop]]
+- [ ] [[modal video component]]
 	#work
 - [ ] [[wendys testimonial]]
 	#work
-- [ ] [[modal video component]]
-	#work
-- [ ] [[backup configs]]
-	#work
-- [ ] [[schedule some content]]
-	#work
-- [ ] [[handle page nav]]
+- [ ] [[postgres to sqlite]]
 	#pact
-- [ ] [[navbar swap]]
-	#pact
-- [ ] [[add friend]]
-	#pact
-- [ ] [[git auto updating ci/cd]]
-	#coin
-- [ ] [[send worker with recs home]]
-	#prism
-- [ ] [[add task_types for crafters]]
-	#prism
-- [ ] [[add buildings to db]]
-	#prism
-- [ ] [[home loc, no multi homes]]
-	#prism
-- [ ] [[home_location_requirements]]
-	#prism
-- [ ] get_hugo
-	#work
-- [ ] [[cds pages, new logo]]
-	#work
-- [ ] [[CDS Homepage build]]
-	#work
-- [ ] [[test_for_cloudinary_images]]
-	#work
-- [ ] cds automate testing on push
-	#work
-- [ ] cds add github
-	#work
 
 
 ## COMPLETE
 
+- [ ] get_hugo
+	#work
+- [ ] [[heath mobile vs desktop]]
+	#work
 - [ ] [[sqlc in pact]]
 	#pact
 - [ ] [[sqlite schema]]
@@ -110,6 +108,8 @@ kanban-plugin: board
 - [ ] [[boise/heath cart page convo]]
 	#work
 - [ ] [[clipboard issue]]
+	#work
+- [ ] cds add github
 	#work
 - [ ] [[ipinfo cors issue]]
 	#work
