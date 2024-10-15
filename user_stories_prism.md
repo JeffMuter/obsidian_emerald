@@ -8,3 +8,4 @@
 [[real world events]]
 [[loot]]
 [[expedition]]
+[[worker_breeding]]

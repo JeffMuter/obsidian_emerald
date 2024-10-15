@@ -1,7 +1,9 @@
 ---
 excalidraw-plugin: What is a cloud?
 ---
+![[Pasted image 20241012090819.png]]
 
+---
 
 ![[linkedinQR.jpg]]
 
@@ -21,11 +23,11 @@ excalidraw-plugin: What is a cloud?
 
 So Now What?
 1. Build an application:
-I built a tcp server that created chat rooms in the terminal
+      I built a tcp server that created chat rooms in the terminal
 2. Use EC2 to launch
-Since EC2 handles compute, and minute storage, this was cheap and easy.
+      Since EC2 handles compute, and minute storage, this was cheap and easy.
 3. Try using storage
-I archive chat room conversations to S3
+      I archive chat room conversations to S3
 
 ---
 I hate to say this...

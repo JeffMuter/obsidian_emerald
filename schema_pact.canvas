@@ -6,15 +6,15 @@
 		{"id":"6505e29a2d00cacc","type":"text","text":"[[manager_tasks]]\n\nfk_manager_id\nfk_task_id","x":0,"y":-197,"width":250,"height":117},
 		{"id":"e7f45e120a08a2f9","type":"text","text":"[[relationships]]\nid int\nfk_worker_id\nfk_manager_id","x":-402,"y":-260,"width":250,"height":122},
 		{"id":"8ee6e44ba3175a76","type":"text","text":"[[submissions]]\nid int\nfk_employee_id int\nfk_assigned_id int\nwordCount int\ntextContent text\nvideoUrl text\nimageUrl text\nsubmittedAt text\nstatus text (pending/approved/rejected)\n","x":-402,"y":99,"width":250,"height":321},
-		{"id":"8eea69b08db35dfd","x":-137,"y":299,"width":197,"height":261,"type":"text","text":"[[rewards]]\nid int\npointsRequired int\ntitle text\ndesc text\nimgRequired int\nvidRequired int\ntextRequired int\nwordCount int"}
+		{"id":"8eea69b08db35dfd","type":"text","text":"[[rewards]]\nid int\npointsRequired int\ntitle text\ndesc text\nimgRequired int\nvidRequired int\ntextRequired int\nwordCount int","x":27,"y":289,"width":197,"height":261}
 	],
 	"edges":[
-		{"id":"5c8da229a494c771","fromNode":"687625b506b36dd8","fromSide":"right","toNode":"6505e29a2d00cacc","toSide":"left"},
 		{"id":"6d84dfaf33b84b61","fromNode":"6505e29a2d00cacc","fromSide":"right","toNode":"29be367e4e9cbb83","toSide":"left"},
-		{"id":"135cf7f8ba54c386","fromNode":"687625b506b36dd8","fromSide":"right","toNode":"c6b4cc63624e1e69","toSide":"left"},
 		{"id":"c35941016552c456","fromNode":"c6b4cc63624e1e69","fromSide":"right","toNode":"29be367e4e9cbb83","toSide":"left"},
 		{"id":"536ec1d2c71c6ac9","fromNode":"e7f45e120a08a2f9","fromSide":"bottom","toNode":"687625b506b36dd8","toSide":"top"},
 		{"id":"d7798c1f82fd5b4c","fromNode":"8ee6e44ba3175a76","fromSide":"top","toNode":"687625b506b36dd8","toSide":"bottom"},
-		{"id":"769583d99fbac267","fromNode":"8ee6e44ba3175a76","fromSide":"right","toNode":"c6b4cc63624e1e69","toSide":"left"}
+		{"id":"3cc46b03e92c1265","fromNode":"c6b4cc63624e1e69","fromSide":"left","toNode":"687625b506b36dd8","toSide":"right"},
+		{"id":"9e3303a2a49489be","fromNode":"6505e29a2d00cacc","fromSide":"left","toNode":"687625b506b36dd8","toSide":"right"},
+		{"id":"2c8ea9cef10f635b","fromNode":"8ee6e44ba3175a76","fromSide":"right","toNode":"c6b4cc63624e1e69","toSide":"left"}
 	]
 }

@@ -57,17 +57,15 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[sqlite schema]]
-	#pact
-- [ ] [[boise/heath cart page convo]]
-	#work
-- [ ] [[clipboard issue]]
-	#work
 - [ ] [[postgres to sqlite]]
 	#pact
-- [ ] [[backup configs]]
+- [ ] [[heath mobile vs desktop]]
+	#work
+- [ ] [[wendys testimonial]]
 	#work
 - [ ] [[modal video component]]
+	#work
+- [ ] [[backup configs]]
 	#work
 - [ ] [[schedule some content]]
 	#work
@@ -105,6 +103,14 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[sqlc in pact]]
+	#pact
+- [ ] [[sqlite schema]]
+	#pact
+- [ ] [[boise/heath cart page convo]]
+	#work
+- [ ] [[clipboard issue]]
+	#work
 - [ ] [[ipinfo cors issue]]
 	#work
 - [ ] [[custom status line]]

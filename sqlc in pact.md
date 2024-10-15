@@ -1,0 +1,1 @@
+using sqlc to control the schema, and have it write the functions that perform just the bs boiler plate of creating the functions. glorious tbh.

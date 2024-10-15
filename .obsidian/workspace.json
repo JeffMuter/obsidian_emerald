@@ -11,11 +11,19 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "db_notes_pact.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -25,7 +33,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-11 18.25.01.excalidraw.md"
+                "file": "Excalidraw/pact_notes.excalidraw.md"
               }
             }
           },
@@ -37,27 +45,29 @@
               "state": {
                 "file": "schema_pact.canvas",
                 "viewState": {
-                  "x": 228.77649459417322,
-                  "y": 65.02472020732492,
-                  "zoom": -0.704843300517877
+                  "x": 210.01159954062643,
+                  "y": 127.80880275764527,
+                  "zoom": -0.3958136591015394
                 }
               }
             }
           },
           {
-            "id": "04e99abcec2ab647",
+            "id": "845f66e0ad1dbea0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "What is a Cloud.md",
-                "mode": "source",
-                "source": false
+                "file": "prism_fusion.canvas",
+                "viewState": {
+                  "x": 221.49038691594882,
+                  "y": 434.60626114144435,
+                  "zoom": -1.2642730194992493
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is a Cloud.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is a Cloud.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is a Cloud.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -194,16 +204,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04e99abcec2ab647",
+  "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "schema_pact.canvas",
-    "Excalidraw/Drawing 2024-10-11 18.25.01.excalidraw.md",
+    "sqlc in pact.md",
+    "TASK/Task_Board.md",
+    "heath mobile vs desktop.md",
     "db_notes_pact.md",
-    "db_notes_pact.excalidraw.md",
-    "rewards.md",
+    "pact.md",
+    "wendys testimonial.md",
+    "prism_fusion.canvas",
+    "worker_breeding.md",
+    "user_stories_prism.md",
+    "Projects/Prism/prism.md",
+    "schema_pact.canvas",
+    "cipher.md",
+    "Excalidraw/pact_notes.excalidraw.md",
+    "schema_pact.md",
     "users.md",
     "sqlite schema.md",
-    "TASK/Task_Board.md",
+    "pact_bank.md",
+    "devops_conference_notes.md",
+    "cloud_nirvana_conference.md",
+    "What is a Cloud.md",
+    "Pasted image 20241012090819.png",
+    "db_notes_pact.excalidraw.md",
+    "rewards.md",
     "boise/heath cart page convo.md",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",
@@ -212,21 +237,9 @@
     "relationships.md",
     "submissions.md",
     "manager_tasks.md",
-    "schema.md",
-    "pact.md",
-    "clipboard issue.md",
-    "postgres to sqlite.md",
-    "backup configs.md",
-    "ipinfo cors issue.md",
-    "custom status line.md",
-    "What is a Cloud.md",
     "moarlogos.webp",
     "awsservicelogos.png",
     "cloudmeme.jpg",
-    "cipher_tasks.md",
-    "cipher.md",
-    "create_db_schema_cipher.md",
-    "cipher_schema.md",
     "cipher_schema.canvas",
     "icy-nietzsche.png",
     "devops_loop.jpeg",
@@ -240,14 +253,12 @@
     "stand_up 08/26",
     "stand_up 08",
     "newsletter_idea.canvas",
-    "Pasted image 20240821192337.png",
     "docker_alternatives.canvas",
     "Excalidraw",
     "Books/NecroEmily",
     "Books",
     "homescreen_UX.canvas",
     "node_canvas.canvas",
-    "wass_devops_canvas.canvas",
     "Projects/Prism",
     "TASK",
     "TASK/Tasks"

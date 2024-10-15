@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f374320d77420aeb","x":-459,"y":-201,"width":259,"height":901,"type":"text","text":"PARENT0\n\ngen0 traits:\n\nenv type: \nunderground / flying(trees/floating isles) / fields / ice plains...\n\nspell type: \nfire / water / ice / earth / wind\n\nskin type: \nscales / skin / fur / feathers / carapace\n\nmain color:\n\nsecondary color:\n\nAccent color:\n\nbody features: \nspots / stripes / solid / \n\ntail:\nlong, none, short, curly\n\neye color: \n\neye shape:\nslanted / rounded\n\npupil shape: slit / ovular / circular\n\nwings:\nyes 2, yes 4, no.\n\nlegs:\nyes 4, yes, 6, no, many\n\n"},
+		{"id":"0369722a948b5005","x":-454,"y":760,"width":250,"height":240,"type":"text","text":"PARENT1\n\ngen0 traits:"},
+		{"id":"4b0e368e5d1ff68c","x":200,"y":160,"width":250,"height":389,"type":"text","text":"Child0"}
+	],
+	"edges":[
+		{"id":"bd47c4595c4d653f","fromNode":"f374320d77420aeb","fromSide":"right","toNode":"4b0e368e5d1ff68c","toSide":"left"},
+		{"id":"01108560dc12536b","fromNode":"0369722a948b5005","fromSide":"right","toNode":"4b0e368e5d1ff68c","toSide":"left"}
+	]
+}

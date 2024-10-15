@@ -1,3 +1,7 @@
+[[schema_pact]]
+[[pact_phone]]
+
+
 so we need to start a general idea of what pages need made, what functionality and all that jazz, and begin prioritizing that shit.
 
 Home page ( logged in vs guest vs non-member )
