@@ -1,0 +1,1 @@
+there's a bug where registration was returning 200 even when it wasn't working. Need to write better error handling for an http server. Clearly I need some help on that front.

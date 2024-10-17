@@ -1,0 +1,1 @@
+issue was that sqlite was using a database file that it was creating in the root of the repo, which is an empty file, wasn't loaded with our schema. Not sure why registration was coming back 200

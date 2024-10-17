@@ -11,19 +11,11 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "presentations.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "presentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "presentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "presentations.md"
               }
             }
           },
@@ -206,9 +198,21 @@
   },
   "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "registration sqlc.md",
+    "Stop Being a Zombie.md",
+    "presentations.md",
+    "Why I Go.md",
+    "bootdev-logo-full-small.webp",
+    "ardan-labs-go-tour-banner.png",
+    "go-time-original.webp",
+    "1674486898-artwork.jpg",
+    "modelsheet.jpg",
+    "0_YISbBYJg5hkJGcQd.png",
+    "images.jpg",
+    "png-clipart-go-programming-language-computer-programming-others-baltimore-web-application.png",
     "TASK/Task_Board.md",
+    "registration_200_bug.md",
     "issue logging in.md",
+    "registration sqlc.md",
     "reload sqlite3 database with schema file.md",
     "refactor handlers pact.md",
     "heath mobile vs desktop.md",
@@ -231,23 +235,11 @@
     "cloud_nirvana_conference.md",
     "What is a Cloud.md",
     "Pasted image 20241012090819.png",
-    "db_notes_pact.excalidraw.md",
-    "rewards.md",
-    "boise/heath cart page convo.md",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",
-    "assigned.md",
     "moarlogos.webp",
-    "awsservicelogos.png",
-    "cloudmeme.jpg",
     "cipher_schema.canvas",
-    "icy-nietzsche.png",
-    "devops_loop.jpeg",
-    "Devops-toolchain.svg.png",
     "whatsacloud.canvas",
-    "linkedinQR.jpg",
-    "Pasted image 20240923220346.png",
-    "Pasted image 20240912141707.png",
     "generalize_to_specialize.canvas",
     "create home not updating",
     "stand_up 08/26",

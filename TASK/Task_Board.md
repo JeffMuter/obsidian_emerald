@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[registration_200_bug]]
+	#pact
 - [ ] [[backup configs]]
 	#work
 - [ ] [[schedule some content]]
@@ -87,8 +89,6 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[issue logging in]]
-	#pact
 - [ ] [[modal video component]]
 	#work
 - [ ] [[wendys testimonial]]
@@ -97,6 +97,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[issue logging in]]
+	#pact
 - [ ] [[registration sqlc]]
 	#pact
 - [ ] [[reload sqlite3 database with schema file]]
