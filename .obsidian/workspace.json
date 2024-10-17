@@ -11,11 +11,19 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "reload sqlite3 database with schema file.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -125,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reload sqlite3 database with schema file.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reload sqlite3 database with schema file.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reload sqlite3 database with schema file.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -198,7 +206,9 @@
   },
   "active": "6723f0dedbd07060",
   "lastOpenFiles": [
+    "registration sqlc.md",
     "TASK/Task_Board.md",
+    "issue logging in.md",
     "reload sqlite3 database with schema file.md",
     "refactor handlers pact.md",
     "heath mobile vs desktop.md",
@@ -227,8 +237,6 @@
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",
     "assigned.md",
-    "tasks.md",
-    "relationships.md",
     "moarlogos.webp",
     "awsservicelogos.png",
     "cloudmeme.jpg",

@@ -97,6 +97,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[registration sqlc]]
+	#pact
 - [ ] [[reload sqlite3 database with schema file]]
 	#pact
 - [ ] [[refactor handlers pact]]
