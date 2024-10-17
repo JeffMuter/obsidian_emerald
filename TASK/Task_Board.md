@@ -87,16 +87,22 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[issue logging in]]
+	#pact
 - [ ] [[modal video component]]
 	#work
 - [ ] [[wendys testimonial]]
 	#work
-- [ ] [[postgres to sqlite]]
-	#pact
 
 
 ## COMPLETE
 
+- [ ] [[reload sqlite3 database with schema file]]
+	#pact
+- [ ] [[refactor handlers pact]]
+	#pact
+- [ ] [[postgres to sqlite]]
+	#pact
 - [ ] get_hugo
 	#work
 - [ ] [[heath mobile vs desktop]]

@@ -11,19 +11,11 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "reload sqlite3 database with schema file.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "reload sqlite3 database with schema file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "reload sqlite3 database with schema file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "reload sqlite3 database with schema file.md"
               }
             }
           },
@@ -206,8 +198,10 @@
   },
   "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "heath mobile vs desktop.md",
     "TASK/Task_Board.md",
+    "reload sqlite3 database with schema file.md",
+    "refactor handlers pact.md",
+    "heath mobile vs desktop.md",
     "sqlc in pact.md",
     "db_notes_pact.md",
     "pact.md",
@@ -235,8 +229,6 @@
     "assigned.md",
     "tasks.md",
     "relationships.md",
-    "submissions.md",
-    "manager_tasks.md",
     "moarlogos.webp",
     "awsservicelogos.png",
     "cloudmeme.jpg",
