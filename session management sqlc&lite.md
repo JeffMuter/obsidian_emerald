@@ -1,0 +1,1 @@
+issue with our session management, converting this to the sqlc & lite solutions.

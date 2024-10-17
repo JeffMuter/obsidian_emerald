@@ -29,8 +29,6 @@ kanban-plugin: board
 	#work
 - [ ] [[schedule some content]]
 	#work
-- [ ] [[handle page nav]]
-	#pact
 - [ ] [[add friend]]
 	#pact
 - [ ] [[test registration]]
@@ -89,6 +87,10 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[session management sqlc/lite]]
+	#pact
+- [ ] [[handle page nav]]
+	#pact
 - [ ] [[modal video component]]
 	#work
 - [ ] [[wendys testimonial]]

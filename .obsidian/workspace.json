@@ -11,11 +11,19 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "presentations.md",
-                "mode": "source",
-                "source": false
+                "file": "TASK/Task_Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -125,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentations.md",
+                "file": "TASK/Task_Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentations.md",
+                "file": "TASK/Task_Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentations.md"
+                "file": "TASK/Task_Board.md"
               }
             }
           },
@@ -198,8 +206,13 @@
   },
   "active": "6723f0dedbd07060",
   "lastOpenFiles": [
-    "Stop Being a Zombie.md",
+    "session management sqlc&lite.md",
+    "TASK/Task_Board.md",
+    "session management sqlc/lite.md",
+    "session management sqlc",
+    "handle page nav.md",
     "presentations.md",
+    "Stop Being a Zombie.md",
     "Why I Go.md",
     "bootdev-logo-full-small.webp",
     "ardan-labs-go-tour-banner.png",
@@ -209,7 +222,6 @@
     "0_YISbBYJg5hkJGcQd.png",
     "images.jpg",
     "png-clipart-go-programming-language-computer-programming-others-baltimore-web-application.png",
-    "TASK/Task_Board.md",
     "registration_200_bug.md",
     "issue logging in.md",
     "registration sqlc.md",
@@ -231,9 +243,6 @@
     "users.md",
     "sqlite schema.md",
     "pact_bank.md",
-    "devops_conference_notes.md",
-    "cloud_nirvana_conference.md",
-    "What is a Cloud.md",
     "Pasted image 20241012090819.png",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",
@@ -252,7 +261,6 @@
     "homescreen_UX.canvas",
     "node_canvas.canvas",
     "Projects/Prism",
-    "TASK",
-    "TASK/Tasks"
+    "TASK"
   ]
 }
