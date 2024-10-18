@@ -11,6 +11,30 @@
             "id": "6723f0dedbd07060",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang http fundementals cookies, sessions, and context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b953962dfe54bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pacts user type validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8da156aad31703",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "TASK/Task_Board.md",
@@ -26,48 +50,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "b3c626253db354b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/pact_notes.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3ff8fcfeeb385a6f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "schema_pact.canvas",
-                "viewState": {
-                  "x": 210.01159954062643,
-                  "y": 127.80880275764527,
-                  "zoom": -0.3958136591015394
-                }
-              }
-            }
-          },
-          {
-            "id": "845f66e0ad1dbea0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "prism_fusion.canvas",
-                "viewState": {
-                  "x": 221.49038691594882,
-                  "y": 434.60626114144435,
-                  "zoom": -1.2642730194992493
-                }
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,10 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6723f0dedbd07060",
+  "active": "bc8da156aad31703",
   "lastOpenFiles": [
-    "session management sqlc&lite.md",
+    "modal video component.md",
     "TASK/Task_Board.md",
+    "pacts user type validation.md",
+    "golang http fundementals cookies, sessions, and context.md",
+    "prism_fusion.canvas",
+    "schema_pact.canvas",
+    "Excalidraw/pact_notes.excalidraw.md",
+    "blog_ideas.md",
+    "heath mobile vs desktop.md",
+    "ipinfo cors issue.md",
+    "pact_registration_redirect_bug.md",
+    "session management sqlc&lite.md",
     "session management sqlc/lite.md",
     "session management sqlc",
     "handle page nav.md",
@@ -227,22 +222,12 @@
     "registration sqlc.md",
     "reload sqlite3 database with schema file.md",
     "refactor handlers pact.md",
-    "heath mobile vs desktop.md",
     "sqlc in pact.md",
     "db_notes_pact.md",
     "pact.md",
     "wendys testimonial.md",
-    "prism_fusion.canvas",
     "worker_breeding.md",
     "user_stories_prism.md",
-    "Projects/Prism/prism.md",
-    "schema_pact.canvas",
-    "cipher.md",
-    "Excalidraw/pact_notes.excalidraw.md",
-    "schema_pact.md",
-    "users.md",
-    "sqlite schema.md",
-    "pact_bank.md",
     "Pasted image 20241012090819.png",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",

@@ -23,6 +23,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] [[pact_registration_redirect_bug]]
+	#pact
 - [ ] [[registration_200_bug]]
 	#pact
 - [ ] [[backup configs]]
@@ -32,8 +34,6 @@ kanban-plugin: board
 - [ ] [[add friend]]
 	#pact
 - [ ] [[test registration]]
-	#pact
-- [ ] [[navbar swap]]
 	#pact
 - [ ] [[look into claude pairprogrammer]]
 - [ ] [[git auto updating ci/cd]]
@@ -87,18 +87,26 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[modal video component]]
+	#work
 - [ ] [[session management sqlc/lite]]
 	#pact
 - [ ] [[handle page nav]]
 	#pact
-- [ ] [[modal video component]]
-	#work
+- [ ] [[navbar swap]]
+	#pact
 - [ ] [[wendys testimonial]]
 	#work
 
 
 ## COMPLETE
 
+- [ ] [[ipinfo cors issue]]
+	#work
+- [ ] [[boise/heath cart page convo]]
+	#work
+- [ ] [[heath mobile vs desktop]]
+	#work
 - [ ] [[issue logging in]]
 	#pact
 - [ ] [[registration sqlc]]
@@ -111,19 +119,13 @@ kanban-plugin: board
 	#pact
 - [ ] get_hugo
 	#work
-- [ ] [[heath mobile vs desktop]]
-	#work
 - [ ] [[sqlc in pact]]
 	#pact
 - [ ] [[sqlite schema]]
 	#pact
-- [ ] [[boise/heath cart page convo]]
-	#work
 - [ ] [[clipboard issue]]
 	#work
 - [ ] cds add github
-	#work
-- [ ] [[ipinfo cors issue]]
 	#work
 - [ ] [[custom status line]]
 	#work
