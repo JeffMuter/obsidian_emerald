@@ -87,6 +87,8 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[middleware kick to login]]
+	#pact
 - [ ] [[modal video component]]
 	#work
 - [ ] [[session management sqlc/lite]]
