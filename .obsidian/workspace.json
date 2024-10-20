@@ -35,19 +35,11 @@
             "id": "bc8da156aad31703",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TASK/Task_Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "middleware kick to login.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "middleware kick to login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK/Task_Board.md",
+                "file": "middleware kick to login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK/Task_Board.md"
+                "file": "middleware kick to login.md"
               }
             }
           },
@@ -191,8 +183,8 @@
   },
   "active": "bc8da156aad31703",
   "lastOpenFiles": [
-    "middleware kick to login.md",
     "TASK/Task_Board.md",
+    "middleware kick to login.md",
     "modal video component.md",
     "pacts user type validation.md",
     "golang http fundementals cookies, sessions, and context.md",

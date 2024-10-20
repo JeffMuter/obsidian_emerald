@@ -87,8 +87,6 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[middleware kick to login]]
-	#pact
 - [ ] [[modal video component]]
 	#work
 - [ ] [[session management sqlc/lite]]
@@ -103,6 +101,8 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[middleware kick to login]]
+	#pact
 - [ ] [[ipinfo cors issue]]
 	#work
 - [ ] [[boise/heath cart page convo]]
