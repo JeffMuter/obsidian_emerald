@@ -2,3 +2,4 @@ issue where, on reload, we see another page, not the current one. HTMX has some 
 
 back to working on the nav issue.
 
+discovered that the page nav is not correctly named for the data.

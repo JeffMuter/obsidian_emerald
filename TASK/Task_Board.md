@@ -87,12 +87,12 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[handle logout]]
+	#pact
+- [ ] [[homepage eyebrow alt text]]
+	#work
 - [ ] [[modal video component]]
 	#work
-- [ ] [[session management sqlc/lite]]
-	#pact
-- [ ] [[handle page nav]]
-	#pact
 - [ ] [[navbar swap]]
 	#pact
 - [ ] [[wendys testimonial]]
@@ -101,6 +101,10 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[handle page nav]]
+	#pact
+- [ ] [[session management w context]]
+	#pact
 - [ ] [[middleware kick to login]]
 	#pact
 - [ ] [[ipinfo cors issue]]
