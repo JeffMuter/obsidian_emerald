@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang http fundementals cookies, sessions, and context.md",
+                "file": "add friend.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,16 +191,20 @@
   },
   "active": "bc8da156aad31703",
   "lastOpenFiles": [
-    "handle logout.md",
+    "email randal.md",
     "TASK/Task_Board.md",
+    "add leaders to tcc excel.md",
+    "pacts user type validation.md",
+    "add friend.md",
+    "golang http fundementals cookies, sessions, and context.md",
+    "wendys testimonial.md",
+    "handle logout.md",
     "handle page nav.md",
     "presentations.md",
-    "golang http fundementals cookies, sessions, and context.md",
     "homepage eyebrow alt text.md",
     "session management sqlc/session management w context.md",
     "middleware kick to login.md",
     "modal video component.md",
-    "pacts user type validation.md",
     "prism_fusion.canvas",
     "schema_pact.canvas",
     "Excalidraw/pact_notes.excalidraw.md",
@@ -224,10 +228,6 @@
     "issue logging in.md",
     "registration sqlc.md",
     "reload sqlite3 database with schema file.md",
-    "refactor handlers pact.md",
-    "sqlc in pact.md",
-    "db_notes_pact.md",
-    "pact.md",
     "Pasted image 20241012090819.png",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",

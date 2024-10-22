@@ -7,3 +7,5 @@ request made via form, just their email, then that user sees request notificatio
 user can accept / deny a request. 
 
 see existing relationship, which can be 'broken'.
+
+randall mcfarlane: randall.mcfarlane@gmail.com : (614) 609 - 2601

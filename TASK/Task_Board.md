@@ -87,6 +87,11 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[email randal]]
+- [ ] [[add leaders to tcc excel]]
+	#devops
+- [ ] [[wendys testimonial]]
+	#work
 - [ ] [[handle logout]]
 	#pact
 - [ ] [[homepage eyebrow alt text]]
@@ -95,8 +100,6 @@ kanban-plugin: board
 	#work
 - [ ] [[navbar swap]]
 	#pact
-- [ ] [[wendys testimonial]]
-	#work
 
 
 ## COMPLETE
