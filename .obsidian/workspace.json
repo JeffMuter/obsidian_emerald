@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "add friend.md",
+                "file": "golang http fundementals cookies, sessions, and context.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,6 +49,14 @@
                   ]
                 }
               }
+            }
+          },
+          {
+            "id": "6845e7b3caa32547",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -191,13 +199,14 @@
   },
   "active": "bc8da156aad31703",
   "lastOpenFiles": [
-    "email randal.md",
+    "nwas terms 2025.md",
     "TASK/Task_Board.md",
-    "add leaders to tcc excel.md",
-    "pacts user type validation.md",
-    "add friend.md",
-    "golang http fundementals cookies, sessions, and context.md",
     "wendys testimonial.md",
+    "golang http fundementals cookies, sessions, and context.md",
+    "add friend.md",
+    "pacts user type validation.md",
+    "add leaders to tcc excel.md",
+    "email randal.md",
     "handle logout.md",
     "handle page nav.md",
     "presentations.md",
@@ -227,7 +236,6 @@
     "registration_200_bug.md",
     "issue logging in.md",
     "registration sqlc.md",
-    "reload sqlite3 database with schema file.md",
     "Pasted image 20241012090819.png",
     "boise",
     "Projects/Prism/prism_rdb_canvas.canvas",

@@ -27,8 +27,6 @@ kanban-plugin: board
 	#pact
 - [ ] [[registration_200_bug]]
 	#pact
-- [ ] [[backup configs]]
-	#work
 - [ ] [[schedule some content]]
 	#work
 - [ ] [[add friend]]
@@ -87,23 +85,27 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[email randal]]
-- [ ] [[add leaders to tcc excel]]
-	#devops
-- [ ] [[wendys testimonial]]
-	#work
-- [ ] [[handle logout]]
-	#pact
-- [ ] [[homepage eyebrow alt text]]
+- [ ] [[nwas terms 2025]]
 	#work
 - [ ] [[modal video component]]
 	#work
+- [ ] [[homepage eyebrow alt text]]
+	#work
+- [ ] [[wendys testimonial]]
+	#work
+- [ ] [[email randal]]
+- [ ] [[add leaders to tcc excel]]
+	#devops
+- [ ] [[handle logout]]
+	#pact
 - [ ] [[navbar swap]]
 	#pact
 
 
 ## COMPLETE
 
+- [ ] [[backup configs]]
+	#work
 - [ ] [[handle page nav]]
 	#pact
 - [ ] [[session management w context]]
