@@ -83,7 +83,6 @@ kanban-plugin: board
 
 ## ACTIVE
 
-- [ ] [[polar-theme issue]]
 - [ ] [[cursor issues]]
 - [ ] [[nwas terms 2025]]
 	#work
@@ -106,6 +105,7 @@ kanban-plugin: board
 
 ## COMPLETE
 
+- [ ] [[polar-theme issue]]
 - [ ] [[backup configs]]
 	#work
 - [ ] [[handle page nav]]
