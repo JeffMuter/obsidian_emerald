@@ -1,0 +1,1 @@
+getting a warning when opening nvim. i think its a problem with the init.lua was of grabbing it. it's working, but i dont want a warning every time we open nvim

@@ -27,8 +27,6 @@ kanban-plugin: board
 	#pact
 - [ ] [[registration_200_bug]]
 	#pact
-- [ ] [[schedule some content]]
-	#work
 - [ ] [[add friend]]
 	#pact
 - [ ] [[test registration]]
@@ -85,13 +83,17 @@ kanban-plugin: board
 
 ## ACTIVE
 
+- [ ] [[polar-theme issue]]
+- [ ] [[cursor issues]]
 - [ ] [[nwas terms 2025]]
+	#work
+- [ ] [[wendys testimonial]]
 	#work
 - [ ] [[modal video component]]
 	#work
 - [ ] [[homepage eyebrow alt text]]
 	#work
-- [ ] [[wendys testimonial]]
+- [ ] [[schedule some content]]
 	#work
 - [ ] [[email randal]]
 - [ ] [[add leaders to tcc excel]]
